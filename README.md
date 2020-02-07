@@ -61,6 +61,8 @@ My works related to Visual Studio Code.
 
 <a name="editor"></a>
 ## 4. Text Editors.
+1 - Vim <br />
+2 - Visual Studio Code <br />
 
 <a name="os"></a>
 ## 5. Operating Systems.

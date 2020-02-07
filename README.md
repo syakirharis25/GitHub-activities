@@ -66,6 +66,11 @@ My works related to Visual Studio Code.
 
 <a name="os"></a>
 ## 5. Operating Systems.
+1 - Microsoft | Windows 10
+2 - Linux | Kali
+3 - Linux | Ubuntu
+4 - Linux | Debian
+5 - Linux | Parrot
 
 <a name="frameworks"></a>
 ## 6. Frameworks.

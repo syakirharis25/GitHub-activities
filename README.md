@@ -1,4 +1,6 @@
 # Current worldwide rank : #121 as of 8 February 2020
+## Total topics : 11
+## Total sub topics : 51
 
 ## Table of Contents
 1. [Regions.](#region)

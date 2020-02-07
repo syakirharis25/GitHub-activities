@@ -10,8 +10,13 @@ My works related to Visual Studio Code.
 3. [Databases.](#database)
 4. [Text Editors.](#editor)
 5. [Operating Systems.](#os)
-6. [Frameworks.](#frameworks)
-7. [GitHub notes.](#github)
+6. [Frameworks.](#framework)
+7. [Interfaces.](#interface)
+8. [Web Browsers.](#browser)
+9. [Library.](#library)
+10. [Environment](#environment)
+11. [Version Control System](#version)
+12. [GitHub notes.](#github)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -72,7 +77,7 @@ My works related to Visual Studio Code.
 4 - Linux | Debian <br />
 5 - Linux | Parrot <br />
 
-<a name="frameworks"></a>
+<a name="framework"></a>
 ## 6. Frameworks.
 1 - Bootstrap <br />
 2 - Drupal <br />

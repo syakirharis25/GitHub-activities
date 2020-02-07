@@ -1,0 +1,5 @@
+1 - Microsoft | Windows 10
+2 - Linux | Kali
+3 - Linux | Ubuntu
+4 - Linux | Debian
+5 - Linux | Parrot

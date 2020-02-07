@@ -16,31 +16,31 @@ My works related to Visual Studio Code.
 <a name="region"></a>
 ## 1. Regions.
 
-1 - Angola
-2 - Benin
-3 - Bolivia
-4 - Burkina Faso
-5 - Burundi
-6 - Cambodia
-7 - Chad
-8 - Ethiopia
-9 - Guinea
-10 - Haiti
-11 - Honduras
-12 - Ivory Coast
-13 - Malawi
-14 - Mozambique
-15 - Niger
-16 - Senegal
-17 - Sierra Leone
-18 - Somalia
-19 - South Sudan
-20 - Sudan
-21 - Tajikistan
-22 - Togo
-23 - Uzbekistan
-24 - Yemen
-25 - Zimbabwe
+1 - Angola <br />
+2 - Benin <br />
+3 - Bolivia <br />
+4 - Burkina Faso <br />
+5 - Burundi <br />
+6 - Cambodia <br />
+7 - Chad <br />
+8 - Ethiopia <br />
+9 - Guinea <br />
+10 - Haiti <br />
+11 - Honduras <br />
+12 - Ivory Coast <br />
+13 - Malawi <br />
+14 - Mozambique <br />
+15 - Niger <br />
+16 - Senegal <br />
+17 - Sierra Leone <br />
+18 - Somalia <br />
+19 - South Sudan <br />
+20 - Sudan <br />
+21 - Tajikistan <br />
+22 - Togo <br />
+23 - Uzbekistan <br />
+24 - Yemen <br />
+25 - Zimbabwe <br />
 
 <a name="language"></a>
 ## 2. Languages.

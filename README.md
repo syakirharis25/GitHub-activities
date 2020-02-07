@@ -1,4 +1,4 @@
-# Current worldwide rank : #121 as for 8 February 2020
+# Current worldwide rank : #121 as of 8 February 2020
 
 ## Table of Contents
 1. [Regions.](#region)
@@ -77,6 +77,18 @@
 ## 6. Frameworks.
 1 - Bootstrap <br />
 2 - Drupal <br />
+
+<a name="interface"></a>
+## 7. Interfaces.
+1 - Programming Interface (API)
+
+<a name="browser"></a>
+## 8. Web Browsers.
+1- Google Chrome
+
+<a name="interface"></a>
+## 9. Library.
+1 - jQuery
 
 <a name="github"></a>
 ## 12. GitHub notes.

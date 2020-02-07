@@ -1,4 +1,4 @@
-# Current worldwide rank : #121 as of 8 February 2020
+# Current worldwide rank : #119 as of 8 February 2020
 ## Total topics : 11
 ## Total sub topics : 51
 

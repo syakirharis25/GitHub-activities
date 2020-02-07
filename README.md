@@ -1,9 +1,6 @@
 # GitHub-activities
 Activities counter for all my works in GitHub.
 
-# Visual-Studio-Code
-My works related to Visual Studio Code.
-
 ## Table of Contents
 1. [Regions.](#region)
 2. [Languages.](#language)

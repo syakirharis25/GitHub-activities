@@ -15,7 +15,6 @@ My works related to Visual Studio Code.
 
 <a name="region"></a>
 ## 1. Regions.
-
 1 - Angola <br />
 2 - Benin <br />
 3 - Bolivia <br />
@@ -44,6 +43,17 @@ My works related to Visual Studio Code.
 
 <a name="language"></a>
 ## 2. Languages.
+1 - C++ <br />
+2 - PHP <br />
+3 - JavaScript <br />
+4 - HTML <br />
+5 - CSS <br />
+6 - Sass <br />
+7 - Caml <br />
+8 - OCaml <br />
+9 - Rust <br />
+10 - Python <br />
+11 - Java <br />
 
 <a name="database"></a>
 ## 3. Databases.

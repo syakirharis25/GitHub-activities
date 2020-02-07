@@ -1,7 +1,7 @@
 # GitHub-activities
 Activities counter for all my works in GitHub.
 
-# Current worldwide rank : #121
+# Current worldwide rank : #121 as for 8 February 2020
 
 ## Table of Contents
 1. [Regions.](#region)

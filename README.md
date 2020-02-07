@@ -79,7 +79,7 @@
 2 - Drupal <br />
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 12. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git

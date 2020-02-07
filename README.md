@@ -1,6 +1,8 @@
 # GitHub-activities
 Activities counter for all my works in GitHub.
 
+# Current worldwide rank : 121
+
 ## Table of Contents
 1. [Regions.](#region)
 2. [Languages.](#language)
@@ -42,8 +44,6 @@ Activities counter for all my works in GitHub.
 23 - Uzbekistan <br />
 24 - Yemen <br />
 25 - Zimbabwe <br />
-
-# Current worldwide rank : 121
 
 <a name="language"></a>
 ## 2. Languages.

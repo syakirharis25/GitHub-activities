@@ -66,11 +66,11 @@ My works related to Visual Studio Code.
 
 <a name="os"></a>
 ## 5. Operating Systems.
-1 - Microsoft | Windows 10
-2 - Linux | Kali
-3 - Linux | Ubuntu
-4 - Linux | Debian
-5 - Linux | Parrot
+1 - Microsoft | Windows 10 <br />
+2 - Linux | Kali <br />
+3 - Linux | Ubuntu <br />
+4 - Linux | Debian <br />
+5 - Linux | Parrot <br />
 
 <a name="frameworks"></a>
 ## 6. Frameworks.

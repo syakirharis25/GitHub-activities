@@ -46,6 +46,8 @@ My works related to Visual Studio Code.
 24 - Yemen <br />
 25 - Zimbabwe <br />
 
+Current worldwide rank : 121
+
 <a name="language"></a>
 ## 2. Languages.
 1 - C++ <br />

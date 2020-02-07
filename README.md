@@ -43,17 +43,17 @@ My works related to Visual Studio Code.
 
 <a name="language"></a>
 ## 2. Languages.
-1 - C++
-2 - PHP
-3 - JavaScript
-4 - HTML
-5 - CSS
-6 - Sass
-7 - Caml
-8 - OCaml
-9 - Rust
-10 - Python
-11 - Java
+1 - C++ <br />
+2 - PHP <br />
+3 - JavaScript <br />
+4 - HTML <br />
+5 - CSS <br />
+6 - Sass <br />
+7 - Caml <br />
+8 - OCaml <br />
+9 - Rust <br />
+10 - Python <br />
+11 - Java <br />
 
 <a name="database"></a>
 ## 3. Databases.

@@ -1,5 +1,5 @@
 # Current worldwide rank : #73 as of 8 February 2020
-## Total topics : 11
+## Total topics : 15
 ## Total sub topics : 51
 ## Total commits in GitHub : 1,828
 ## Total commits year 2020 : 1,202
@@ -11,17 +11,21 @@
 
 ## Table of Contents
 1. [Regions.](#region)
-2. [Languages.](#language)
-3. [Databases.](#database)
-4. [Text Editors.](#editor)
-5. [Operating Systems.](#os)
-6. [Frameworks.](#framework)
-7. [Interfaces.](#interface)
-8. [Web Browsers.](#browser)
-9. [Library.](#library)
-10. [Environment.](#environment)
-11. [Version Control System.](#version)
-12. [GitHub notes.](#github)
+2. [Africa.](#africa)
+3. [America.](#america)
+4. [Asia.](#asia)
+5. [Europe.](#europe)
+6. [Languages.](#language)
+7. [Databases.](#database)
+8. [Text Editors.](#editor)
+9. [Operating Systems.](#os)
+10. [Frameworks.](#framework)
+11. [Interfaces.](#interface)
+12. [Web Browsers.](#browser)
+13. [Library.](#library)
+14. [Environment.](#environment)
+15. [Version Control System.](#version)
+16. [GitHub notes.](#github)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -61,8 +65,20 @@
 34 - Yemen [ASIA] <br />
 35 - Zimbabwe [AFRICA] <br />
 
+<a name="africa"></a>
+## 2. Africa.
+
+<a name="america"></a>
+## 3. America.
+
+<a name="asia"></a>
+## 4. Asia.
+
+<a name="europe"></a>
+## 5. Europe.
+
 <a name="language"></a>
-## 2. Languages.
+## 3. Languages.
 1 - C++ <br />
 2 - PHP <br />
 3 - JavaScript <br />

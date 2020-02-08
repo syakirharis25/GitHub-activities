@@ -1,27 +1,35 @@
-1 - Angola
-2 - Benin
-3 - Bolivia
-4 - Burkina Faso
-5 - Burundi
-6 - Cambodia
-7 - Chad
-8 - Ethiopia
-9 - Guinea
-10 - Haiti
-11 - Honduras
-12 - Ivory Coast
-13 - Malawi
-14 - Mozambique
-15 - Niger
-16 - Senegal
-17 - Sierra Leone
-18 - Somalia
-19 - South Sudan
-20 - Sudan
-21 - Tajikistan
-22 - Togo
-23 - Uzbekistan
-24 - Yemen
-25 - Zimbabwe
-
-Next - 2
+1 - Albania <br />
+2 - Angola <br />
+3 - Benin <br />
+4 - Bolivia <br />
+5 - Burkina Faso <br />
+6 - Burundi <br />
+7 - Cambodia <br />
+8 - Chad <br />
+9 - Congo <br />
+10 - Egypt <br />
+11 - Ethiopia <br />
+12 - Ghana <br />
+13 - Guinea <br />
+14 - Haiti <br />
+15 - Honduras <br />
+16 - Ivory Coast <br />
+17 - Jordan <br />
+18 - Kazakhstan <br />
+19 - Malawi <br />
+20 - Mali <br />
+21 - Morocco <br />
+22 - Mozambique <br />
+23 - Niger <br />
+24 - Saudi Arabia <br />
+25 - Senegal <br />
+26 - Sierra Leone <br />
+27 - Somalia <br />
+28 - South Sudan <br />
+29 - Sudan <br />
+30 - Syria <br />
+31 - Tajikistan <br />
+32 - Togo <br />
+33 - Uzbekistan <br />
+34 - Yemen <br />
+35 - Zimbabwe <br />

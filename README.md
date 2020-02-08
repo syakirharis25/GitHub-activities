@@ -37,33 +37,25 @@
 6 - Burundi [AFRICA] <br />
 7 - Cambodia [ASIA] <br />
 8 - Chad [AFRICA] <br />
-9 - Congo [AFRICA] <br />
-10 - Egypt [AFRICA] <br />
-11 - Ethiopia [AFRICA] <br />
-12 - Ghana [AFRICA] <br />
-13 - Guinea [AFRICA] <br />
-14 - Haiti [AMERICA] <br />
-15 - Honduras [AMERICA] <br />
-16 - Ivory Coast [AFRICA] <br />
-17 - Jordan [ASIA] <br />
-18 - Kazakhstan [ASIA] <br />
-19 - Malawi [AFRICA] <br />
-20 - Mali [AFRICA] <br />
-21 - Morocco [AFRICA] <br />
-22 - Mozambique [AFRICA] <br />
-23 - Niger [AFRICA] <br />
-24 - Saudi Arabia [ASIA] <br />
-25 - Senegal [AFRICA] <br />
-26 - Sierra Leone [AFRICA] <br />
-27 - Somalia [AFRICA] <br />
-28 - South Sudan [AFRICA] <br />
-29 - Sudan [AFRICA] <br />
-30 - Syria [ASIA] <br />
-31 - Tajikistan [ASIA] <br />
-32 - Togo [AFRICA] <br />
-33 - Uzbekistan [ASIA] <br />
-34 - Yemen [ASIA] <br />
-35 - Zimbabwe [AFRICA] <br />
+9 - Ethiopia [AFRICA] <br />
+10 - Guinea [AFRICA] <br />
+11 - Haiti [AMERICA] <br />
+12 - Honduras [AMERICA] <br />
+13 - Ivory Coast [AFRICA] <br />
+14 - Malawi [AFRICA] <br />
+15 - Mali [AFRICA] <br />
+16 - Mozambique [AFRICA] <br />
+17 - Niger [AFRICA] <br />
+18 - Senegal [AFRICA] <br />
+19 - Sierra Leone [AFRICA] <br />
+20 - Somalia [AFRICA] <br />
+21 - South Sudan [AFRICA] <br />
+22 - Sudan [AFRICA] <br />
+23 - Tajikistan [ASIA] <br />
+24 - Togo [AFRICA] <br />
+25 - Uzbekistan [ASIA] <br />
+26 - Yemen [ASIA] <br />
+27 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa.

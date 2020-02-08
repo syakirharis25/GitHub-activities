@@ -88,12 +88,12 @@
 
 <a name="asia"></a>
 ## 4. Asia.
-1 - Cambodia
-2 - Jordan
-3 - Syria
-4 - Tajikistan
-5 - Uzbekistan
-6 - Yemen
+1 - Cambodia <br />
+2 - Jordan <br />
+3 - Syria <br />
+4 - Tajikistan <br />
+5 - Uzbekistan <br />
+6 - Yemen <br />
 
 <a name="europe"></a>
 ## 5. Europe.

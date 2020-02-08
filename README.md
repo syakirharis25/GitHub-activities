@@ -90,6 +90,9 @@
 
 <a name="america"></a>
 ## 3. America.
+1 - Bolivia <br />
+2 - Haiti <br />
+3 - Honduras <br />
 
 <a name="asia"></a>
 ## 4. Asia.

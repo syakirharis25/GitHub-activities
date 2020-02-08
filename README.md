@@ -86,13 +86,9 @@
 <a name="asia"></a>
 ## 4. Asia.
 1 - Cambodia <br />
-2 - Jordan <br />
-3 - Kazakhstan <br />
-4 - Saudi Arabia <br />
-5 - Syria <br />
-6 - Tajikistan <br />
-7 - Uzbekistan <br />
-8 - Yemen <br />
+2 - Tajikistan <br />
+3 - Uzbekistan <br />
+4 - Yemen <br />
 
 <a name="europe"></a>
 ## 5. Europe.

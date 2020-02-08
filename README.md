@@ -25,31 +25,41 @@
 
 <a name="region"></a>
 ## 1. Regions.
-1 - Angola <br />
-2 - Benin <br />
-3 - Bolivia <br />
-4 - Burkina Faso <br />
-5 - Burundi <br />
-6 - Cambodia <br />
-7 - Chad <br />
-8 - Ethiopia <br />
-9 - Guinea <br />
-10 - Haiti <br />
-11 - Honduras <br />
-12 - Ivory Coast <br />
-13 - Malawi <br />
-14 - Mozambique <br />
-15 - Niger <br />
-16 - Senegal <br />
-17 - Sierra Leone <br />
-18 - Somalia <br />
-19 - South Sudan <br />
-20 - Sudan <br />
-21 - Tajikistan <br />
-22 - Togo <br />
-23 - Uzbekistan <br />
-24 - Yemen <br />
-25 - Zimbabwe <br />
+1 - Albania <br />
+2 - Angola <br />
+3 - Benin <br />
+4 - Bolivia <br />
+5 - Burkina Faso <br />
+6 - Burundi <br />
+7 - Cambodia <br />
+8 - Chad <br />
+9 - Congo <br />
+10 - Egypt <br />
+11 - Ethiopia <br />
+12 - Ghana <br />
+13 - Guinea <br />
+14 - Haiti <br />
+15 - Honduras <br />
+16 - Ivory Coast <br />
+17 - Jordan <br />
+18 - Kazakhstan <br />
+19 - Malawi <br />
+20 - Mali <br />
+21 - Morocco <br />
+22 - Mozambique <br />
+23 - Niger <br />
+24 - Saudi Arabia <br />
+25 - Senegal <br />
+26 - Sierra Leone <br />
+27 - Somalia <br />
+28 - South Sudan <br />
+29 - Sudan <br />
+30 - Syria <br />
+31 - Tajikistan <br />
+32 - Togo <br />
+33 - Uzbekistan <br />
+34 - Yemen <br />
+35 - Zimbabwe <br />
 
 <a name="language"></a>
 ## 2. Languages.

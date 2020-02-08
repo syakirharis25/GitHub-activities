@@ -6,6 +6,7 @@
 ## Total commits year 2019 : 396
 ## Total commits year 2018 : 0
 ## Total commits year 2017 : 230
+## Total regions : 29 = Africa : 17 | America : 3 | Asia : 6 | Europe : 1
 
 <br /><br />
 
@@ -42,20 +43,22 @@
 11 - Haiti [AMERICA] <br />
 12 - Honduras [AMERICA] <br />
 13 - Ivory Coast [AFRICA] <br />
-14 - Malawi [AFRICA] <br />
-15 - Mali [AFRICA] <br />
-16 - Mozambique [AFRICA] <br />
-17 - Niger [AFRICA] <br />
-18 - Senegal [AFRICA] <br />
-19 - Sierra Leone [AFRICA] <br />
-20 - Somalia [AFRICA] <br />
-21 - South Sudan [AFRICA] <br />
-22 - Sudan [AFRICA] <br />
-23 - Tajikistan [ASIA] <br />
-24 - Togo [AFRICA] <br />
-25 - Uzbekistan [ASIA] <br />
-26 - Yemen [ASIA] <br />
-27 - Zimbabwe [AFRICA] <br />
+14 - Jordan [ASIA] <br />
+15 - Malawi [AFRICA] <br />
+16 - Mali [AFRICA] <br />
+17 - Mozambique [AFRICA] <br />
+18 - Niger [AFRICA] <br />
+19 - Senegal [AFRICA] <br />
+20 - Sierra Leone [AFRICA] <br />
+21 - Somalia [AFRICA] <br />
+22 - South Sudan [AFRICA] <br />
+23 - Sudan [AFRICA] <br />
+24 - Syria [ASIA] <br />
+25 - Tajikistan [ASIA] <br />
+26 - Togo [AFRICA] <br />
+27 - Uzbekistan [ASIA] <br />
+28 - Yemen [ASIA] <br />
+29 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa.
@@ -85,10 +88,12 @@
 
 <a name="asia"></a>
 ## 4. Asia.
-1 - Cambodia <br />
-2 - Tajikistan <br />
-3 - Uzbekistan <br />
-4 - Yemen <br />
+1 - Cambodia
+2 - Jordan
+3 - Syria
+4 - Tajikistan
+5 - Uzbekistan
+6 - Yemen
 
 <a name="europe"></a>
 ## 5. Europe.

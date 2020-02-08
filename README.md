@@ -44,7 +44,7 @@
 17 - Jordan [ASIA] <br />
 18 - Kazakhstan [ASIA] <br />
 19 - Malawi [AFRICA] <br />
-20 - Mali [MALI] <br />
+20 - Mali [AFRICA] <br />
 21 - Morocco [AFRICA] <br />
 22 - Mozambique [AFRICA] <br />
 23 - Niger [AFRICA] <br />

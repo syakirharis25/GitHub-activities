@@ -60,25 +60,22 @@
 <a name="africa"></a>
 ## 2. Africa.
 1 - Angola <br />
-2 -Benin <br />
+2 - Benin <br />
 3 - Burkina Faso <br />
 4 - Burundi <br />
 5 - Chad <br />
-6 - Congo <br />
-7 - Egypt <br />
-8 - Ethiopia <br />
-9 - Ghana <br />
-10 - Guinea <br />
-11 - Ivory Coast <br />
-12 - Malawi <br />
-13 - Mali <br />
-14 - Morocco <br />
-15 - Mozambique <br />
-16 - Niger <br />
-17 - Senegal <br />
-18 - Sudan <br />
-19 - Togo <br />
-20 - Zimbabwe <br />
+6 - Ethiopia <br />
+7 - Guinea <br />
+8 - Ivory Coast <br />
+9 - Malawi <br />
+10 - Mali <br />
+11 - Mozambique <br />
+12 - Niger <br />
+13 - Senegal <br />
+14 - South Sudan <br />
+15 - Sudan <br />
+16 - Togo <br />
+17 - Zimbabwe <br />
 
 <a name="america"></a>
 ## 3. America.

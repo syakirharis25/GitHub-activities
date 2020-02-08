@@ -1,35 +1,29 @@
-1 - Albania <br />
-2 - Angola <br />
-3 - Benin <br />
-4 - Bolivia <br />
-5 - Burkina Faso <br />
-6 - Burundi <br />
-7 - Cambodia <br />
-8 - Chad <br />
-9 - Congo <br />
-10 - Egypt <br />
-11 - Ethiopia <br />
-12 - Ghana <br />
-13 - Guinea <br />
-14 - Haiti <br />
-15 - Honduras <br />
-16 - Ivory Coast <br />
-17 - Jordan <br />
-18 - Kazakhstan <br />
-19 - Malawi <br />
-20 - Mali <br />
-21 - Morocco <br />
-22 - Mozambique <br />
-23 - Niger <br />
-24 - Saudi Arabia <br />
-25 - Senegal <br />
-26 - Sierra Leone <br />
-27 - Somalia <br />
-28 - South Sudan <br />
-29 - Sudan <br />
-30 - Syria <br />
-31 - Tajikistan <br />
-32 - Togo <br />
-33 - Uzbekistan <br />
-34 - Yemen <br />
-35 - Zimbabwe <br />
+1,444
+
+1 - Albania [EUROPE] <br />
+2 - Angola [AFRICA] <br />
+3 - Benin [AFRICA] <br />
+4 - Bolivia [AMERICA] <br />
+5 - Burkina Faso [AFRICA] <br />
+6 - Burundi [AFRICA] <br />
+7 - Cambodia [ASIA] <br />
+8 - Chad [AFRICA] <br />
+9 - Ethiopia [AFRICA] <br />
+10 - Guinea [AFRICA] <br />
+11 - Haiti [AMERICA] <br />
+12 - Honduras [AMERICA] <br />
+13 - Ivory Coast [AFRICA] <br />
+14 - Malawi [AFRICA] <br />
+15 - Mali [AFRICA] <br />
+16 - Mozambique [AFRICA] <br />
+17 - Niger [AFRICA] <br />
+18 - Senegal [AFRICA] <br />
+19 - Sierra Leone [AFRICA] <br />
+20 - Somalia [AFRICA] <br />
+21 - South Sudan [AFRICA] <br />
+22 - Sudan [AFRICA] <br />
+23 - Tajikistan [ASIA] <br />
+24 - Togo [AFRICA] <br />
+25 - Uzbekistan [ASIA] <br />
+26 - Yemen [ASIA] <br />
+27 - Zimbabwe [AFRICA] <br />

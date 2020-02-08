@@ -1,0 +1,17 @@
+1 - Angola
+2 - Benin
+3 - Burkina Faso
+4 - Burundi
+5 - Chad
+6 - Ethiopia
+7 - Guinea
+8 - Ivory Coast
+9 - Malawi
+10 - Mali
+11 - Mozambique
+12 - Niger
+13 - Senegal
+14 - South Sudan
+15 - Sudan
+16 - Togo
+17 - Zimbabwe

@@ -1,12 +1,21 @@
 # Current worldwide rank : #88 as of 8 February 2020
-## Total topics : 15
-## Total sub topics : 51
-## Total commits in GitHub : 1,496
-## Total commits year 2020 : 870
-## Total commits year 2019 : 396
-## Total commits year 2018 : 0
-## Total commits year 2017 : 230
-## Total regions : 29 = Africa : 17 | America : 3 | Asia : 6 | Europe : 1
+## Total topic : 15
+## Total sub topic : 51
+## Total commit in GitHub : 1,496
+## Total commit year 2020 : 870
+## Total commit year 2019 : 396
+## Total commit year 2018 : 0
+## Total commit year 2017 : 230
+## Total region : 29 = Africa : 17 | America : 3 | Asia : 6 | Europe : 1
+## Total database : 1
+## Total text editor : 3
+## Total operating system : 5
+## Total framework : 2
+## Total interface : 2
+## Total web browser : 1
+## Total library : 1
+## Total environment : 1
+## Total Version control system : 1
 
 <br /><br />
 
@@ -121,6 +130,7 @@
 ## 8. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
+3 - Atom <br />
 
 <a name="os"></a>
 ## 9. Operating Systems.
@@ -138,6 +148,7 @@
 <a name="interface"></a>
 ## 11. Interfaces.
 1 - Programming Interface (API)
+2 - Insomnia
 
 <a name="browser"></a>
 ## 12. Web Browsers.

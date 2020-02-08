@@ -25,41 +25,41 @@
 
 <a name="region"></a>
 ## 1. Regions.
-1 - Albania <br />
-2 - Angola <br />
-3 - Benin <br />
-4 - Bolivia <br />
-5 - Burkina Faso <br />
-6 - Burundi <br />
-7 - Cambodia <br />
-8 - Chad <br />
-9 - Congo <br />
-10 - Egypt <br />
-11 - Ethiopia <br />
-12 - Ghana <br />
-13 - Guinea <br />
-14 - Haiti <br />
-15 - Honduras <br />
-16 - Ivory Coast <br />
-17 - Jordan <br />
-18 - Kazakhstan <br />
-19 - Malawi <br />
-20 - Mali <br />
-21 - Morocco <br />
-22 - Mozambique <br />
-23 - Niger <br />
-24 - Saudi Arabia <br />
-25 - Senegal <br />
-26 - Sierra Leone <br />
-27 - Somalia <br />
-28 - South Sudan <br />
-29 - Sudan <br />
-30 - Syria <br />
-31 - Tajikistan <br />
-32 - Togo <br />
-33 - Uzbekistan <br />
-34 - Yemen <br />
-35 - Zimbabwe <br />
+1 - Albania [EUROPE] <br />
+2 - Angola [AFRICA] <br />
+3 - Benin [AFRICA] <br />
+4 - Bolivia [AMERICA] <br />
+5 - Burkina Faso [AFRICA] <br />
+6 - Burundi [AFRICA] <br />
+7 - Cambodia [ASIA] <br />
+8 - Chad [AFRICA] <br />
+9 - Congo [AFRICA] <br />
+10 - Egypt [AFRICA] <br />
+11 - Ethiopia [AFRICA] <br />
+12 - Ghana [AFRICA] <br />
+13 - Guinea [AFRICA] <br />
+14 - Haiti [AMERICA] <br />
+15 - Honduras [AMERICA] <br />
+16 - Ivory Coast [AFRICA] <br />
+17 - Jordan [ASIA] <br />
+18 - Kazakhstan [ASIA] <br />
+19 - Malawi [AFRICA] <br />
+20 - Mali [MALI] <br />
+21 - Morocco [AFRICA] <br />
+22 - Mozambique [AFRICA] <br />
+23 - Niger [AFRICA] <br />
+24 - Saudi Arabia [ASIA] <br />
+25 - Senegal [AFRICA] <br />
+26 - Sierra Leone [AFRICA] <br />
+27 - Somalia [AFRICA] <br />
+28 - South Sudan [AFRICA] <br />
+29 - Sudan [AFRICA] <br />
+30 - Syria [ASIA] <br />
+31 - Tajikistan [ASIA] <br />
+32 - Togo [AFRICA] <br />
+33 - Uzbekistan [ASIA] <br />
+34 - Yemen [ASIA] <br />
+35 - Zimbabwe [AFRICA] <br />
 
 <a name="language"></a>
 ## 2. Languages.

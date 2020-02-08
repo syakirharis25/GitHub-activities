@@ -107,6 +107,7 @@
 
 <a name="europe"></a>
 ## 5. Europe.
+1 - Albania
 
 <a name="language"></a>
 ## 3. Languages.

@@ -7,6 +7,7 @@
 ## Total commits year 2017 : 230
 ## Total commits in GitHub : 1,825
 
+<br /><br />
 
 ## Table of Contents
 1. [Regions.](#region)

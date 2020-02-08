@@ -2,7 +2,7 @@
 ## Total topics : 15
 ## Total sub topics : 51
 ## Total commits in GitHub : 1,469
-## Total commits year 2020 : 843
+## Total commits year 2020 : 870
 ## Total commits year 2019 : 396
 ## Total commits year 2018 : 0
 ## Total commits year 2017 : 230

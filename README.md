@@ -1,5 +1,5 @@
 # Current worldwide rank : #85 as of 9 February 2020
-### Total topic : 16
+### Total topic : 17
 ### Total sub topic : 51
 ### Total commit in GitHub : 1,514
 ### Total commit year 2020 : 888
@@ -33,11 +33,12 @@
 10. [Frameworks.](#framework)
 11. [Interfaces.](#interface)
 12. [Web Browsers.](#browser)
-13. [Library.](#library)
-14. [Environment.](#environment)
-15. [Data Format.](#dataformat)
-16. [Version Control System.](#version)
-17. [GitHub notes.](#github)
+13. [Platform.](#platform)
+14. [Library.](#library)
+15. [Environment.](#environment)
+16. [Data Format.](#dataformat)
+17. [Version Control System.](#version)
+18. [GitHub notes.](#github)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -140,7 +141,7 @@
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
 4 - Linux | Debian <br />
-5 - Linux | Parrot <br />
+5 - Linux | Parrot OS <br />
 
 <a name="framework"></a>
 ## 10. Frameworks.
@@ -160,20 +161,24 @@
 ## 13. Library.
 1 - jQuery
 
+<a name="platform"></a>
+## 14. Platform.
+1 - Open source
+
 <a name="environment"></a>
-## 14. Environment.
+## 15. Environment.
 1 - Node.js
 
 <a name="dataformat"></a>
-## 15. Data Format.
+## 16. Data Format.
 1 - JSON
 
 <a name="version"></a>
-## 16. Version Control System.
+## 17. Version Control System.
 1 - Git
 
 <a name="github"></a>
-## 17. GitHub notes.
+## 18. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git

@@ -1,5 +1,5 @@
 # Current worldwide rank : #85 as of 9 February 2020
-### Total topic : 17
+### Total topic : 18
 ### Total sub topic : 51
 ### Total commit in GitHub : 1,548
 ### Total commit year 2020 : 922
@@ -35,10 +35,11 @@
 12. [Web Browsers.](#browser)
 13. [Platform.](#platform)
 14. [Library.](#library)
-15. [Environment.](#environment)
-16. [Data Format.](#dataformat)
-17. [Version Control System.](#version)
-18. [GitHub notes.](#github)
+15. [Technique.](#technique)
+16. [Environment.](#environment)
+17. [Data Format.](#dataformat)
+18. [Version Control System.](#version)
+19. [GitHub notes.](#github)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -165,20 +166,24 @@
 ## 14. Platform.
 1 - Open source
 
+<a name="region"></a>
+## 15.Technique.
+1- AJAX
+
 <a name="environment"></a>
-## 15. Environment.
+## 16. Environment.
 1 - Node.js
 
 <a name="dataformat"></a>
-## 16. Data Format.
+## 17. Data Format.
 1 - JSON
 
 <a name="version"></a>
-## 17. Version Control System.
+## 18. Version Control System.
 1 - Git
 
 <a name="github"></a>
-## 18. GitHub notes.
+## 19. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git

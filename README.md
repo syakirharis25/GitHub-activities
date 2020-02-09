@@ -1,22 +1,22 @@
 # Current worldwide rank : #88 as of 8 February 2020
-## Total topic : 16
-## Total sub topic : 51
-## Total commit in GitHub : 1,496
-## Total commit year 2020 : 870
-## Total commit year 2019 : 396
-## Total commit year 2018 : 0
-## Total commit year 2017 : 230
-## Total region : 29 = Africa : 17 | America : 3 | Asia : 6 | Europe : 1
-## Total database : 1
-## Total text editor : 3
-## Total operating system : 5
-## Total framework : 2
-## Total interface : 2
-## Total web browser : 1
-## Total library : 1
-## Total environment : 1
-## Total data format : 1
-## Total Version control system : 1
+### Total topic : 16
+### Total sub topic : 51
+### Total commit in GitHub : 1,496
+### Total commit year 2020 : 870
+### Total commit year 2019 : 396
+### Total commit year 2018 : 0
+### Total commit year 2017 : 230
+### Total region : 29 = Africa : 17 | America : 3 | Asia : 6 | Europe : 1
+### Total database : 1
+### Total text editor : 3
+### Total operating system : 5
+### Total framework : 2
+### Total interface : 2
+### Total web browser : 1
+### Total library : 1
+### Total environment : 1
+### Total data format : 1
+### Total Version control system : 1
 
 <br /><br />
 

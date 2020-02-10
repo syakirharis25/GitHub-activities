@@ -7,6 +7,7 @@
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
 ### Total region : 29 = Africa : 17 | America : 3 | Asia : 6 | Europe : 1
+### Total language : 14
 ### Total database : 1
 ### Total text editor : 3
 ### Total operating system : 5
@@ -127,6 +128,9 @@
 9 - Rust <br />
 10 - Python <br />
 11 - Java <br />
+12 - Latin <br />
+13 - Italian <br />
+14 - Spanish <br />
 
 <a name="database"></a>
 ## 7. Databases.

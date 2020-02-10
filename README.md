@@ -72,6 +72,7 @@
 27 - Uzbekistan [ASIA] <br />
 28 - Yemen [ASIA] <br />
 29 - Zimbabwe [AFRICA] <br />
+30 - Saudi Arabia [ASIA] <br />
 
 <a name="africa"></a>
 ## 2. Africa.
@@ -107,6 +108,7 @@
 4 - Tajikistan <br />
 5 - Uzbekistan <br />
 6 - Yemen <br />
+7 - Saudi Arabia <br />
 
 <a name="europe"></a>
 ## 5. Europe.

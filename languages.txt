@@ -1,11 +1,15 @@
-1 - C++
-2 - PHP
-3 - JavaScript
-4 - HTML
-5 - CSS
-6 - Sass
-7 - Caml
-8 - OCaml
-9 - Rust
-10 - Python
-11 - Java
+1 - C <br />
+2 - C++ <br />
+3 - Caml <br />
+4 - CSS <br />
+5 - HTML <br />
+6 - Java <br />
+7 - JavaScript <br />
+8 - OCaml <br />
+9 - PHP <br />
+10 - Python <br />
+11 - Rust <br />
+12 - Sass <br />
+13 - Latin <br />
+14 - Italian <br />
+15 - Spanish <br />

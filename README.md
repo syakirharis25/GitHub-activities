@@ -1,13 +1,13 @@
 # Current worldwide rank : #65 as of 13 February 2020
-### Total topic : 19
-### Total sub topic : 94
-### Total commit in GitHub : 1,745‬
-### Total commit year 2020 : 1,119
+### Total topic : 21
+### Total sub topic : 96
+### Total commit in GitHub : 1,757
+### Total commit year 2020 : 1,131
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
 ### Total region : 30 = Africa : 17 | America : 3 | Asia : 7 | Europe : 1
-### Total language : 15
+### Total language : 16
 ### Total database : 1
 ### Total text editor : 4
 ### Total operating system : 5
@@ -36,18 +36,14 @@
 12. [Library.](#library)
 13. [Mission.](#mission)
 14. [Operating Systems.](#os)
-
 15. [Package Manager.](#packagemanager)
-
-15. [Platform.](#platform)
-
-16. [Standard.](#standard)
-
-16. [Technique.](#technique)
-17. [Text Editors.](#editor)
-18. [Version Control System.](#version)
-19. [Web Browsers.](#browser)
-20. [GitHub notes.](#github)
+16. [Platform.](#platform)
+17. [Standard.](#standard)
+18. [Technique.](#technique)
+19. [Text Editors.](#editor)
+20. [Version Control System.](#version)
+21. [Web Browsers.](#browser)
+22. [GitHub notes.](#github)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -150,17 +146,18 @@
 2 - C++ <br />
 3 - Caml <br />
 4 - CSS <br />
-5 - HTML <br />
-6 - Java <br />
-7 - JavaScript <br />
-8 - OCaml <br />
-9 - PHP <br />
-10 - Python <br />
-11 - Rust <br />
-12 - Sass <br />
-13 - Latin <br />
-14 - Italian <br />
-15 - Spanish <br />
+5 - Go <br />
+6 - HTML <br />
+7 - Java <br />
+8 - JavaScript <br />
+9 - OCaml <br />
+10 - PHP <br />
+11 - Python <br />
+12 - Rust <br />
+13 - Sass <br />
+14 - Latin <br />
+15 - Italian <br />
+16 - Spanish <br />
 
 <a name="interface"></a>
 ## 12. Library.
@@ -178,31 +175,39 @@
 4 - Linux | Debian <br />
 5 - Linux | Parrot OS <br />
 
+<a name="packagemanager"></a>
+## 15. Package Manager.
+1 - npm <br />
+
 <a name="platform"></a>
-## 15. Platform.
+## 16. Platform.
 1 - Open source
 
+<a name="standard"></a>
+## 17. Standard.
+1 - WebAssembly <br />
+
 <a name="region"></a>
-## 16.Technique.
+## 18.Technique.
 1- AJAX
 
 <a name="editor"></a>
-## 17. Text Editors.
+## 19. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 18. Version Control System.
+## 20. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 19. Web Browsers.
+## 21. Web Browsers.
 1- Google Chrome
 
 <a name="github"></a>
-## 20. GitHub notes.
+## 22. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git

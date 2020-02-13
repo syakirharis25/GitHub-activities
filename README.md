@@ -9,7 +9,7 @@
 ### Total region : 30 = Africa : 17 | America : 3 | Asia : 7 | Europe : 1
 ### Total language : 15
 ### Total database : 1
-### Total text editor : 3
+### Total text editor : 4
 ### Total operating system : 5
 ### Total framework : 2
 ### Total interface : 2
@@ -142,6 +142,7 @@
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
+4 - Code::Blocks <br />
 
 <a name="os"></a>
 ## 9. Operating Systems.

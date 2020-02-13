@@ -43,7 +43,6 @@
 19. [Web Browsers.](#browser)
 20. [GitHub notes.](#github)
 
-
 <a name="region"></a>
 ## 1. Regions.
 1 - Albania [EUROPE] <br />

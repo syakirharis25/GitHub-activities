@@ -27,20 +27,22 @@
 3. [America.](#america)
 4. [Asia.](#asia)
 5. [Europe.](#europe)
-6. [Languages.](#language)
-7. [Databases.](#database)
-8. [Text Editors.](#editor)
-9. [Operating Systems.](#os)
-10. [Frameworks.](#framework)
-11. [Interfaces.](#interface)
-12. [Web Browsers.](#browser)
-13. [Platform.](#platform)
-14. [Library.](#library)
-15. [Technique.](#technique)
-16. [Environment.](#environment)
-17. [Data Format.](#dataformat)
+6. [Databases.](#database)
+7. [Data Format.](#dataformat)
+8. [Environment.](#environment)
+9. [Frameworks.](#framework)
+10. [Interfaces.](#interface)
+11. [Languages.](#language)
+12. [Library.](#library)
+13. [Mission.](#mission)
+14. [Operating Systems.](#os)
+15. [Platform.](#platform)
+16. [Technique.](#technique)
+17. [Text Editors.](#editor)
 18. [Version Control System.](#version)
-19. [GitHub notes.](#github)
+19. [Web Browsers.](#browser)
+20. [GitHub notes.](#github)
+
 
 <a name="region"></a>
 ## 1. Regions.
@@ -115,8 +117,30 @@
 ## 5. Europe.
 1 - Albania
 
+<a name="database"></a>
+## 6. Databases.
+1 - MySQL <br />
+
+<a name="dataformat"></a>
+## 7. Data Format.
+1 - JSON
+
+<a name="environment"></a>
+## 8. Environment.
+1 - Node.js
+
+<a name="framework"></a>
+## 9. Frameworks.
+1 - Bootstrap <br />
+2 - Drupal <br />
+
+<a name="interface"></a>
+## 10. Interfaces.
+1 - Programming Interface (API)
+2 - Insomnia
+
 <a name="language"></a>
-## 6. Languages.
+## 11. Languages.
 1 - C <br />
 2 - C++ <br />
 3 - Caml <br />
@@ -133,42 +157,17 @@
 14 - Italian <br />
 15 - Spanish <br />
 
-<a name="database"></a>
-## 7. Databases.
-1 - MySQL <br />
-
-<a name="editor"></a>
-## 8. Text Editors.
-1 - Vim <br />
-2 - Visual Studio Code <br />
-3 - Atom <br />
-4 - Code::Blocks <br />
+<a name="interface"></a>
+## 12. Library.
+1 - jQuery
 
 <a name="os"></a>
-## 9. Operating Systems.
+## 13. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
 4 - Linux | Debian <br />
 5 - Linux | Parrot OS <br />
-
-<a name="framework"></a>
-## 10. Frameworks.
-1 - Bootstrap <br />
-2 - Drupal <br />
-
-<a name="interface"></a>
-## 11. Interfaces.
-1 - Programming Interface (API)
-2 - Insomnia
-
-<a name="browser"></a>
-## 12. Web Browsers.
-1- Google Chrome
-
-<a name="interface"></a>
-## 13. Library.
-1 - jQuery
 
 <a name="platform"></a>
 ## 14. Platform.
@@ -178,17 +177,20 @@
 ## 15.Technique.
 1- AJAX
 
-<a name="environment"></a>
-## 16. Environment.
-1 - Node.js
-
-<a name="dataformat"></a>
-## 17. Data Format.
-1 - JSON
+<a name="editor"></a>
+## 16. Text Editors.
+1 - Vim <br />
+2 - Visual Studio Code <br />
+3 - Atom <br />
+4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 18. Version Control System.
+## 17. Version Control System.
 1 - Git
+
+<a name="browser"></a>
+## 18. Web Browsers.
+1- Google Chrome
 
 <a name="github"></a>
 ## 19. GitHub notes.

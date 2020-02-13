@@ -36,7 +36,13 @@
 12. [Library.](#library)
 13. [Mission.](#mission)
 14. [Operating Systems.](#os)
+
+15. [Package Manager.](#packagemanager)
+
 15. [Platform.](#platform)
+
+16. [Standard.](#standard)
+
 16. [Technique.](#technique)
 17. [Text Editors.](#editor)
 18. [Version Control System.](#version)

@@ -160,8 +160,12 @@
 ## 12. Library.
 1 - jQuery
 
+<a name="mission"></a>
+## 13. Mission.
+1 - workers
+
 <a name="os"></a>
-## 13. Operating Systems.
+## 14. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
@@ -169,30 +173,30 @@
 5 - Linux | Parrot OS <br />
 
 <a name="platform"></a>
-## 14. Platform.
+## 15. Platform.
 1 - Open source
 
 <a name="region"></a>
-## 15.Technique.
+## 16.Technique.
 1- AJAX
 
 <a name="editor"></a>
-## 16. Text Editors.
+## 17. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 17. Version Control System.
+## 18. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 18. Web Browsers.
+## 19. Web Browsers.
 1- Google Chrome
 
 <a name="github"></a>
-## 19. GitHub notes.
+## 20. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git

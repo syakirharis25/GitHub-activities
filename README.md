@@ -1,13 +1,13 @@
-# Current worldwide rank : #64 as of 13 February 2020
+# Current worldwide rank : #63 as of 13 February 2020
 ### Total topic : 21
 ### Total sub topic : 96
-### Total commit in GitHub : 1,804‬
-### Total commit year 2020 : 1,178
+### Total commit in GitHub : 1,818
+### Total commit year 2020 : 1,192
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
 ### Total region : 30 = Africa : 17 | America : 3 | Asia : 7 | Europe : 1
-### Total language : 16
+### Total language : 17
 ### Total database : 1
 ### Total text editor : 4
 ### Total operating system : 5
@@ -158,6 +158,7 @@
 14 - Latin <br />
 15 - Italian <br />
 16 - Spanish <br />
+17 - British English <br />
 
 <a name="interface"></a>
 ## 12. Library.
@@ -189,7 +190,7 @@
 
 <a name="region"></a>
 ## 18.Technique.
-1- AJAX
+1 - AJAX
 
 <a name="editor"></a>
 ## 19. Text Editors.
@@ -204,7 +205,7 @@
 
 <a name="browser"></a>
 ## 21. Web Browsers.
-1- Google Chrome
+1 - Google Chrome
 
 <a name="github"></a>
 ## 22. GitHub notes.

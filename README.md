@@ -1,8 +1,8 @@
 # Current worldwide rank : #63 as of 15 February 2020
-### Total topic : 21
-### Total sub topic : 96
-### Total commit in GitHub : 1,864‬
-### Total commit year 2020 : 1,238
+### Total topic : 22
+### Total sub topic : 97
+### Total commit in GitHub : 1,905‬
+### Total commit year 2020 : 1,279
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -38,12 +38,13 @@
 14. [Operating Systems.](#os)
 15. [Package Manager.](#packagemanager)
 16. [Platform.](#platform)
-17. [Standard.](#standard)
-18. [Technique.](#technique)
-19. [Text Editors.](#editor)
-20. [Version Control System.](#version)
-21. [Web Browsers.](#browser)
-22. [GitHub notes.](#github)
+17. [Protocol.](#protocol)
+18. [Standard.](#standard)
+19. [Technique.](#technique)
+20. [Text Editors.](#editor)
+21. [Version Control System.](#version)
+22. [Web Browsers.](#browser)
+23. [GitHub notes.](#github)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -184,31 +185,35 @@
 ## 16. Platform.
 1 - Open source
 
+<a name="protocol"></a>
+## 17. Protocol.
+1 - Hypertext Transfer Protocol (HTTP)
+
 <a name="standard"></a>
-## 17. Standard.
+## 18. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 18.Technique.
+## 19.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 19. Text Editors.
+## 20. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 20. Version Control System.
+## 21. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 21. Web Browsers.
+## 22. Web Browsers.
 1 - Google Chrome
 
 <a name="github"></a>
-## 22. GitHub notes.
+## 23. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git

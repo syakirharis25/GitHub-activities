@@ -1,8 +1,8 @@
-# Current worldwide rank : #63 as of 15 February 2020
-### Total topic : 22
-### Total sub topic : 97
-### Total commit in GitHub : 1,905‬
-### Total commit year 2020 : 1,279
+# Current worldwide rank : #60 as of 16 February 2020
+### Total topic : 24
+### Total sub topic : 101
+### Total commit in GitHub : 1,944‬‬
+### Total commit year 2020 : 1,318
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -27,24 +27,27 @@
 3. [America.](#america)
 4. [Asia.](#asia)
 5. [Europe.](#europe)
-6. [Databases.](#database)
-7. [Data Format.](#dataformat)
-8. [Environment.](#environment)
-9. [Frameworks.](#framework)
-10. [Interfaces.](#interface)
-11. [Languages.](#language)
-12. [Library.](#library)
-13. [Mission.](#mission)
-14. [Operating Systems.](#os)
-15. [Package Manager.](#packagemanager)
-16. [Platform.](#platform)
-17. [Protocol.](#protocol)
-18. [Standard.](#standard)
-19. [Technique.](#technique)
-20. [Text Editors.](#editor)
-21. [Version Control System.](#version)
-22. [Web Browsers.](#browser)
-23. [GitHub notes.](#github)
+6. [Compilers.](#compiler)
+7. [Databases.](#database)
+8. [Data Format.](#dataformat)
+9. [Environment.](#environment)
+10. [Frameworks.](#framework)
+11. [Integrated development environment.](#IDE)
+
+12. [Interfaces.](#interface)
+13. [Languages.](#language)
+14. [Library.](#library)
+15. [Mission.](#mission)
+16. [Operating Systems.](#os)
+17. [Package Manager.](#packagemanager)
+18. [Platform.](#platform)
+19. [Protocol.](#protocol)
+20. [Standard.](#standard)
+21. [Technique.](#technique)
+22. [Text Editors.](#editor)
+23. [Version Control System.](#version)
+24. [Web Browsers.](#browser)
+25. [GitHub notes.](#github)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -119,30 +122,41 @@
 ## 5. Europe.
 1 - Albania
 
+<a name="compiler"></a>
+## 6. Compilers.
+1 - Free Pascal
+2 - rustc
+3 - ocamlc
+4 - ocamlopt
+
 <a name="database"></a>
-## 6. Databases.
+## 7. Databases.
 1 - MySQL <br />
 
 <a name="dataformat"></a>
-## 7. Data Format.
+## 8. Data Format.
 1 - JSON
 
 <a name="environment"></a>
-## 8. Environment.
+## 9. Environment.
 1 - Node.js
 
 <a name="framework"></a>
-## 9. Frameworks.
+## 10. Frameworks.
 1 - Bootstrap <br />
 2 - Drupal <br />
 
+<a name="IDE"></a>
+## 11. Integrated development environment.
+1 - Lazarus
+
 <a name="interface"></a>
-## 10. Interfaces.
+## 12. Interfaces.
 1 - Programming Interface (API)
 2 - Insomnia
 
 <a name="language"></a>
-## 11. Languages.
+## 13. Languages.
 1 - C <br />
 2 - C++ <br />
 3 - Caml <br />
@@ -162,15 +176,15 @@
 17 - British English <br />
 
 <a name="interface"></a>
-## 12. Library.
+## 14. Library.
 1 - jQuery
 
 <a name="mission"></a>
-## 13. Mission.
+## 15. Mission.
 1 - workers
 
 <a name="os"></a>
-## 14. Operating Systems.
+## 16. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
@@ -178,42 +192,42 @@
 5 - Linux | Parrot OS <br />
 
 <a name="packagemanager"></a>
-## 15. Package Manager.
+## 17. Package Manager.
 1 - npm <br />
 
 <a name="platform"></a>
-## 16. Platform.
+## 18. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 17. Protocol.
+## 19. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="standard"></a>
-## 18. Standard.
+## 20. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 19.Technique.
+## 21.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 20. Text Editors.
+## 22. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 21. Version Control System.
+## 23. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 22. Web Browsers.
+## 24. Web Browsers.
 1 - Google Chrome
 
 <a name="github"></a>
-## 23. GitHub notes.
+## 25. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git

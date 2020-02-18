@@ -1,8 +1,8 @@
 # Current worldwide rank : #62 as of 16 February 2020
 ### Total topic : 24
 ### Total sub topic : 102
-### Total commit in GitHub : 1,977‬
-### Total commit year 2020 : 1,351
+### Total commit in GitHub : 1,994
+### Total commit year 2020 : 1,368 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230

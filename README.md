@@ -6,7 +6,7 @@
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 30 = Africa : 17 | America : 3 | Asia : 7 | Europe : 1
+### Total region : 30 = Africa : 17 | America : 3 | Asia : 8 | Europe : 1
 ### Total language : 17
 ### Total database : 1
 ### Total text editor : 4
@@ -82,6 +82,7 @@
 28 - Yemen [ASIA] <br />
 29 - Zimbabwe [AFRICA] <br />
 30 - Saudi Arabia [ASIA] <br />
+31 - United Arab Emirates (UAE) [ASIA] <br />
 
 <a name="africa"></a>
 ## 2. Africa.
@@ -118,6 +119,7 @@
 5 - Uzbekistan <br />
 6 - Yemen <br />
 7 - Saudi Arabia <br />
+8 - United Arab Emirates (UAE) <br />
 
 <a name="europe"></a>
 ## 5. Europe.

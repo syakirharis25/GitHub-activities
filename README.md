@@ -46,7 +46,8 @@
 22. [Text Editors.](#editor)
 23. [Version Control System.](#version)
 24. [Web Browsers.](#browser)
-25. [GitHub notes.](#github)
+25. [Official website references.](#references)
+26. [GitHub notes.](#github)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -226,8 +227,18 @@
 ## 24. Web Browsers.
 1 - Google Chrome
 
+<a name="references"></a>
+## 25. Official website references.
+
+**_code references_**
+How Many Millions of Lines of Code Does It Take? by  Jeff Desjardins :https://www.visualcapitalist.com/millions-lines-of-code <br />
+
+**_security references_**
+GlobalSecurity.org : https://www.globalsecurity.org <br />
+F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
+
 <a name="github"></a>
-## 25. GitHub notes.
+## 26. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git

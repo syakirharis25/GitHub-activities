@@ -117,8 +117,9 @@
 3 - Saudi Arabia <br />
 4 - Syria <br />
 5 - Tajikistan <br />
-6 - Uzbekistan <br />
-7 - Yemen <br />
+6 - United Arab Emirates <br />
+7 - Uzbekistan <br />
+8 - Yemen <br />
 
 <a name="europe"></a>
 ## 5. Europe.

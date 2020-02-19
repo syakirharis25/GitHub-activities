@@ -127,10 +127,10 @@
 
 <a name="compiler"></a>
 ## 6. Compilers.
-1 - Free Pascal
-2 - rustc
-3 - ocamlc
-4 - ocamlopt
+1 - Free Pascal <br />
+2 - rustc <br />
+3 - ocamlc <br />
+4 - ocamlopt <br />
 
 <a name="database"></a>
 ## 7. Databases.

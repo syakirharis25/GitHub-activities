@@ -48,6 +48,7 @@
 24. [Web Browsers.](#browser)
 25. [Official website references.](#references)
 26. [GitHub notes.](#github)
+27. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -245,3 +246,14 @@ $ cd GitHub-activities/
 $ git remote -v
 $ git status
 ```
+
+<a name="calculation"></a>
+## 27. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1             21              0            179
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc

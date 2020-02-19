@@ -51,8 +51,7 @@
 27. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
-## 1. Regions.
-1 - Albania [EUROPE] <br />
+## 1. Regions.1 - Albania [EUROPE] <br />
 2 - Angola [AFRICA] <br />
 3 - Benin [AFRICA] <br />
 4 - Bolivia [AMERICA] <br />
@@ -70,19 +69,19 @@
 16 - Mali [AFRICA] <br />
 17 - Mozambique [AFRICA] <br />
 18 - Niger [AFRICA] <br />
-19 - Senegal [AFRICA] <br />
-20 - Sierra Leone [AFRICA] <br />
-21 - Somalia [AFRICA] <br />
-22 - South Sudan [AFRICA] <br />
-23 - Sudan [AFRICA] <br />
-24 - Syria [ASIA] <br />
-25 - Tajikistan [ASIA] <br />
-26 - Togo [AFRICA] <br />
-27 - Uzbekistan [ASIA] <br />
-28 - Yemen [ASIA] <br />
-29 - Zimbabwe [AFRICA] <br />
-30 - Saudi Arabia [ASIA] <br />
-31 - United Arab Emirates (UAE) [ASIA] <br />
+19 - Saudi Arabia [ASIA] <br />
+20 - Senegal [AFRICA] <br />
+21 - Sierra Leone [AFRICA] <br />
+22 - Somalia [AFRICA] <br />
+23 - South Sudan [AFRICA] <br />
+24 - Sudan [AFRICA] <br />
+25 - Syria [ASIA] <br />
+26 - Tajikistan [ASIA] <br />
+27 - Togo [AFRICA] <br />
+28 - United Arab Emirates (UAE) [ASIA] <br />
+29 - Uzbekistan [ASIA] <br />
+30 - Yemen [ASIA] <br />
+31 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa.

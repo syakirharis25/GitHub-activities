@@ -229,11 +229,10 @@
 
 <a name="references"></a>
 ## 25. Official website references.
-
-**_code references_**
+**_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by  Jeff Desjardins :https://www.visualcapitalist.com/millions-lines-of-code <br />
 
-**_security references_**
+**_security references_** <br />
 GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 

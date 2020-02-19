@@ -18,7 +18,9 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code :  /<numbers/>
+### Total lines of code : 305,046
+
+### Current active project : Node.js
 
 <br /><br />
 

@@ -51,7 +51,7 @@
 27. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
-## 1. Regions. <br />
+## 1. Regions.
 1 - Albania [EUROPE] <br />
 2 - Angola [AFRICA] <br />
 3 - Benin [AFRICA] <br />
@@ -114,12 +114,11 @@
 ## 4. Asia.
 1 - Cambodia <br />
 2 - Jordan <br />
-3 - Syria <br />
-4 - Tajikistan <br />
-5 - Uzbekistan <br />
-6 - Yemen <br />
-7 - Saudi Arabia <br />
-8 - United Arab Emirates (UAE) <br />
+3 - Saudi Arabia <br />
+4 - Syria <br />
+5 - Tajikistan <br />
+6 - Uzbekistan <br />
+7 - Yemen <br />
 
 <a name="europe"></a>
 ## 5. Europe.

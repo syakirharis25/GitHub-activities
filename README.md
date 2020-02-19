@@ -70,19 +70,19 @@
 16 - Mali [AFRICA] <br />
 17 - Mozambique [AFRICA] <br />
 18 - Niger [AFRICA] <br />
-19 - Senegal [AFRICA] <br />
-20 - Sierra Leone [AFRICA] <br />
-21 - Somalia [AFRICA] <br />
-22 - South Sudan [AFRICA] <br />
-23 - Sudan [AFRICA] <br />
-24 - Syria [ASIA] <br />
-25 - Tajikistan [ASIA] <br />
-26 - Togo [AFRICA] <br />
-27 - Uzbekistan [ASIA] <br />
-28 - Yemen [ASIA] <br />
-29 - Zimbabwe [AFRICA] <br />
-30 - Saudi Arabia [ASIA] <br />
-31 - United Arab Emirates (UAE) [ASIA] <br />
+19 - Saudi Arabia [ASIA] <br />
+20 - Senegal [AFRICA] <br />
+21 - Sierra Leone [AFRICA] <br />
+22 - Somalia [AFRICA] <br />
+23 - South Sudan [AFRICA] <br />
+24 - Sudan [AFRICA] <br />
+25 - Syria [ASIA] <br />
+26 - Tajikistan [ASIA] <br />
+27 - Togo [AFRICA] <br />
+28 - United Arab Emirates (UAE) [ASIA] <br />
+29 - Uzbekistan [ASIA] <br />
+30 - Yemen [ASIA] <br />
+31 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa.
@@ -114,12 +114,12 @@
 ## 4. Asia.
 1 - Cambodia <br />
 2 - Jordan <br />
-3 - Syria <br />
-4 - Tajikistan <br />
-5 - Uzbekistan <br />
-6 - Yemen <br />
-7 - Saudi Arabia <br />
-8 - United Arab Emirates (UAE) <br />
+3 - Saudi Arabia <br />
+4 - Syria <br />
+5 - Tajikistan <br />
+6 - United Arab Emirates <br />
+7 - Uzbekistan <br />
+8 - Yemen <br />
 
 <a name="europe"></a>
 ## 5. Europe.
@@ -127,10 +127,10 @@
 
 <a name="compiler"></a>
 ## 6. Compilers.
-1 - Free Pascal
-2 - rustc
-3 - ocamlc
-4 - ocamlopt
+1 - Free Pascal <br />
+2 - rustc <br />
+3 - ocamlc <br />
+4 - ocamlopt <br />
 
 <a name="database"></a>
 ## 7. Databases.

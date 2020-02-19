@@ -17,7 +17,8 @@
 ### Total library : 1
 ### Total environment : 1
 ### Total data format : 1
-### Total Version control system : 1
+### Total version control system : 1
+### Total lines of code :  /<numbers/>
 
 <br /><br />
 

@@ -51,7 +51,8 @@
 27. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
-## 1. Regions.1 - Albania [EUROPE] <br />
+## 1. Regions. <br />
+1 - Albania [EUROPE] <br />
 2 - Angola [AFRICA] <br />
 3 - Benin [AFRICA] <br />
 4 - Bolivia [AMERICA] <br />

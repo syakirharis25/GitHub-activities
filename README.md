@@ -1,8 +1,8 @@
-# Current worldwide rank : #54 as of 20 February 2020
+# Current worldwide rank : #53 as of 21 February 2020
 ### Total topic : 25
 ### Total sub topic : 102
-### Total commit in GitHub : 2,174‬
-### Total commit year 2020 : 1,548 
+### Total commit in GitHub : 2,220‬
+### Total commit year 2020 : 1,594 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 421,478 | SPACE SHUTTLE
+### Total lines of code : 619,928 | SPACE SHUTTLE
 
 ### Current active repository : Express
 

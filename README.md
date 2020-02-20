@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 421,478
+### Total lines of code : 421,478 | SPACE SHUTTLE
 
 ### Current active repository : npm
 

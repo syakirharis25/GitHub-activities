@@ -6,7 +6,7 @@
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 30 = Africa : 17 | America : 3 | Asia : 8 | Europe : 1
+### Total region : 31 = Africa : 17 | America : 3 | Asia : 8 | Europe : 1
 ### Total language : 17
 ### Total database : 2
 ### Total text editor : 4

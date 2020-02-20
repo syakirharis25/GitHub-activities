@@ -1,8 +1,8 @@
-# Current worldwide rank : #57 as of 20 February 2020
-### Total topic : 24
+# Current worldwide rank : #54 as of 20 February 2020
+### Total topic : 25
 ### Total sub topic : 102
-### Total commit in GitHub : 2,084‬
-### Total commit year 2020 : 1,458 
+### Total commit in GitHub : 2,145
+### Total commit year 2020 : 1,519 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -17,38 +17,41 @@
 ### Total library : 1
 ### Total environment : 1
 ### Total data format : 1
-### Total Version control system : 1
+### Total version control system : 1
+### Total lines of code : 304,760‬
+
+### Current active project : Node.js
 
 <br /><br />
 
-## Table of Contents
-1. [Regions.](#region)
+## Table of Contents1. [Regions.](#region)
 2. [Africa.](#africa)
 3. [America.](#america)
 4. [Asia.](#asia)
 5. [Europe.](#europe)
-6. [Compilers.](#compiler)
-7. [Databases.](#database)
-8. [Data Format.](#dataformat)
-9. [Environment.](#environment)
-10. [Frameworks.](#framework)
-11. [Integrated development environment.](#IDE)
-12. [Interfaces.](#interface)
-13. [Languages.](#language)
-14. [Library.](#library)
-15. [Mission.](#mission)
-16. [Operating Systems.](#os)
-17. [Package Manager.](#packagemanager)
-18. [Platform.](#platform)
-19. [Protocol.](#protocol)
-20. [Standard.](#standard)
-21. [Technique.](#technique)
-22. [Text Editors.](#editor)
-23. [Version Control System.](#version)
-24. [Web Browsers.](#browser)
-25. [Official website references.](#references)
-26. [GitHub notes.](#github)
-27. [GitHub repository calculation.](#calculation)
+6. [Case Studies.](#casestudies)
+7. [Compilers.](#compiler)
+8. [Databases.](#database)
+9. [Data Format.](#dataformat)
+10. [Environment.](#environment)
+11. [Frameworks.](#framework)
+12. [Integrated development environment.](#IDE)
+13. [Interfaces.](#interface)
+14. [Languages.](#language)
+15. [Library.](#library)
+16. [Mission.](#mission)
+17. [Operating Systems.](#os)
+18. [Package Manager.](#packagemanager)
+19. [Platform.](#platform)
+20. [Protocol.](#protocol)
+21. [Standard.](#standard)
+22. [Technique.](#technique)
+23. [Text Editors.](#editor)
+24. [Version Control System.](#version)
+25. [Web Browsers.](#browser)
+26. [Official website references.](#references)
+27. [GitHub notes.](#github)
+28. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -125,42 +128,46 @@
 ## 5. Europe.
 1 - Albania
 
+<a name="casestudies"></a>
+## 6. Case Studies.
+1 - F-22
+
 <a name="compiler"></a>
-## 6. Compilers.
+## 7. Compilers.
 1 - Free Pascal <br />
 2 - rustc <br />
 3 - ocamlc <br />
 4 - ocamlopt <br />
 
 <a name="database"></a>
-## 7. Databases.
+## 8. Databases.
 1 - MySQL <br />
 
 <a name="dataformat"></a>
-## 8. Data Format.
+## 9. Data Format.
 1 - JSON
 
 <a name="environment"></a>
-## 9. Environment.
+## 11. Environment.
 1 - Node.js
 
 <a name="framework"></a>
-## 10. Frameworks.
+## 12. Frameworks.
 1 - Bootstrap <br />
 2 - Drupal <br />
 3 - Electron <br />
 
 <a name="IDE"></a>
-## 11. Integrated development environment.
+## 13. Integrated development environment.
 1 - Lazarus
 
 <a name="interface"></a>
-## 12. Interfaces.
+## 14. Interfaces.
 1 - Programming Interface (API)
 2 - Insomnia
 
 <a name="language"></a>
-## 13. Languages.
+## 15. Languages.
 1 - C <br />
 2 - C++ <br />
 3 - Caml <br />
@@ -180,15 +187,15 @@
 17 - British English <br />
 
 <a name="interface"></a>
-## 14. Library.
+## 16. Library.
 1 - jQuery
 
 <a name="mission"></a>
-## 15. Mission.
+## 17. Mission.
 1 - workers
 
 <a name="os"></a>
-## 16. Operating Systems.
+## 18. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
@@ -196,42 +203,42 @@
 5 - Linux | Parrot OS <br />
 
 <a name="packagemanager"></a>
-## 17. Package Manager.
+## 19. Package Manager.
 1 - npm <br />
 
 <a name="platform"></a>
-## 18. Platform.
+## 20. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 19. Protocol.
+## 21. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="standard"></a>
-## 20. Standard.
+## 22. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 21.Technique.
+## 23.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 22. Text Editors.
+## 24. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 23. Version Control System.
+## 25. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 24. Web Browsers.
+## 26. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 25. Official website references.
+## 27. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 
@@ -240,7 +247,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="github"></a>
-## 26. GitHub notes.
+## 28. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -250,12 +257,12 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 27. GitHub repository calculation.
+## 29. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                         1             21              0            179
+Markdown                         1             30              0            231
 -------------------------------------------------------------------------------
 ```
 Refer to : https://github.com/syakirharis25/cloc

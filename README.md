@@ -11,7 +11,7 @@
 ### Total database : 2
 ### Total text editor : 4
 ### Total operating system : 5
-### Total framework : 2
+### Total framework : 5
 ### Total interface : 2
 ### Total web browser : 1
 ### Total library : 1
@@ -149,26 +149,28 @@
 1 - JSON
 
 <a name="environment"></a>
-## 11. Environment.
+## 10. Environment.
 1 - Node.js
 
 <a name="framework"></a>
-## 12. Frameworks.
+## 11. Frameworks.
 1 - Bootstrap <br />
 2 - Drupal <br />
 3 - Electron <br />
+4 - Express <br />
+5 - NestJS <br />
 
 <a name="IDE"></a>
-## 13. Integrated development environment.
+## 12. Integrated development environment.
 1 - Lazarus
 
 <a name="interface"></a>
-## 14. Interfaces.
+## 13. Interfaces.
 1 - Programming Interface (API)
 2 - Insomnia
 
 <a name="language"></a>
-## 15. Languages.
+## 14. Languages.
 1 - C <br />
 2 - C++ <br />
 3 - Caml <br />
@@ -188,15 +190,15 @@
 17 - British English <br />
 
 <a name="interface"></a>
-## 16. Library.
+## 15. Library.
 1 - jQuery
 
 <a name="mission"></a>
-## 17. Mission.
+## 16. Mission.
 1 - workers
 
 <a name="os"></a>
-## 18. Operating Systems.
+## 17. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
@@ -204,42 +206,42 @@
 5 - Linux | Parrot OS <br />
 
 <a name="packagemanager"></a>
-## 19. Package Manager.
+## 18. Package Manager.
 1 - npm <br />
 
 <a name="platform"></a>
-## 20. Platform.
+## 19. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 21. Protocol.
+## 20. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="standard"></a>
-## 22. Standard.
+## 21. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 23.Technique.
+## 22.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 24. Text Editors.
+## 23. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 25. Version Control System.
+## 24. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 26. Web Browsers.
+## 25. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 27. Official website references.
+## 26. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 
@@ -248,7 +250,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="github"></a>
-## 28. GitHub notes.
+## 27. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -258,7 +260,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 29. GitHub repository calculation.
+## 28. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

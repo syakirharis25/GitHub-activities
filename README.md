@@ -18,9 +18,9 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 304,760‬
+### Total lines of code : 421,449
 
-### Current active project : npm
+### Current active repository : npm
 
 <br /><br />
 

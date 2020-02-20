@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 619,928 | SPACE SHUTTLE
+### Total lines of code : 619,936 | SPACE SHUTTLE
 
 ### Current active repository : Express
 
@@ -265,7 +265,7 @@ $ git status
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                         1             30              0            231
+Markdown                         1             32              0            239
 -------------------------------------------------------------------------------
 ```
 Refer to : https://github.com/syakirharis25/cloc

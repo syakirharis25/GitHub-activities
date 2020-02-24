@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 619,936 | SPACE SHUTTLE
+### Total lines of code : 619,966 | SPACE SHUTTLE
 
 ### Current active repository : Express
 

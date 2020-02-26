@@ -8,7 +8,7 @@
 ### Total commit year 2017 : 230
 ### Total region : 31 = Africa : 17 | America : 3 | Asia : 8 | Europe : 1
 ### Total language : 17
-### Total database : 2
+### Total database : 3
 ### Total text editor : 4
 ### Total operating system : 5
 ### Total framework : 6
@@ -143,6 +143,7 @@
 ## 8. Databases.
 1 - MySQL <br />
 2 - MongoDB <br />
+3 - Apache Cassandra <br />
 
 <a name="dataformat"></a>
 ## 9. Data Format.

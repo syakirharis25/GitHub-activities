@@ -6,7 +6,7 @@
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 32 = Africa : 17 | America : 3 | Asia : 9 | Europe : 1
+### Total region : 39 = Africa : 22 | America : 4 | Asia : 10 | Europe : 1
 ### Total language : 18
 ### Total database : 3
 ### Total text editor : 4
@@ -64,29 +64,36 @@
 7 - Burundi [AFRICA] <br />
 8 - Cambodia [ASIA] <br />
 9 - Chad [AFRICA] <br />
-10 - Ethiopia [AFRICA] <br />
-11 - Guinea [AFRICA] <br />
-12 - Haiti [AMERICA] <br />
-13 - Honduras [AMERICA] <br />
-14 - Ivory Coast [AFRICA] <br />
-15 - Jordan [ASIA] <br />
-16 - Malawi [AFRICA] <br />
-17 - Mali [AFRICA] <br />
-18 - Mozambique [AFRICA] <br />
-19 - Niger [AFRICA] <br />
-20 - Saudi Arabia [ASIA] <br />
-21 - Senegal [AFRICA] <br />
-22 - Sierra Leone [AFRICA] <br />
-23 - Somalia [AFRICA] <br />
-24 - South Sudan [AFRICA] <br />
-25 - Sudan [AFRICA] <br />
-26 - Syria [ASIA] <br />
-27 - Tajikistan [ASIA] <br />
-28 - Togo [AFRICA] <br />
-29 - United Arab Emirates (UAE) [ASIA] <br />
-30 - Uzbekistan [ASIA] <br />
-31 - Yemen [ASIA] <br />
-32 - Zimbabwe [AFRICA] <br />
+10 - Congo [AFRICA] <br />
+11 - Egypt [AFRICA] <br />
+12 - Ethiopia [AFRICA] <br />
+13 - Ghana [AFRICA] <br />
+14 - Guinea [AFRICA] <br />
+15 - Haiti [AMERICA] <br />
+16 - Honduras [AMERICA] <br />
+17 - Ivory Coast [AFRICA] <br />
+18 - Jordan [ASIA] <br />
+19 - Kazakhstan [ASIA] <br />
+20 - Malawi [AFRICA] <br />
+21 - Mali [AFRICA] <br />
+22 - Morocco [AFRICA] <br />
+23 - Mozambique [AFRICA] <br />
+24 - Niger [AFRICA] <br />
+25 - Saudi Arabia [ASIA] <br />
+26 - Senegal [AFRICA] <br />
+27 - Sierra Leone [AFRICA] <br />
+28 - Somalia [AFRICA] <br />
+29 - South Sudan [AFRICA] <br />
+30 - Sudan [AFRICA] <br />
+31 - Syria [ASIA] <br />
+32 - Tajikistan [ASIA] <br />
+33 - Togo [AFRICA] <br />
+34 - United Arab Emirates (UAE) [ASIA] <br />
+35 - Uzbekistan [ASIA] <br />
+36 - Venezuela [AMERICA] <br />
+37 - Yemen [ASIA] <br />
+38 - Zambia [AFRICA] <br />
+39 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa.
@@ -95,36 +102,43 @@
 3 - Burkina Faso <br />
 4 - Burundi <br />
 5 - Chad <br />
-6 - Ethiopia <br />
-7 - Guinea <br />
-8 - Ivory Coast <br />
-9 - Malawi <br />
-10 - Mali <br />
-11 - Mozambique <br />
-12 - Niger <br />
-13 - Senegal <br />
-14 - South Sudan <br />
-15 - Sudan <br />
-16 - Togo <br />
-17 - Zimbabwe <br />
+6 - Congo <br />
+7 - Egypt <br />
+8 - Ethiopia <br />
+9 - Ghana <br />
+10 - Guinea <br />
+11 - Ivory Coast <br />
+12 - Malawi <br />
+13 - Mali <br />
+14 - Morocco <br />
+15 - Mozambique <br />
+16 - Niger <br />
+17 - Senegal <br />
+18 - South Sudan <br />
+19 - Sudan <br />
+20 - Togo <br />
+21 - Zambia <br />
+22 - Zimbabwe <br />
 
 <a name="america"></a>
 ## 3. America.
 1 - Bolivia <br />
 2 - Haiti <br />
 3 - Honduras <br />
+4 - Venezuela <br />
 
 <a name="asia"></a>
 ## 4. Asia.
-1 - Algeria
+1 - Algeria <br />
 2 - Cambodia <br />
 3 - Jordan <br />
-4 - Saudi Arabia <br />
-5 - Syria <br />
-6 - Tajikistan <br />
-7 - United Arab Emirates <br />
-8 - Uzbekistan <br />
-9 - Yemen <br />
+4 - Kazakhstan <br />
+5 - Saudi Arabia <br />
+6 - Syria <br />
+7 - Tajikistan <br />
+8 - United Arab Emirates <br />
+9 - Uzbekistan <br />
+10 - Yemen <br />
 
 <a name="europe"></a>
 ## 5. Europe.

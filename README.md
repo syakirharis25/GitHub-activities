@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 620,033‬ | SPACE SHUTTLE
+### Total lines of code : 620,067 | SPACE SHUTTLE
 
 ### Current active repository : MongoDB
 

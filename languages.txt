@@ -2,16 +2,17 @@
 2 - C++ <br />
 3 - Caml <br />
 4 - CSS <br />
-5 - Go <br />
-6 - HTML <br />
-7 - Java <br />
-8 - JavaScript <br />
-9 - OCaml <br />
-10 - PHP <br />
-11 - Python <br />
-12 - Rust <br />
-13 - Sass <br />
-14 - Latin <br />
-15 - Italian <br />
-16 - Spanish <br />
-17 - British English <br />
+5 - GraphQL <br />
+6 - Go <br />
+7 - HTML <br />
+8 - Java <br />
+9 - JavaScript <br />
+10 - OCaml <br />
+11 - PHP <br />
+12 - Python <br />
+13 - Rust <br />
+14 - Sass <br />
+15 - Latin <br />
+16 - Italian <br />
+17 - Spanish <br />
+18 - British English <br />

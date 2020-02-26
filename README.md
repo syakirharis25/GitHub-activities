@@ -1,14 +1,14 @@
-# Current worldwide rank : #53 as of 21 February 2020
+# Current worldwide rank : #48 as of 21 February 2020
 ### Total topic : 25
 ### Total sub topic : 103
-### Total commit in GitHub : 2,220‬
-### Total commit year 2020 : 1,594 
+### Total commit in GitHub : 2,300
+### Total commit year 2020 : 1,674 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
 ### Total region : 31 = Africa : 17 | America : 3 | Asia : 8 | Europe : 1
 ### Total language : 17
-### Total database : 2
+### Total database : 3
 ### Total text editor : 4
 ### Total operating system : 5
 ### Total framework : 6
@@ -18,9 +18,9 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 619,936 | SPACE SHUTTLE
+### Total lines of code : 619,966 | SPACE SHUTTLE
 
-### Current active repository : Express
+### Current active repository : MongoDB
 
 <br /><br />
 
@@ -143,6 +143,7 @@
 ## 8. Databases.
 1 - MySQL <br />
 2 - MongoDB <br />
+3 - Apache Cassandra <br />
 
 <a name="dataformat"></a>
 ## 9. Data Format.

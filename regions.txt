@@ -1,4 +1,3 @@
-
 1 - Albania [EUROPE] <br />
 2 - Algeria [ASIA] <br />
 3 - Angola [AFRICA] <br />
@@ -8,26 +7,33 @@
 7 - Burundi [AFRICA] <br />
 8 - Cambodia [ASIA] <br />
 9 - Chad [AFRICA] <br />
-10 - Ethiopia [AFRICA] <br />
-11 - Guinea [AFRICA] <br />
-12 - Haiti [AMERICA] <br />
-13 - Honduras [AMERICA] <br />
-14 - Ivory Coast [AFRICA] <br />
-15 - Jordan [ASIA] <br />
-16 - Malawi [AFRICA] <br />
-17 - Mali [AFRICA] <br />
-18 - Mozambique [AFRICA] <br />
-19 - Niger [AFRICA] <br />
-20 - Saudi Arabia [ASIA] <br />
-21 - Senegal [AFRICA] <br />
-22 - Sierra Leone [AFRICA] <br />
-23 - Somalia [AFRICA] <br />
-24 - South Sudan [AFRICA] <br />
-25 - Sudan [AFRICA] <br />
-26 - Syria [ASIA] <br />
-27 - Tajikistan [ASIA] <br />
-28 - Togo [AFRICA] <br />
-29 - United Arab Emirates (UAE) [ASIA] <br />
-30 - Uzbekistan [ASIA] <br />
-31 - Yemen [ASIA] <br />
-32 - Zimbabwe [AFRICA] <br />
+10 - Congo [AFRICA] <br />
+11 - Egypt [AFRICA] <br />
+12 - Ethiopia [AFRICA] <br />
+13 - Ghana [AFRICA] <br />
+14 - Guinea [AFRICA] <br />
+15 - Haiti [AMERICA] <br />
+16 - Honduras [AMERICA] <br />
+17 - Ivory Coast [AFRICA] <br />
+18 - Jordan [ASIA] <br />
+19 - Kazakhstan [ASIA] <br />
+20 - Malawi [AFRICA] <br />
+21 - Mali [AFRICA] <br />
+22 - Morocco [AFRICA] <br />
+23 - Mozambique [AFRICA] <br />
+24 - Niger [AFRICA] <br />
+25 - Saudi Arabia [ASIA] <br />
+26 - Senegal [AFRICA] <br />
+27 - Sierra Leone [AFRICA] <br />
+28 - Somalia [AFRICA] <br />
+29 - South Sudan [AFRICA] <br />
+30 - Sudan [AFRICA] <br />
+31 - Syria [ASIA] <br />
+32 - Tajikistan [ASIA] <br />
+33 - Togo [AFRICA] <br />
+34 - United Arab Emirates (UAE) [ASIA] <br />
+35 - Uzbekistan [ASIA] <br />
+36 - Venezuela [AMERICA] <br />
+37 - Yemen [ASIA] <br />
+38 - Zambia [AFRICA] <br />
+39 - Zimbabwe [AFRICA] <br />

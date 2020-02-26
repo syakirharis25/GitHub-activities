@@ -1,12 +1,12 @@
 # Current worldwide rank : #48 as of 21 February 2020
 ### Total topic : 25
 ### Total sub topic : 103
-### Total commit in GitHub : 2,300
-### Total commit year 2020 : 1,674 
+### Total commit in GitHub : 2,359
+### Total commit year 2020 : 1,733 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 31 = Africa : 17 | America : 3 | Asia : 8 | Europe : 1
+### Total region : 32 = Africa : 17 | America : 3 | Asia : 9 | Europe : 1
 ### Total language : 18
 ### Total database : 3
 ### Total text editor : 4
@@ -18,13 +18,13 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 620,033‬ | SPACE SHUTTLE
+### Total lines of code : 620,067 | SPACE SHUTTLE
 
 ### Current active repository : MongoDB
 
 <br /><br />
 
-## Table of Contents1. [Regions.](#region)
+## Table of Contents
 2. [Africa.](#africa)
 3. [America.](#america)
 4. [Asia.](#asia)
@@ -56,36 +56,37 @@
 <a name="region"></a>
 ## 1. Regions.
 1 - Albania [EUROPE] <br />
-2 - Angola [AFRICA] <br />
-3 - Benin [AFRICA] <br />
-4 - Bolivia [AMERICA] <br />
-5 - Burkina Faso [AFRICA] <br />
-6 - Burundi [AFRICA] <br />
-7 - Cambodia [ASIA] <br />
-8 - Chad [AFRICA] <br />
-9 - Ethiopia [AFRICA] <br />
-10 - Guinea [AFRICA] <br />
-11 - Haiti [AMERICA] <br />
-12 - Honduras [AMERICA] <br />
-13 - Ivory Coast [AFRICA] <br />
-14 - Jordan [ASIA] <br />
-15 - Malawi [AFRICA] <br />
-16 - Mali [AFRICA] <br />
-17 - Mozambique [AFRICA] <br />
-18 - Niger [AFRICA] <br />
-19 - Saudi Arabia [ASIA] <br />
-20 - Senegal [AFRICA] <br />
-21 - Sierra Leone [AFRICA] <br />
-22 - Somalia [AFRICA] <br />
-23 - South Sudan [AFRICA] <br />
-24 - Sudan [AFRICA] <br />
-25 - Syria [ASIA] <br />
-26 - Tajikistan [ASIA] <br />
-27 - Togo [AFRICA] <br />
-28 - United Arab Emirates (UAE) [ASIA] <br />
-29 - Uzbekistan [ASIA] <br />
-30 - Yemen [ASIA] <br />
-31 - Zimbabwe [AFRICA] <br />
+2 - Algeria [ASIA] <br />
+3 - Angola [AFRICA] <br />
+4 - Benin [AFRICA] <br />
+5 - Bolivia [AMERICA] <br />
+6 - Burkina Faso [AFRICA] <br />
+7 - Burundi [AFRICA] <br />
+8 - Cambodia [ASIA] <br />
+9 - Chad [AFRICA] <br />
+10 - Ethiopia [AFRICA] <br />
+11 - Guinea [AFRICA] <br />
+12 - Haiti [AMERICA] <br />
+13 - Honduras [AMERICA] <br />
+14 - Ivory Coast [AFRICA] <br />
+15 - Jordan [ASIA] <br />
+16 - Malawi [AFRICA] <br />
+17 - Mali [AFRICA] <br />
+18 - Mozambique [AFRICA] <br />
+19 - Niger [AFRICA] <br />
+20 - Saudi Arabia [ASIA] <br />
+21 - Senegal [AFRICA] <br />
+22 - Sierra Leone [AFRICA] <br />
+23 - Somalia [AFRICA] <br />
+24 - South Sudan [AFRICA] <br />
+25 - Sudan [AFRICA] <br />
+26 - Syria [ASIA] <br />
+27 - Tajikistan [ASIA] <br />
+28 - Togo [AFRICA] <br />
+29 - United Arab Emirates (UAE) [ASIA] <br />
+30 - Uzbekistan [ASIA] <br />
+31 - Yemen [ASIA] <br />
+32 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa.
@@ -115,14 +116,15 @@
 
 <a name="asia"></a>
 ## 4. Asia.
-1 - Cambodia <br />
-2 - Jordan <br />
-3 - Saudi Arabia <br />
-4 - Syria <br />
-5 - Tajikistan <br />
-6 - United Arab Emirates <br />
-7 - Uzbekistan <br />
-8 - Yemen <br />
+1 - Algeria
+2 - Cambodia <br />
+3 - Jordan <br />
+4 - Saudi Arabia <br />
+5 - Syria <br />
+6 - Tajikistan <br />
+7 - United Arab Emirates <br />
+8 - Uzbekistan <br />
+9 - Yemen <br />
 
 <a name="europe"></a>
 ## 5. Europe.

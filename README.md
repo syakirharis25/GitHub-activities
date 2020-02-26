@@ -1,6 +1,6 @@
 # Current worldwide rank : #48 as of 26 February 2020
 ### Total topic : 25
-### Total sub topic : 130
+### Total sub topic : 131
 ### Total commit in GitHub : 2,359
 ### Total commit year 2020 : 1,733 
 ### Total commit year 2019 : 396
@@ -8,7 +8,7 @@
 ### Total commit year 2017 : 230
 ### Total region : 39 = Africa : 22 | America : 4 | Asia : 10 | Europe : 1
 ### Total language : 18
-### Total database : 3
+### Total database : 4
 ### Total text editor : 4
 ### Total operating system : 5
 ### Total framework : 6
@@ -160,6 +160,7 @@
 1 - MySQL <br />
 2 - MongoDB <br />
 3 - Apache Cassandra <br />
+4 - PostgresQL <br />
 
 <a name="dataformat"></a>
 ## 9. Data Format.

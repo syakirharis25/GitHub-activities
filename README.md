@@ -14,7 +14,7 @@
 ### Total framework : 6
 ### Total interface : 2
 ### Total web browser : 1
-### Total library : 1
+### Total library : 2
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
@@ -193,7 +193,8 @@
 
 <a name="interface"></a>
 ## 15. Library.
-1 - jQuery
+1 - jQuery <br />
+2 - Mongoose <br />
 
 <a name="mission"></a>
 ## 16. Mission.

@@ -7,7 +7,7 @@
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
 ### Total region : 31 = Africa : 17 | America : 3 | Asia : 8 | Europe : 1
-### Total language : 17
+### Total language : 18
 ### Total database : 3
 ### Total text editor : 4
 ### Total operating system : 5
@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 620,002‬ | SPACE SHUTTLE
+### Total lines of code : 620,033‬ | SPACE SHUTTLE
 
 ### Current active repository : MongoDB
 
@@ -177,19 +177,20 @@
 2 - C++ <br />
 3 - Caml <br />
 4 - CSS <br />
-5 - Go <br />
-6 - HTML <br />
-7 - Java <br />
-8 - JavaScript <br />
-9 - OCaml <br />
-10 - PHP <br />
-11 - Python <br />
-12 - Rust <br />
-13 - Sass <br />
-14 - Latin <br />
-15 - Italian <br />
-16 - Spanish <br />
-17 - British English <br />
+5 - GraphQL <br />
+6 - Go <br />
+7 - HTML <br />
+8 - Java <br />
+9 - JavaScript <br />
+10 - OCaml <br />
+11 - PHP <br />
+12 - Python <br />
+13 - Rust <br />
+14 - Sass <br />
+15 - Latin <br />
+16 - Italian <br />
+17 - Spanish <br />
+18 - British English <br />
 
 <a name="interface"></a>
 ## 15. Library.

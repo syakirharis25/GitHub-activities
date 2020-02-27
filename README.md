@@ -1,8 +1,8 @@
-# Current worldwide rank : #48 as of 26 February 2020
+# Current worldwide rank : #44 as of 26 February 2020
 ### Total topic : 25
 ### Total sub topic : 131
-### Total commit in GitHub : 2,359
-### Total commit year 2020 : 1,733 
+### Total commit in GitHub : 2,416
+### Total commit year 2020 : 1,790
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 620,104‬ | SPACE SHUTTLE
+### Total lines of code : 853,789 | SPACE SHUTTLE
 
 ### Current active repository : MongoDB
 

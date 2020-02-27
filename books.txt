@@ -1,0 +1,5 @@
+1 - Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design by Michael J. Hernandez (Third Edition) <br />
+2 - Eloquent JavaScript by Marijn Haverbeke (Third edition) <br />
+3 - Mongodb: the Definitive Guide by Shannon Bradshaw and Kristina Chodorow (Third Edition) <br />
+4 - Programming Rust: Fast, Safe Systems Development by Jim Blandy and Jason Orendorff
+5 - The Rust Programming Language by Steve Klabnik and Carol Nichols

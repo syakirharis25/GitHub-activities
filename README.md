@@ -1,6 +1,6 @@
 # Current worldwide rank : #44 as of 28 February 2020
 ### Total topic : 27
-### Total sub topic : 137
+### Total sub topic : 138
 ### Total commit in GitHub : 2,489‬
 ### Total commit year 2020 : 1,863
 ### Total commit year 2019 : 396
@@ -240,6 +240,7 @@
 <a name="packagemanager"></a>
 ## 19. Package Manager.
 1 - npm <br />
+2 - Yarn <br />
 
 <a name="platform"></a>
 ## 20. Platform.

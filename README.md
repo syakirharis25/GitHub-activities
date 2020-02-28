@@ -7,7 +7,7 @@
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
 ### Total region : 39 = Africa : 22 | America : 4 | Asia : 10 | Europe : 1
-### Total language : 18
+### Total language : 19
 ### Total database : 4
 ### Total text editor : 4
 ### Total operating system : 5
@@ -200,24 +200,25 @@
 
 <a name="language"></a>
 ## 15. Languages.
-1 - C <br />
-2 - C++ <br />
-3 - Caml <br />
-4 - CSS <br />
-5 - GraphQL <br />
-6 - Go <br />
-7 - HTML <br />
-8 - Java <br />
-9 - JavaScript <br />
-10 - OCaml <br />
-11 - PHP <br />
-12 - Python <br />
-13 - Rust <br />
-14 - Sass <br />
-15 - Latin <br />
-16 - Italian <br />
+1 - British English <br />
+2 - C <br />
+3 - C++ <br />
+4 - Caml <br />
+5 - CSS <br />
+6 - GraphQL <br />
+7 - Go <br />
+8 - HTML <br />
+9 - Italian <br />
+9 - Java <br />
+10 - JavaScript <br />
+11 - Latin <br />
+12 - OCaml <br />
+13 - PHP <br />
+14 - Python <br />
+15 - Rust <br />
+16 - Sass <br />
 17 - Spanish <br />
-18 - British English <br />
+18 - TypeScript <br />
 
 <a name="interface"></a>
 ## 16. Library.

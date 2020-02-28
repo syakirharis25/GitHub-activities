@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 854,872‬ | SPACE SHUTTLE
+### Total lines of code : 2,934,705‬ | WINDOWS
 
 ### Current active repository : PostgreSQL
 
@@ -280,6 +280,7 @@
 ## 28. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
+Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
 
 **_security references_** <br />
 GlobalSecurity.org : https://www.globalsecurity.org <br />

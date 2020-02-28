@@ -1,8 +1,8 @@
-# Current worldwide rank : #44 as of 27 February 2020
-### Total topic : 26
-### Total sub topic : 136
-### Total commit in GitHub : 2,416
-### Total commit year 2020 : 1,790
+# Current worldwide rank : #44 as of 28 February 2020
+### Total topic : 27
+### Total sub topic : 137
+### Total commit in GitHub : 2,459
+### Total commit year 2020 : 1,833
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 853,789 | SPACE SHUTTLE
+### Total lines of code : 854,872‬ | SPACE SHUTTLE
 
 ### Current active repository : PostgreSQL
 
@@ -45,14 +45,15 @@
 19. [Package Manager.](#packagemanager)
 20. [Platform.](#platform)
 21. [Protocol.](#protocol)
-22. [Standard.](#standard)
-23. [Technique.](#technique)
-24. [Text Editors.](#editor)
-25. [Version Control System.](#version)
-26. [Web Browsers.](#browser)
-27. [Official website references.](#references)
-28. [GitHub notes.](#github)
-29. [GitHub repository calculation.](#calculation)
+22. [Shell.](#shell)
+23. [Standard.](#standard)
+24. [Technique.](#technique)
+25. [Text Editors.](#editor)
+26. [Version Control System.](#version)
+27. [Web Browsers.](#browser)
+28. [Official website references.](#references)
+29. [GitHub notes.](#github)
+30. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -247,31 +248,35 @@
 ## 21. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
+<a name="shell"></a>
+## 22. Shell.
+1 - PowerShell <br />
+
 <a name="standard"></a>
-## 22. Standard.
+## 23. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 23.Technique.
+## 24.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 24. Text Editors.
+## 25. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 25. Version Control System.
+## 26. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 26. Web Browsers.
+## 27. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 27. Official website references.
+## 28. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 
@@ -280,7 +285,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="github"></a>
-## 28. GitHub notes.
+## 29. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -290,7 +295,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 29. GitHub repository calculation.
+## 30. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

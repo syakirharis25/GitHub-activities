@@ -1,8 +1,8 @@
-# Current worldwide rank : #43 as of 28 February 2020
+# Current worldwide rank : #41 as of 28 February 2020
 ### Total topic : 28
 ### Total sub topic : 140
-### Total commit in GitHub : 2,538‬
-### Total commit year 2020 : 1,912
+### Total commit in GitHub : 2,577
+### Total commit year 2020 : 1,951‬
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -18,7 +18,7 @@
 ### Total environment : 1
 ### Total data format : 1
 ### Total version control system : 1
-### Total lines of code : 3,038,398‬ | WINDOWS
+### Total lines of code : 3,077,882‬ | WINDOWS
 
 ### Current active repository : WebAssembly
 

@@ -1,12 +1,12 @@
 # Current worldwide rank : #41 as of 28 February 2020
 ### Total topic : 29
 ### Total sub topic : 140
-### Total commit in GitHub : 2,598
-### Total commit year 2020 : 1,972‬
+### Total commit in GitHub : 2,631
+### Total commit year 2020 : 2,005
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 39 = Africa : 22 | America : 4 | Asia : 10 | Europe : 1
+### Total region : 42 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
 ### Total data format : 1
 ### Total database : 4
 ### Total developers : 72 
@@ -26,14 +26,15 @@
 <br /><br />
 
 ## Table of Contents
-2. [Africa.](#africa)
-3. [America.](#america)
-4. [Asia.](#asia)
-5. [Europe.](#europe)
-6. [Books.](#book)
-7. [Case Studies.](#casestudies)
-8. [Compilers.](#compiler)
-9. [Databases.](#database)
+ 1. [Regions.](#region)
+ 2. [Africa.](#africa)
+ 3. [America.](#america)
+ 4. [Asia.](#asia)
+ 5. [Europe.](#europe)
+ 6. [Books.](#book)
+ 7. [Case Studies.](#casestudies)
+ 8. [Compilers.](#compiler)
+ 9. [Databases.](#database)
 10. [Data Format.](#dataformat)
 11. [Developers.](#developers)
 12. [Discipline.](#discipline)
@@ -60,70 +61,75 @@
 
 <a name="region"></a>
 ## 1. Regions.
-1 - Albania [EUROPE] <br />
-2 - Algeria [ASIA] <br />
-3 - Angola [AFRICA] <br />
-4 - Benin [AFRICA] <br />
-5 - Bolivia [AMERICA] <br />
-6 - Burkina Faso [AFRICA] <br />
-7 - Burundi [AFRICA] <br />
-8 - Cambodia [ASIA] <br />
-9 - Chad [AFRICA] <br />
-10 - Congo [AFRICA] <br />
-11 - Egypt [AFRICA] <br />
-12 - Ethiopia [AFRICA] <br />
-13 - Ghana [AFRICA] <br />
-14 - Guinea [AFRICA] <br />
-15 - Haiti [AMERICA] <br />
-16 - Honduras [AMERICA] <br />
-17 - Ivory Coast [AFRICA] <br />
-18 - Jordan [ASIA] <br />
-19 - Kazakhstan [ASIA] <br />
-20 - Malawi [AFRICA] <br />
-21 - Mali [AFRICA] <br />
-22 - Morocco [AFRICA] <br />
-23 - Mozambique [AFRICA] <br />
-24 - Niger [AFRICA] <br />
-25 - Saudi Arabia [ASIA] <br />
-26 - Senegal [AFRICA] <br />
-27 - Sierra Leone [AFRICA] <br />
-28 - Somalia [AFRICA] <br />
-29 - South Sudan [AFRICA] <br />
-30 - Sudan [AFRICA] <br />
-31 - Syria [ASIA] <br />
-32 - Tajikistan [ASIA] <br />
-33 - Togo [AFRICA] <br />
-34 - United Arab Emirates (UAE) [ASIA] <br />
-35 - Uzbekistan [ASIA] <br />
-36 - Venezuela [AMERICA] <br />
-37 - Yemen [ASIA] <br />
-38 - Zambia [AFRICA] <br />
-39 - Zimbabwe [AFRICA] <br />
+ 1 - Albania [EUROPE] <br />
+ 2 - Algeria [ASIA] <br />
+ 3 - Angola [AFRICA] <br />
+ 4 - Azerbaijan [ASIA] <br />
+ 5 - Benin [AFRICA] <br />
+ 6 - Bolivia [AMERICA] <br />
+ 7 - Burkina Faso [AFRICA] <br />
+ 8 - Burundi [AFRICA] <br />
+ 9 - Cambodia [ASIA] <br />
+10 - Cameroon [AFRICA]
+11 - Chad [AFRICA] <br />
+12 - Congo [AFRICA] <br />
+13 - Egypt [AFRICA] <br />
+14 - Ethiopia [AFRICA] <br />
+15 - Ghana [AFRICA] <br />
+16 - Guinea [AFRICA] <br />
+17 - Haiti [AMERICA] <br />
+18 - Honduras [AMERICA] <br />
+19 - Ivory Coast [AFRICA] <br />
+20 - Jordan [ASIA] <br />
+21 - Kazakhstan [ASIA] <br />
+22 - Malawi [AFRICA] <br />
+23 - Mali [AFRICA] <br />
+24 - Morocco [AFRICA] <br />
+25 - Mozambique [AFRICA] <br />
+26 - Niger [AFRICA] <br />
+27 - Rwanda [AFRICA]
+28 - Saudi Arabia [ASIA] <br />
+29 - Senegal [AFRICA] <br />
+30 - Sierra Leone [AFRICA] <br />
+31 - Somalia [AFRICA] <br />
+32 - South Sudan [AFRICA] <br />
+33 - Sudan [AFRICA] <br />
+34 - Syria [ASIA] <br />
+35 - Tajikistan [ASIA] <br />
+36 - Togo [AFRICA] <br />
+37 - United Arab Emirates (UAE) [ASIA] <br />
+38 - Uzbekistan [ASIA] <br />
+39 - Venezuela [AMERICA] <br />
+40 - Yemen [ASIA] <br />
+41 - Zambia [AFRICA] <br />
+42 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
-## 2. Africa.
-1 - Angola <br />
-2 - Benin <br />
-3 - Burkina Faso <br />
-4 - Burundi <br />
-5 - Chad <br />
-6 - Congo <br />
-7 - Egypt <br />
-8 - Ethiopia <br />
-9 - Ghana <br />
-10 - Guinea <br />
-11 - Ivory Coast <br />
-12 - Malawi <br />
-13 - Mali <br />
-14 - Morocco <br />
-15 - Mozambique <br />
-16 - Niger <br />
-17 - Senegal <br />
-18 - South Sudan <br />
-19 - Sudan <br />
-20 - Togo <br />
-21 - Zambia <br />
-22 - Zimbabwe <br />
+## 2. Africa. 
+ 1 - Angola <br />
+ 2 - Benin <br />
+ 3 - Burkina Faso <br />
+ 4 - Burundi <br />
+ 5 - Cameroon [AFRICA]
+ 6 - Chad <br />
+ 7 - Congo <br />
+ 8 - Egypt <br />
+ 9 - Ethiopia <br />
+10 - Ghana <br />
+11 - Guinea <br />
+12 - Ivory Coast <br />
+13 - Malawi <br />
+14 - Mali <br />
+15 - Morocco <br />
+16 - Mozambique <br />
+17 - Niger <br />
+18 - Rwanda [AFRICA]
+19 - Senegal <br />
+20 - South Sudan <br />
+21 - Sudan <br />
+22 - Togo <br />
+23 - Zambia <br />
+24 - Zimbabwe <br />
 
 <a name="america"></a>
 ## 3. America.
@@ -134,16 +140,17 @@
 
 <a name="asia"></a>
 ## 4. Asia.
-1 - Algeria <br />
-2 - Cambodia <br />
-3 - Jordan <br />
-4 - Kazakhstan <br />
-5 - Saudi Arabia <br />
-6 - Syria <br />
-7 - Tajikistan <br />
-8 - United Arab Emirates <br />
-9 - Uzbekistan <br />
-10 - Yemen <br />
+ 1 - Algeria <br />
+ 2 - Azerbaijan [ASIA] <br />
+ 3 - Cambodia <br />
+ 4 - Jordan <br />
+ 5 - Kazakhstan <br />
+ 6 - Saudi Arabia <br />
+ 7 - Syria <br />
+ 8 - Tajikistan <br />
+ 9 - United Arab Emirates <br />
+10 - Uzbekistan <br />
+11 - Yemen <br />
 
 <a name="europe"></a>
 ## 5. Europe.
@@ -181,15 +188,15 @@
 
 <a name="developers"></a>
 ## 11. Developers.
-1 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
-2 - Andrew Betts : https://github.com/triblondon | HTTP <br />
-3 - Anjana Vakil : https://github.com/vakila | JavaScript  <br />
-4 - Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
-5 - Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github | CSS <br />
-6 - Brandon Minnick : https://github.com/brminnick | Go <br />
-7 - Brendan Eich : https://github.com/BrendanEich | JavaScript <br />
-8 - Bryan Hughes : https://github.com/nebrius | Node.js <br />
-9 - Chris Coyier in GitHub : https://github.com/chriscoyier | CSS <br />
+ 1 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
+ 2 - Andrew Betts : https://github.com/triblondon | HTTP <br />
+ 3 - Anjana Vakil : https://github.com/vakila | JavaScript  <br />
+ 4 - Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
+ 5 - Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github | CSS <br />
+ 6 - Brandon Minnick : https://github.com/brminnick | Go <br />
+ 7 - Brendan Eich : https://github.com/BrendanEich | JavaScript <br />
+ 8 - Bryan Hughes : https://github.com/nebrius | Node.js <br />
+ 9 - Chris Coyier in GitHub : https://github.com/chriscoyier | CSS <br />
 10 - Chris Wanstrath, the founder of GitHub : https://github.com/defunkt | Git <br />
 11 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig | WebAssembly <br />
 12 - Douglas Crockford : https://github.com/douglascrockford | JavaScript <br />
@@ -282,25 +289,25 @@
 
 <a name="language"></a>
 ## 17. Languages.
-1 - British English <br />
-2 - C <br />
-3 - C++ <br />
-4 - Caml <br />
-5 - CSS <br />
-6 - GraphQL <br />
-7 - Go <br />
-8 - HTML <br />
-9 - Italian <br />
-9 - Java <br />
-10 - JavaScript <br />
-11 - Latin <br />
-12 - OCaml <br />
-13 - PHP <br />
-14 - Python <br />
-15 - Rust <br />
-16 - Sass <br />
-17 - Spanish <br />
-18 - TypeScript <br />
+ 1 - British English <br />
+ 2 - C <br />
+ 3 - C++ <br />
+ 4 - Caml <br />
+ 5 - CSS <br />
+ 6 - GraphQL <br />
+ 7 - Go <br />
+ 8 - HTML <br />
+ 9 - Italian <br />
+10 - Java <br />
+11 - JavaScript <br />
+12 - Latin <br />
+13 - OCaml <br />
+14 - PHP <br />
+15 - Python <br />
+16 - Rust <br />
+17 - Sass <br />
+18 - Spanish <br />
+19 - TypeScript <br />
 
 <a name="interface"></a>
 ## 18. Library.

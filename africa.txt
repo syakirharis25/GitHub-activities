@@ -1,22 +1,24 @@
-1 - Angola <br />
-2 - Benin <br />
-3 - Burkina Faso <br />
-4 - Burundi <br />
-5 - Chad <br />
-6 - Congo <br />
-7 - Egypt <br />
-8 - Ethiopia <br />
-9 - Ghana <br />
-10 - Guinea <br />
-11 - Ivory Coast <br />
-12 - Malawi <br />
-13 - Mali <br />
-14 - Morocco <br />
-15 - Mozambique <br />
-16 - Niger <br />
-17 - Senegal <br />
-18 - South Sudan <br />
-19 - Sudan <br />
-20 - Togo <br />
-21 - Zambia <br />
-22 - Zimbabwe <br />
+Angola <br />
+Benin <br />
+Burkina Faso <br />
+Burundi <br />
+Cameroon [AFRICA]
+Chad <br />
+Congo <br />
+Egypt <br />
+Ethiopia <br />
+Ghana <br />
+Guinea <br />
+Ivory Coast <br />
+Malawi <br />
+Mali <br />
+Morocco <br />
+Mozambique <br />
+Niger <br />
+Rwanda [AFRICA]
+Senegal <br />
+South Sudan <br />
+Sudan <br />
+Togo <br />
+Zambia <br />
+Zimbabwe <br />

@@ -1,39 +1,42 @@
-1 - Albania [EUROPE] <br />
-2 - Algeria [ASIA] <br />
-3 - Angola [AFRICA] <br />
-4 - Benin [AFRICA] <br />
-5 - Bolivia [AMERICA] <br />
-6 - Burkina Faso [AFRICA] <br />
-7 - Burundi [AFRICA] <br />
-8 - Cambodia [ASIA] <br />
-9 - Chad [AFRICA] <br />
-10 - Congo [AFRICA] <br />
-11 - Egypt [AFRICA] <br />
-12 - Ethiopia [AFRICA] <br />
-13 - Ghana [AFRICA] <br />
-14 - Guinea [AFRICA] <br />
-15 - Haiti [AMERICA] <br />
-16 - Honduras [AMERICA] <br />
-17 - Ivory Coast [AFRICA] <br />
-18 - Jordan [ASIA] <br />
-19 - Kazakhstan [ASIA] <br />
-20 - Malawi [AFRICA] <br />
-21 - Mali [AFRICA] <br />
-22 - Morocco [AFRICA] <br />
-23 - Mozambique [AFRICA] <br />
-24 - Niger [AFRICA] <br />
-25 - Saudi Arabia [ASIA] <br />
-26 - Senegal [AFRICA] <br />
-27 - Sierra Leone [AFRICA] <br />
-28 - Somalia [AFRICA] <br />
-29 - South Sudan [AFRICA] <br />
-30 - Sudan [AFRICA] <br />
-31 - Syria [ASIA] <br />
-32 - Tajikistan [ASIA] <br />
-33 - Togo [AFRICA] <br />
-34 - United Arab Emirates (UAE) [ASIA] <br />
-35 - Uzbekistan [ASIA] <br />
-36 - Venezuela [AMERICA] <br />
-37 - Yemen [ASIA] <br />
-38 - Zambia [AFRICA] <br />
-39 - Zimbabwe [AFRICA] <br />
+ 1 -   Albania [EUROPE] <br />
+ 2 -   Algeria [ASIA] <br />
+ 3 -   Angola [AFRICA] <br />
+ 4 -   Azerbaijan [ASIA] <br />
+ 5 -   Benin [AFRICA] <br />
+ 6 -   Bolivia [AMERICA] <br />
+ 7 -   Burkina Faso [AFRICA] <br />
+ 8 -   Burundi [AFRICA] <br />
+ 9 -   Cambodia [ASIA] <br />
+10 -   Cameroon [AFRICA]
+11 -   Chad [AFRICA] <br />
+12 -   Congo [AFRICA] <br />
+13 -   Egypt [AFRICA] <br />
+14 -   Ethiopia [AFRICA] <br />
+15 -   Ghana [AFRICA] <br />
+16 -   Guinea [AFRICA] <br />
+17 -   Haiti [AMERICA] <br />
+18 -   Honduras [AMERICA] <br />
+19 -   Ivory Coast [AFRICA] <br />
+20 -   Jordan [ASIA] <br />
+21 -   Kazakhstan [ASIA] <br />
+22 -   Malawi [AFRICA] <br />
+23 -   Mali [AFRICA] <br />
+24 -   Morocco [AFRICA] <br />
+25 -   Mozambique [AFRICA] <br />
+26 -   Niger [AFRICA] <br />
+27 -   Rwanda [AFRICA]
+28 -   Saudi Arabia [ASIA] <br />
+29 -   Senegal [AFRICA] <br />
+30 -   Sierra Leone [AFRICA] <br />
+31 -   Somalia [AFRICA] <br />
+32 -   South Sudan [AFRICA] <br />
+33 -   Sudan [AFRICA] <br />
+34 -   Syria [ASIA] <br />
+35 -   Tajikistan [ASIA] <br />
+36 -   Togo [AFRICA] <br />
+37 -   United Arab Emirates (UAE) [ASIA] <br />
+38 -   Uzbekistan [ASIA] <br />
+39 -   Venezuela [AMERICA] <br />
+40 -   Yemen [ASIA] <br />
+41 -   Zambia [AFRICA] <br />
+42 -   Zimbabwe [AFRICA] <br />

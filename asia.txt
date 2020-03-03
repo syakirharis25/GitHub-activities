@@ -1,10 +1,11 @@
-1 - Algeria <br />
-2 - Cambodia <br />
-3 - Jordan <br />
-4 - Kazakhstan <br />
-5 - Saudi Arabia <br />
-6 - Syria <br />
-7 - Tajikistan <br />
-8 - United Arab Emirates <br />
-9 - Uzbekistan <br />
-10 - Yemen <br />
+Algeria <br />
+Azerbaijan [ASIA] <br />
+Cambodia <br />
+Jordan <br />
+Kazakhstan <br />
+Saudi Arabia <br />
+Syria <br />
+Tajikistan <br />
+United Arab Emirates <br />
+Uzbekistan <br />
+Yemen <br />

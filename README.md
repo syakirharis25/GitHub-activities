@@ -1,8 +1,8 @@
 # Current worldwide rank : #41 as of 4 March 2020
 ### Total topic : 29
 ### Total sub topic : 140
-### Total commit in GitHub : 2,631
-### Total commit year 2020 : 2,005
+### Total commit in GitHub : 2,670‬
+### Total commit year 2020 : 2,044
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -19,7 +19,7 @@
 ### Total text editor : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 3,077,913 | WINDOWS
+### Total lines of code : 3,078,015 | WINDOWS
 
 ### Current active repository : PostgreSQL
 

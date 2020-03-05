@@ -1,6 +1,6 @@
 # Current worldwide rank : #40 as of 4 March 2020
 ### Total topic : 30
-### Total sub topic : 141
+### Total sub topic : 142
 ### Total commit in GitHub : 2,708‬
 ### Total commit year 2020 : 2,082
 ### Total commit year 2019 : 396
@@ -12,6 +12,7 @@
 ### Total developers : 72 
 ### Total environment : 1
 ### Total framework : 6
+### Total integrated development environment : 2
 ### Total interface : 2
 ### Total language : 19
 ### Total library : 2
@@ -288,7 +289,8 @@
 
 <a name="IDE"></a>
 ## 16. Integrated Development Environment.
-1 - Lazarus
+1 - Lazarus <br />
+2 - IntelliJ IDEA <br />
 
 <a name="interface"></a>
 ## 17. Interfaces.

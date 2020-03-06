@@ -15,7 +15,7 @@
 ### Total integrated development environment : 2
 ### Total interface : 2
 ### Total language : 19
-### Total library : 2
+### Total library : 3
 ### Total operating system : 5
 ### Total text editor : 4
 ### Total version control system : 1
@@ -323,6 +323,7 @@
 ## 19. Library.
 1 - jQuery <br />
 2 - Mongoose <br />
+3 - React <br />
 
 <a name="mission"></a>
 ## 20. Mission.

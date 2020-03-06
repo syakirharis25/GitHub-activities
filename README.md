@@ -20,7 +20,7 @@
 ### Total text editor : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 3,078,168 | WINDOWS
+### Total lines of code : 4,436,020 | WINDOWS
 
 ### Current active repository : PostgreSQL
 

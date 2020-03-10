@@ -1,8 +1,8 @@
-# Current worldwide rank : #40 as of 4 March 2020
-### Total topic : 30
-### Total sub topic : 142
-### Total commit in GitHub : 2,708‬
-### Total commit year 2020 : 2,082
+# Current worldwide rank : #35 as of 6 March 2020
+### Total topic : 31
+### Total sub topic : 143
+### Total commit in GitHub : 2,845‬
+### Total commit year 2020 : 2,219 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -15,12 +15,13 @@
 ### Total integrated development environment : 2
 ### Total interface : 2
 ### Total language : 19
-### Total library : 2
+### Total library : 3
 ### Total operating system : 5
+### Total specification : 1
 ### Total text editor : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 3,078,134 | WINDOWS
+### Total lines of code : 4,436,020 | WINDOWS
 
 ### Current active repository : PostgreSQL
 
@@ -35,31 +36,32 @@
  6. [Books.](#book)
  7. [Case Studies.](#casestudies)
  8. [Command-line Interpreter.](#CLI)
- 8. [Compilers.](#compiler)
- 9. [Databases.](#database)
-10. [Data Format.](#dataformat)
-11. [Developers.](#developers)
-12. [Discipline.](#discipline)
-13. [Environment.](#environment)
-14. [Frameworks.](#framework)
-15. [Integrated Development Environment.](#IDE)
-16. [Interfaces.](#interface)
-17. [Languages.](#language)
-18. [Library.](#library)
-19. [Mission.](#mission)
-20. [Operating Systems.](#os)
-21. [Package Manager.](#packagemanager)
-22. [Platform.](#platform)
-23. [Protocol.](#protocol)
-24. [Shell.](#shell)
-25. [Standard.](#standard)
-26. [Technique.](#technique)
-27. [Text Editors.](#editor)
-28. [Version Control System.](#version)
-29. [Web Browsers.](#browser)
-30. [Official website references.](#references)
-31. [GitHub notes.](#github)
-32. [GitHub repository calculation.](#calculation)
+ 9. [Compilers.](#compiler)
+10. [Databases.](#database)
+11. [Data Format.](#dataformat)
+12. [Developers.](#developers)
+13. [Discipline.](#discipline)
+14. [Environment.](#environment)
+15. [Frameworks.](#framework)
+16. [Integrated Development Environment.](#IDE)
+17. [Interfaces.](#interface)
+18. [Languages.](#language)
+19. [Library.](#library)
+20. [Mission.](#mission)
+21. [Operating Systems.](#os)
+22. [Package Manager.](#packagemanager)
+23. [Platform.](#platform)
+24. [Protocol.](#protocol)
+25. [Shell.](#shell)
+26. [Specification.](#specification)
+27. [Standard.](#standard)
+28. [Technique.](#technique)
+29. [Text Editors.](#editor)
+30. [Version Control System.](#version)
+31. [Web Browsers.](#browser)
+32. [Official website references.](#references)
+33. [GitHub notes.](#github)
+34. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -323,6 +325,7 @@
 ## 19. Library.
 1 - jQuery <br />
 2 - Mongoose <br />
+3 - React <br />
 
 <a name="mission"></a>
 ## 20. Mission.
@@ -354,31 +357,35 @@
 1 - PowerShell <br />
 2 - SSH <br />
 
+<a name="specification"></a>
+## 26. Specification.
+1 - ECMAScript
+
 <a name="standard"></a>
-## 26. Standard.
+## 27. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 27.Technique.
+## 28.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 28. Text Editors.
+## 29. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="version"></a>
-## 29. Version Control System.
+## 30. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 30. Web Browsers.
+## 31. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 31. Official website references.
+## 32. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -388,7 +395,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="github"></a>
-## 32. GitHub notes.
+## 33. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -398,7 +405,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 33. GitHub repository calculation.
+## 34. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

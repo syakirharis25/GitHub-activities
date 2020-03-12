@@ -1,8 +1,8 @@
 # Current worldwide rank : #35 as of 6 March 2020
 ### Total topic : 31
-### Total sub topic : 143
-### Total commit in GitHub : 2,845‬
-### Total commit year 2020 : 2,219 
+### Total sub topic : 144
+### Total commit in GitHub : 2,876
+### Total commit year 2020 : 2,250 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -182,6 +182,7 @@
 2 - rustc <br />
 3 - ocamlc <br />
 4 - ocamlopt <br />
+5 - Svelte <br />
 
 <a name="database"></a>
 ## 10. Databases.

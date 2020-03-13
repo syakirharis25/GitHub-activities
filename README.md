@@ -1,6 +1,6 @@
 # Current worldwide rank : #35 as of 6 March 2020
 ### Total topic : 31
-### Total sub topic : 144
+### Total sub topic : 145
 ### Total commit in GitHub : 2,876
 ### Total commit year 2020 : 2,250 
 ### Total commit year 2019 : 396
@@ -21,7 +21,7 @@
 ### Total text editor : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 4,436,020 | WINDOWS
+### Total lines of code : 4,436,054 | WINDOWS
 
 ### Current active repository : ECMAScript
 
@@ -335,6 +335,7 @@
 <a name="mission"></a>
 ## 20. Mission.
 1 - workers
+2 - supercomputer
 
 <a name="os"></a>
 ## 21. Operating Systems.

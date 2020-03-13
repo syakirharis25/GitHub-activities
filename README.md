@@ -1,6 +1,6 @@
 # Current worldwide rank : #35 as of 6 March 2020
 ### Total topic : 31
-### Total sub topic : 145
+### Total sub topic : 146
 ### Total commit in GitHub : 2,876
 ### Total commit year 2020 : 2,250 
 ### Total commit year 2019 : 396
@@ -11,7 +11,7 @@
 ### Total database : 4
 ### Total developers : 72 
 ### Total environment : 1
-### Total framework : 6
+### Total framework : 7
 ### Total integrated development environment : 2
 ### Total interface : 2
 ### Total language : 19
@@ -293,6 +293,7 @@
 4 - Express <br />
 5 - NestJS <br />
 6 - Mocha <br />
+7 - Jest <br />
 
 <a name="IDE"></a>
 ## 16. Integrated Development Environment.

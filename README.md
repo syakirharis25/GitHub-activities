@@ -21,7 +21,7 @@
 ### Total text editor : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 4,436,210 | WINDOWS
+### Total lines of code : 6,404,609 | HEALTHCARE
 
 ### Current active repository : ECMAScript
 

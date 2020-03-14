@@ -21,7 +21,7 @@
 ### Total text editor : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 4,436,054 | WINDOWS
+### Total lines of code : 4,436,210 | WINDOWS
 
 ### Current active repository : ECMAScript
 
@@ -428,7 +428,7 @@ $ git status
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                         1             32              0            239
+Markdown                         1             39              0            395
 -------------------------------------------------------------------------------
 ```
 Refer to : https://github.com/syakirharis25/cloc

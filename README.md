@@ -23,7 +23,7 @@
 ### Total web browser : 1
 ### Total lines of code : 6,404,609 | HEALTHCARE
 
-### Current active repository : ECMAScript
+### Current active repository : React
 
 <br /><br />
 

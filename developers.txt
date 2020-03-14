@@ -3,6 +3,8 @@ Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg
 Andrew Betts : https://github.com/triblondon | HTTP <br />
 Anjana Vakil : https://github.com/vakila | JavaScript  <br />
 Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
+Benjamin Dunphy : https://github.com/dunphyben | React <br />
+Benjamin Dunphy : https://github.com/dunphyben | React <br />
 Bert Bos : https://github.com/bert-github | CSS <br />
 Brandon Minnick : https://github.com/brminnick | Go <br />
 Brendan Eich : https://github.com/BrendanEich | JavaScript <br />
@@ -13,6 +15,7 @@ Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig | WebAssemb
 Douglas Crockford : https://github.com/douglascrockford | JavaScript <br />
 Douglas Crockford : https://github.com/douglascrockford | JSON <br />
 Edward Snowden : https://twitter.com/Snowden | SSH <br />
+Eric Elliott : https://github.com/ericelliott | React <br />
 Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi | Vue.js <br />
 Flavio Copes : https://github.com/flaviocopes | JavaScript <br />
 Francesc Campoy : https://github.com/campoy | Go <br />
@@ -29,7 +32,10 @@ Jeff Atwood https://github.com/coding-horror | JavaScript <br />
 John Resig : https://github.com/jeresig | JavaScript <br />
 Jon Byrum : https://github.com/jbyrum | Node.js <br />
 Joni Trythall : https://github.com/jonitrythall | CSS <br />
+José Rossi : https://github.com/joserossi | React <br />
+José Rossi : https://github.com/joserossi | React <br />
 Ken Thompson : https://github.com/ken | Go <br />
+Kingsley Silas Chijioke : https://github.com/kinsomicrote | React <br />
 Krasimir Tsonev : https://github.com/krasimir | Sass <br />
 Lars Schneider : https://github.com/larsxschneider | Git <br />
 Lin Clark : https://github.com/linclark, https://twitter.com/linclark | WebAssembly <br />
@@ -39,11 +45,13 @@ Lokesh Dhakar : https://github.com/lokesh | CSS <br />
 Lydia Hallie : https://github.com/lydiahallie | JavaScript <br />
 Marijn Haverbeke : https://github.com/marijnh | JavaScript <br />
 Mario Hoyos : https://github.com/mariohoyos92 | Express <br />
-Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
 Mark Otto : https://github.com/mdo | CSS <br />
+Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
 Mathias Buus : https://github.com/mafintosh | Electron <br />
 Michael Tiemann : https://github.com/MichaelTiemann | open source <br/>
 Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne | Sass <br />
+Mosh Hamedani : https://github.com/mosh-hamedani | React <br />
+Mosh Hamedani : https://github.com/mosh-hamedani | React <br />
 Moshfegh Hamedani : https://twitter.com/moshhamedani | Java <br />
 Mu-An : https://github.com/muan | Electron <br />
 Nahid Samsami : https://github.com/nsamsami | Node.js <br />
@@ -66,10 +74,12 @@ Shaun The Net Ninja : https://github.com/iamshaunjp | CSS <br />
 Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee | HTML <br />
 Steffen Kolmer  : https://github.com/skolmer | JavaScript <br />
 Steve Souders : http://stevesouders.com, https://github.com/stevesouders | HTTP <br />
+Sunil Sandhu : https://github.com/sunil-sandhu | React <br />
+Sunil Sandhu : https://github.com/sunil-sandhu | React <br />
 Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev | WebAssembly <br />
 Tamas Piros : https://github.com/tamaspiros | Express <br />
 Tatu Ylonen : https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh | SSH <br />
 Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell | Vue.js <br />
 TJ Holowaychuk : https://github.com/tj | Express <br />
 Vigneshwer Dhinakaran : https://github.com/dvigneshwer | Node.js <br />
-Xavier Leroy : https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml
+Xavier Leroy : https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml <br />

@@ -1,6 +1,6 @@
 # Current worldwide rank : #35 as of 6 March 2020
-### Total topic : 32
-### Total sub topic : 147
+### Total topic : 33
+### Total sub topic : 148
 ### Total commit in GitHub : 2,934
 ### Total commit year 2020 : 2,308 
 ### Total commit year 2019 : 396
@@ -48,21 +48,22 @@
 18. [Languages.](#language)
 19. [Library.](#library)
 20. [Mission.](#mission)
-21. [Operating Systems.](#os)
-22. [Package Manager.](#packagemanager)
-23. [Platform.](#platform)
-24. [Protocol.](#protocol)
-25. [Shell.](#shell)
-26. [Specification.](#specification)
-27. [Standard.](#standard)
-28. [Technique.](#technique)
-29. [Text Editors.](#editor)
-30. [Tools.](#tools)
-31. [Version Control System.](#version)
-32. [Web Browsers.](#browser)
-33. [Official website references.](#references)
-34. [GitHub notes.](#github)
-35. [GitHub repository calculation.](#calculation)
+21. [Module Bundler.](#modulebundler)
+22. [Operating Systems.](#os)
+23. [Package Manager.](#packagemanager)
+24. [Platform.](#platform)
+25. [Protocol.](#protocol)
+26. [Shell.](#shell)
+27. [Specification.](#specification)
+28. [Standard.](#standard)
+29. [Technique.](#technique)
+30. [Text Editors.](#editor)
+31. [Tools.](#tools)
+32. [Version Control System.](#version)
+33. [Web Browsers.](#browser)
+34. [Official website references.](#references)
+35. [GitHub notes.](#github)
+36. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -345,8 +346,12 @@
 1 - workers
 2 - supercomputer
 
+<a name="modulebundler"></a>
+## 21. Module Bundler.
+1 - webpack <br />
+
 <a name="os"></a>
-## 21. Operating Systems.
+## 22. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
@@ -354,56 +359,56 @@
 5 - Linux | Parrot OS <br />
 
 <a name="packagemanager"></a>
-## 22. Package Manager.
+## 23. Package Manager.
 1 - npm <br />
 2 - Yarn <br />
 
 <a name="platform"></a>
-## 23. Platform.
+## 24. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 24. Protocol.
+## 25. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="shell"></a>
-## 25. Shell.
+## 26. Shell.
 1 - PowerShell <br />
 2 - SSH <br />
 
 <a name="specification"></a>
-## 26. Specification.
+## 27. Specification.
 1 - ECMAScript
 
 <a name="standard"></a>
-## 27. Standard.
+## 28. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 28.Technique.
+## 29.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 29. Text Editors.
+## 30. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="tools"></a>
-## 30. Tools.
+## 31. Tools.
 1 - ESLint
 
 <a name="version"></a>
-## 31. Version Control System.
+## 32. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 32. Web Browsers.
+## 33. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 33. Official website references.
+## 34. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -413,7 +418,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="github"></a>
-## 34. GitHub notes.
+## 35. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -423,7 +428,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 35. GitHub repository calculation.
+## 36. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

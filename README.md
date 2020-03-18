@@ -9,7 +9,7 @@
 ### Total region : 42 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
 ### Total data format : 1
 ### Total database : 4
-### Total developers : 81 
+### Total developers : 84 
 ### Total environment : 1
 ### Total framework : 7
 ### Total integrated development environment : 2
@@ -201,85 +201,88 @@
 ## 12. Developers.  
  1 - Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
  2 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
- 3 - Andrew Betts : https://github.com/triblondon | HTTP <br />
- 4 - Anjana Vakil : https://github.com/vakila | JavaScript  <br />
- 5 - Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
- 6 - Benjamin Dunphy : https://github.com/dunphyben | React <br />
- 7 - Bert Bos : https://github.com/bert-github | CSS <br />
- 8 - Brandon Minnick : https://github.com/brminnick | Go <br />
- 9 - Brendan Eich : https://github.com/BrendanEich | JavaScript <br />
-10 - Bryan Hughes : https://github.com/nebrius | Node.js <br />
-11 - Chris Coyier : https://github.com/chriscoyier | CSS <br />
-12 - Chris Wanstrath : https://github.com/defunkt | Git <br />
-13 - David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano | React <br />
-14 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig | WebAssembly <br />
-15 - Douglas Crockford : https://github.com/douglascrockford | JavaScript | JSON<br />
-16 - Edward Snowden : https://twitter.com/Snowden | SSH <br />
-17 - Eric Elliott : https://github.com/ericelliott | React <br />
-18 - Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi | Vue.js <br />
-19 - Flavio Copes : https://github.com/flaviocopes | JavaScript <br />
-20 - Francesc Campoy : https://github.com/campoy | Go <br />
-21 - Gabor Szabo : https://github.com/szabgab | Node.js <br />
-22 - Ganesh Mani : https://github.com/ganeshmani | Node.js <br />
-23 - Guido van Rossum : https://github.com/gvanrossum | open source | Python <br/>
-24 - Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday | Vue.js <br />
-25 - Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com | Sass <br />
-26 - Hrishi Mittal : https://github.com/hrishimittal | React <br />
-27 - Jacob Thornton : https://github.com/fat | Bootstrap | CSS <br />
-28 - James Hibbard : https://github.com/jameshibbard | Node.js <br />
-29 - Jamie Zawinski : https://github.com/yesthatjwz | open source <br/>
-30 - Jeff Atwood https://github.com/coding-horror | JavaScript <br />
-31 - John Resig : https://github.com/jeresig | JavaScript <br />
-32 - Jon Byrum : https://github.com/jbyrum | Node.js <br />
-33 - Joni Trythall : https://github.com/jonitrythall | CSS <br />
-34 - José Rossi : https://github.com/joserossi | React <br />
-35 - Ken Thompson : https://github.com/ken | Go <br />
-36 - Kingsley Silas Chijioke : https://github.com/kinsomicrote | React <br />
-37 - Krasimir Tsonev : https://github.com/krasimir | Sass <br />
-38 - Lars Schneider : https://github.com/larsxschneider | Git <br />
-39 - Lin Clark : https://github.com/linclark, https://twitter.com/linclark | WebAssembly <br />
-40 - Linus Torvalds : https://github.com/torvalds | Git | Linux | open source <br />
-41 - Lokesh Dhakar : https://github.com/lokesh | CSS <br />
-42 - Lydia Hallie : https://github.com/lydiahallie | JavaScript <br />
-43 - Marijn Haverbeke : https://github.com/marijnh | JavaScript <br />
-44 - Mario Hoyos : https://github.com/mariohoyos92 | Express <br />
-45 - Mark Otto : https://github.com/mdo | CSS <br />
-46 - Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
-47 - Mathias Buus : https://github.com/mafintosh | Electron <br />
-48 - Michael Tiemann : https://github.com/MichaelTiemann | open source <br/>
-49 - Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne | Sass <br />
-50 - Moshfegh Hamedani : https://github.com/mosh-hamedani | React | Java <br />
-51 - Mu-An : https://github.com/muan | Electron <br />
-52 - Nahid Samsami : https://github.com/nsamsami | Node.js <br />
-53 - Nat Friedman : https://github.com/nat | Git <br />
-54 - Natalie Weizenbaum : https://github.com/nex3 | Sass <br />
-55 - Nikita Prokopov : https://github.com/tonsky | JavaScript <br />
-56 - Paul Vixie : https://github.com/vixie | open source <br/>
-57 - Philip Guo : https://github.com/pgbovine | JavaScript <br />
-58 - Rasmus Lerdorf : https://github.com/rlerdorf | PHP <br />
-59 - Rob Pike : https://github.com/robpike | Go <br />
-60 - Robert Griesemer : https://github.com/griesemer | Go <br />
-61 - Robin Rendle : https://github.com/robinrendle | CSS <br />
-62 - Russ Cox : https://github.com/rsc | Go <br />
-63 - Ryan Florence : https://github.com/ryanflorence, https://twitter.com/ryanflorence | React <br />
-64 - S M Asad Rahman : https://github.com/asad-mlbd | Node.js <br />
-65 - Sandhika Galih : https://github.com/sandhikagalih | JavaScript <br />
-66 - Sarah Drasner : https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo | Vue.js <br />
-67 - Saurabh Mhatre : https://github.com/smhatre59 | Node.js <br />
-68 - Sepideh Setayeshfar : https://github.com/ssetayeshfar | Node.js <br />
-69 - Shaun The Net Ninja : https://github.com/iamshaunjp | CSS <br />
-70 - Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee | HTML <br />
-71 - Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com | React <br />
-72 - Steffen Kolmer : https://github.com/skolmer | JavaScript <br />
-73 - Steve Souders : http://stevesouders.com, https://github.com/stevesouders | HTTP <br />
-74 - Sunil Sandhu : https://github.com/sunil-sandhu | React <br />
-75 - Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev | WebAssembly <br />
-76 - Tamas Piros : https://github.com/tamaspiros | Express <br />
-77 - Tatu Ylonen : https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh | SSH <br />
-78 - Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell | Vue.js <br />
-79 - TJ Holowaychuk : https://github.com/tj | Express <br />
-80 - Vigneshwer Dhinakaran : https://github.com/dvigneshwer | Node.js <br />
-81 - Xavier Leroy : https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml <br />
+ 3 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
+ 4 - Andrew Betts : https://github.com/triblondon | HTTP <br />
+ 5 - Anjana Vakil : https://github.com/vakila | JavaScript  <br />
+ 6 - Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
+ 7 - Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
+ 8 - Benjamin Dunphy : https://github.com/dunphyben | React <br />
+ 9 - Bert Bos : https://github.com/bert-github | CSS <br />
+10 - Brandon Minnick : https://github.com/brminnick | Go <br />
+11 - Brendan Eich : https://github.com/BrendanEich | JavaScript <br />
+12 - Brie Bunge : https://github.com/brieb, https://twitter.com/briebunge | TypeScript <br />
+13 - Bryan Hughes : https://github.com/nebrius | Node.js <br />
+14 - Chris Coyier : https://github.com/chriscoyier | CSS <br />
+15 - Chris Wanstrath : https://github.com/defunkt | Git <br />
+16 - David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano | React <br />
+17 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig | WebAssembly <br />
+18 - Douglas Crockford : https://github.com/douglascrockford | JavaScript | JSON<br />
+19 - Edward Snowden : https://twitter.com/Snowden | SSH <br />
+20 - Eric Elliott : https://github.com/ericelliott | React <br />
+21 - Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi | Vue.js <br />
+22 - Flavio Copes : https://github.com/flaviocopes | JavaScript <br />
+23 - Francesc Campoy : https://github.com/campoy | Go <br />
+24 - Gabor Szabo : https://github.com/szabgab | Node.js <br />
+25 - Ganesh Mani : https://github.com/ganeshmani | Node.js <br />
+26 - Guido van Rossum : https://github.com/gvanrossum | open source | Python <br/>
+27 - Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday | Vue.js <br />
+28 - Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com | Sass <br />
+29 - Hrishi Mittal : https://github.com/hrishimittal | React <br />
+30 - Jacob Thornton : https://github.com/fat | Bootstrap | CSS <br />
+31 - James Hibbard : https://github.com/jameshibbard | Node.js <br />
+32 - Jamie Zawinski : https://github.com/yesthatjwz | open source <br/>
+33 - Jeff Atwood https://github.com/coding-horror | JavaScript <br />
+34 - John Resig : https://github.com/jeresig | JavaScript <br />
+35 - Jon Byrum : https://github.com/jbyrum | Node.js <br />
+36 - Joni Trythall : https://github.com/jonitrythall | CSS <br />
+37 - José Rossi : https://github.com/joserossi | React <br />
+38 - Ken Thompson : https://github.com/ken | Go <br />
+39 - Kingsley Silas Chijioke : https://github.com/kinsomicrote | React <br />
+40 - Krasimir Tsonev : https://github.com/krasimir | Sass <br />
+41 - Lars Schneider : https://github.com/larsxschneider | Git <br />
+42 - Lin Clark : https://github.com/linclark, https://twitter.com/linclark | WebAssembly <br />
+43 - Linus Torvalds : https://github.com/torvalds | Git | Linux | open source <br />
+44 - Lokesh Dhakar : https://github.com/lokesh | CSS <br />
+45 - Lydia Hallie : https://github.com/lydiahallie | JavaScript <br />
+46 - Marijn Haverbeke : https://github.com/marijnh | JavaScript <br />
+47 - Mario Hoyos : https://github.com/mariohoyos92 | Express <br />
+48 - Mark Otto : https://github.com/mdo | CSS <br />
+49 - Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
+50 - Mathias Buus : https://github.com/mafintosh | Electron <br />
+51 - Michael Tiemann : https://github.com/MichaelTiemann | open source <br/>
+52 - Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne | Sass <br />
+53 - Moshfegh Hamedani : https://github.com/mosh-hamedani | React | Java <br />
+54 - Mu-An : https://github.com/muan | Electron <br />
+55 - Nahid Samsami : https://github.com/nsamsami | Node.js <br />
+56 - Nat Friedman : https://github.com/nat | Git <br />
+57 - Natalie Weizenbaum : https://github.com/nex3 | Sass <br />
+58 - Nikita Prokopov : https://github.com/tonsky | JavaScript <br />
+59 - Paul Vixie : https://github.com/vixie | open source <br/>
+60 - Philip Guo : https://github.com/pgbovine | JavaScript <br />
+61 - Rasmus Lerdorf : https://github.com/rlerdorf | PHP <br />
+62 - Rob Pike : https://github.com/robpike | Go <br />
+63 - Robert Griesemer : https://github.com/griesemer | Go <br />
+64 - Robin Rendle : https://github.com/robinrendle | CSS <br />
+65 - Russ Cox : https://github.com/rsc | Go <br />
+66 - Ryan Florence : https://github.com/ryanflorence, https://twitter.com/ryanflorence | React <br />
+67 - S M Asad Rahman : https://github.com/asad-mlbd | Node.js <br />
+68 - Sandhika Galih : https://github.com/sandhikagalih | JavaScript <br />
+69 - Sarah Drasner : https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo | Vue.js <br />
+70 - Saurabh Mhatre : https://github.com/smhatre59 | Node.js <br />
+71 - Sepideh Setayeshfar : https://github.com/ssetayeshfar | Node.js <br />
+72 - Shaun The Net Ninja : https://github.com/iamshaunjp | CSS <br />
+73 - Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee | HTML <br />
+74 - Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com | React <br />
+75 - Steffen Kolmer : https://github.com/skolmer | JavaScript <br />
+76 - Steve Souders : http://stevesouders.com, https://github.com/stevesouders | HTTP <br />
+77 - Sunil Sandhu : https://github.com/sunil-sandhu | React <br />
+78 - Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev | WebAssembly <br />
+79 - Tamas Piros : https://github.com/tamaspiros | Express <br />
+80 - Tatu Ylonen : https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh | SSH <br />
+81 - Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell | Vue.js <br />
+82 - TJ Holowaychuk : https://github.com/tj | Express <br />
+83 - Vigneshwer Dhinakaran : https://github.com/dvigneshwer | Node.js <br />
+84 - Xavier Leroy : https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml <br />
 
 <a name="discipline"></a>
 ## 13. Discipline.

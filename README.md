@@ -1,8 +1,8 @@
 # Current worldwide rank : #40 as of 18 March 2020
 ### Total topic : 33
 ### Total sub topic : 148
-### Total commit in GitHub : 3,042
-### Total commit year 2020 : 2,416 
+### Total commit in GitHub : 3,057
+### Total commit year 2020 : 2,431 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -21,9 +21,9 @@
 ### Total text editor : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 6,404,872 | HEALTHCARE
+### Total lines of code : 9,941,390 | FIREFOX
 
-### Current active repository : React
+### Current active repository : Vue.js
 
 <br /><br />
 

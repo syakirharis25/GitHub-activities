@@ -1,6 +1,6 @@
 # Current worldwide rank : #40 as of 18 March 2020
-### Total topic : 33
-### Total sub topic : 148
+### Total topic : 34
+### Total sub topic : 149
 ### Total commit in GitHub : 3,057
 ### Total commit year 2020 : 2,431 
 ### Total commit year 2019 : 396
@@ -21,7 +21,7 @@
 ### Total text editor : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,941,390 | FIREFOX
+### Total lines of code : 9,941,430 | FIREFOX
 
 ### Current active repository : Vue.js
 
@@ -33,37 +33,38 @@
  3. [America.](#america)
  4. [Asia.](#asia)
  5. [Europe.](#europe)
- 6. [Books.](#book)
- 7. [Case Studies.](#casestudies)
- 8. [Command-line Interpreter.](#CLI)
- 9. [Compilers.](#compiler)
-10. [Databases.](#database)
-11. [Data Format.](#dataformat)
-12. [Developers.](#developers)
-13. [Discipline.](#discipline)
-14. [Environment.](#environment)
-15. [Frameworks.](#framework)
-16. [Integrated Development Environment.](#IDE)
-17. [Interfaces.](#interface)
-18. [Languages.](#language)
-19. [Library.](#library)
-20. [Mission.](#mission)
-21. [Module Bundler.](#modulebundler)
-22. [Operating Systems.](#os)
-23. [Package Manager.](#packagemanager)
-24. [Platform.](#platform)
-25. [Protocol.](#protocol)
-26. [Shell.](#shell)
-27. [Specification.](#specification)
-28. [Standard.](#standard)
-29. [Technique.](#technique)
-30. [Text Editors.](#editor)
-31. [Tools.](#tools)
-32. [Version Control System.](#version)
-33. [Web Browsers.](#browser)
-34. [Official website references.](#references)
-35. [GitHub notes.](#github)
-36. [GitHub repository calculation.](#calculation)
+ 6. [Algorithms.](#algorithms)
+ 7. [Books.](#book)
+ 8. [Case Studies.](#casestudies)
+ 9. [Command-line Interpreter.](#CLI)
+10. [Compilers.](#compiler)
+11. [Databases.](#database)
+12. [Data Format.](#dataformat)
+13. [Developers.](#developers)
+14. [Discipline.](#discipline)
+15. [Environment.](#environment)
+16. [Frameworks.](#framework)
+17. [Integrated Development Environment.](#IDE)
+18. [Interfaces.](#interface)
+19. [Languages.](#language)
+20. [Library.](#library)
+21. [Mission.](#mission)
+22. [Module Bundler.](#modulebundler)
+23. [Operating Systems.](#os)
+24. [Package Manager.](#packagemanager)
+25. [Platform.](#platform)
+26. [Protocol.](#protocol)
+27. [Shell.](#shell)
+28. [Specification.](#specification)
+29. [Standard.](#standard)
+30. [Technique.](#technique)
+31. [Text Editors.](#editor)
+32. [Tools.](#tools)
+33. [Version Control System.](#version)
+34. [Web Browsers.](#browser)
+35. [Official website references.](#references)
+36. [GitHub notes.](#github)
+37. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -162,8 +163,12 @@
 ## 5. Europe.
 1 - Albania
 
+<a name="algorithms"></a>
+## 6. Algorithms.
+1 - Training Data <br />
+
 <a name="book"></a>
-## 6. Books.
+## 7. Books.
 1 - Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design by Michael J. Hernandez (Third Edition) <br />
 2 - Eloquent JavaScript by Marijn Haverbeke (Third edition) <br />
 3 - Mongodb: the Definitive Guide by Shannon Bradshaw and Kristina Chodorow (Third Edition) <br />
@@ -171,15 +176,15 @@
 5 - The Rust Programming Language by Steve Klabnik and Carol Nichols
 
 <a name="casestudies"></a>
-## 7. Case Studies.
+## 8. Case Studies.
 1 - F-22
 
 <a name="CLI"></a>
-## 8. Command-line Interpreter.
+## 9. Command-line Interpreter.
 1 - Windows Command Prompt
 
 <a name="compiler"></a>
-## 9. Compilers.
+## 10. Compilers.
 1 - Free Pascal <br />
 2 - rustc <br />
 3 - ocamlc <br />
@@ -187,18 +192,18 @@
 5 - Svelte <br />
 
 <a name="database"></a>
-## 10. Databases.
+## 11. Databases.
 1 - MySQL <br />
 2 - MongoDB <br />
 3 - Apache Cassandra <br />
 4 - PostgresQL <br />
 
 <a name="dataformat"></a>
-## 11. Data Format.
+## 12. Data Format.
 1 - JSON
 
 <a name="developers"></a>
-## 12. Developers.  
+## 13. Developers.  
  1 - Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
  2 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
  3 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
@@ -285,15 +290,15 @@
 84 - Xavier Leroy : https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml <br />
 
 <a name="discipline"></a>
-## 13. Discipline.
+## 14. Discipline.
 1. Statistics <br />
 
 <a name="environment"></a>
-## 14. Environment.
+## 15. Environment.
 1 - Node.js
 
 <a name="framework"></a>
-## 15. Frameworks.
+## 16. Frameworks.
 1 - Bootstrap <br />
 2 - Drupal <br />
 3 - Electron <br />
@@ -303,17 +308,17 @@
 7 - Jest <br />
 
 <a name="IDE"></a>
-## 16. Integrated Development Environment.
+## 17. Integrated Development Environment.
 1 - Lazarus <br />
 2 - IntelliJ IDEA <br />
 
 <a name="interface"></a>
-## 17. Interfaces.
+## 18. Interfaces.
 1 - Programming Interface (API)
 2 - Insomnia
 
 <a name="language"></a>
-## 18. Languages.
+## 19. Languages.
  1 - British English <br />
  2 - C <br />
  3 - C++ <br />
@@ -335,22 +340,22 @@
 19 - TypeScript <br />
 
 <a name="interface"></a>
-## 19. Library.
+## 20. Library.
 1 - jQuery <br />
 2 - Mongoose <br />
 3 - React <br />
 
 <a name="mission"></a>
-## 20. Mission.
+## 21. Mission.
 1 - workers
 2 - supercomputer
 
 <a name="modulebundler"></a>
-## 21. Module Bundler.
+## 22. Module Bundler.
 1 - webpack <br />
 
 <a name="os"></a>
-## 22. Operating Systems.
+## 23. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
@@ -358,56 +363,56 @@
 5 - Linux | Parrot OS <br />
 
 <a name="packagemanager"></a>
-## 23. Package Manager.
+## 24. Package Manager.
 1 - npm <br />
 2 - Yarn <br />
 
 <a name="platform"></a>
-## 24. Platform.
+## 25. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 25. Protocol.
+## 26. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="shell"></a>
-## 26. Shell.
+## 27. Shell.
 1 - PowerShell <br />
 2 - SSH <br />
 
 <a name="specification"></a>
-## 27. Specification.
+## 28. Specification.
 1 - ECMAScript
 
 <a name="standard"></a>
-## 28. Standard.
+## 29. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 29.Technique.
+## 30.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 30. Text Editors.
+## 31. Text Editors.
 1 - Vim <br />
 2 - Visual Studio Code <br />
 3 - Atom <br />
 4 - Code::Blocks <br />
 
 <a name="tools"></a>
-## 31. Tools.
+## 32. Tools.
 1 - ESLint
 
 <a name="version"></a>
-## 32. Version Control System.
+## 33. Version Control System.
 1 - Git
 
 <a name="browser"></a>
-## 33. Web Browsers.
+## 34. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 34. Official website references.
+## 35. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -417,7 +422,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="github"></a>
-## 35. GitHub notes.
+## 36. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -427,7 +432,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 36. GitHub repository calculation.
+## 37. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

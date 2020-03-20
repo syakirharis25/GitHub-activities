@@ -1,6 +1,6 @@
 # Current worldwide rank : #40 as of 18 March 2020
 ### Total topic : 34
-### Total sub topic : 150
+### Total sub topic : 151
 ### Total commit in GitHub : 3,057
 ### Total commit year 2020 : 2,431 
 ### Total commit year 2019 : 396
@@ -18,7 +18,7 @@
 ### Total library : 3
 ### Total operating system : 5
 ### Total specification : 1
-### Total text editor : 4
+### Total text editor : 5
 ### Total version control system : 1
 ### Total web browser : 1
 ### Total lines of code : 9,941,430 | FIREFOX
@@ -395,10 +395,11 @@
 
 <a name="editor"></a>
 ## 31. Text Editors.
-1 - Vim <br />
-2 - Visual Studio Code <br />
-3 - Atom <br />
-4 - Code::Blocks <br />
+1 - Atom <br />
+2 - Code::Blocks <br />
+3 - Sublime <br />
+4 - Vim <br />
+5 - Visual Studio Code <br />
 
 <a name="tools"></a>
 ## 32. Tools.

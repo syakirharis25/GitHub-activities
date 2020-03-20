@@ -1,6 +1,6 @@
 # Current worldwide rank : #40 as of 18 March 2020
 ### Total topic : 34
-### Total sub topic : 151
+### Total sub topic : 152
 ### Total commit in GitHub : 3,057
 ### Total commit year 2020 : 2,431 
 ### Total commit year 2019 : 396
@@ -14,7 +14,7 @@
 ### Total framework : 9
 ### Total integrated development environment : 2
 ### Total interface : 2
-### Total language : 19
+### Total language : 20
 ### Total library : 3
 ### Total operating system : 5
 ### Total specification : 1
@@ -336,10 +336,11 @@
 13 - OCaml <br />
 14 - PHP <br />
 15 - Python <br />
-16 - Rust <br />
-17 - Sass <br />
-18 - Spanish <br />
-19 - TypeScript <br />
+16 - Ruby <br />
+17 - Rust <br />
+18 - Sass <br />
+19 - Spanish <br />
+20 - TypeScript <br />
 
 <a name="interface"></a>
 ## 20. Library.

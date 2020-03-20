@@ -11,7 +11,7 @@
 ### Total database : 4
 ### Total developers : 84 
 ### Total environment : 1
-### Total framework : 8
+### Total framework : 9
 ### Total integrated development environment : 2
 ### Total interface : 2
 ### Total language : 19
@@ -303,10 +303,11 @@
 2 - Drupal <br />
 3 - Electron <br />
 4 - Express <br />
-5 - Materialize <br />
-6 - NestJS <br />
+5 - Jest <br />
+6 - Materialize <br />
 7 - Mocha <br />
-8 - Jest <br />
+8 - NestJS <br />
+9 - Ruby on Rails <br />
 
 <a name="IDE"></a>
 ## 17. Integrated Development Environment.

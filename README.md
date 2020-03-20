@@ -397,7 +397,7 @@
 ## 31. Text Editors.
 1 - Atom <br />
 2 - Code::Blocks <br />
-3 - Sublime <br />
+3 - Sublime Text <br />
 4 - Vim <br />
 5 - Visual Studio Code <br />
 

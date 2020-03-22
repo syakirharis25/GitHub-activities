@@ -1,4 +1,5 @@
-1 - Vim <br />
-2 - Visual Studio Code <br />
-3 - Atom <br />
-4 - Code::Blocks <br />
+Atom <br />
+Code::Blocks <br />
+Sublime Text <br />
+Vim <br />
+Visual Studio Code <br />

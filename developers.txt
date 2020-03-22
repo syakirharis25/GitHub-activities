@@ -21,7 +21,7 @@ Eric Elliott : https://github.com/ericelliott | React <br />
 Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi | Vue.js <br />
 Flavio Copes : https://github.com/flaviocopes | JavaScript <br />
 Francesc Campoy : https://github.com/campoy | Go <br />
-Gabor Szabo : https://github.com/szabgab | Node.js <br />
+Gabor Szabo : https://github.com/szabgab | Node.js | Ruby <br />
 Ganesh Mani : https://github.com/ganeshmani | Node.js <br />
 Guido van Rossum : https://github.com/gvanrossum | open source | Python <br/>
 Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday | Vue.js <br />
@@ -82,3 +82,4 @@ Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwel
 TJ Holowaychuk : https://github.com/tj | Express <br />
 Vigneshwer Dhinakaran : https://github.com/dvigneshwer | Node.js <br />
 Xavier Leroy : https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml <br />
+Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz | Ruby <br />

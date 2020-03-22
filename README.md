@@ -9,7 +9,7 @@
 ### Total region : 42 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
 ### Total data format : 1
 ### Total database : 4
-### Total developers : 84 
+### Total developers : 85 
 ### Total environment : 1
 ### Total framework : 9
 ### Total integrated development environment : 2
@@ -21,7 +21,7 @@
 ### Total text editor : 5
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,941,430 | FIREFOX
+### Total lines of code : 9,941,779 | FIREFOX
 
 ### Current active repository : Vue.js
 
@@ -227,7 +227,7 @@
 21 - Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi | Vue.js <br />
 22 - Flavio Copes : https://github.com/flaviocopes | JavaScript <br />
 23 - Francesc Campoy : https://github.com/campoy | Go <br />
-24 - Gabor Szabo : https://github.com/szabgab | Node.js <br />
+24 - Gabor Szabo : https://github.com/szabgab | Node.js | Ruby <br />
 25 - Ganesh Mani : https://github.com/ganeshmani | Node.js <br />
 26 - Guido van Rossum : https://github.com/gvanrossum | open source | Python <br/>
 27 - Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday | Vue.js <br />
@@ -288,6 +288,7 @@
 82 - TJ Holowaychuk : https://github.com/tj | Express <br />
 83 - Vigneshwer Dhinakaran : https://github.com/dvigneshwer | Node.js <br />
 84 - Xavier Leroy : https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml <br />
+85 - Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz | Ruby <br />
 
 <a name="discipline"></a>
 ## 14. Discipline.

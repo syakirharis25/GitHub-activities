@@ -353,8 +353,8 @@
 
 <a name="mission"></a>
 ## 21. Mission.
-1 - workers
-2 - supercomputer
+1 - workers <br />
+2 - supercomputer <br />
 
 <a name="modulebundler"></a>
 ## 22. Module Bundler.

@@ -23,7 +23,7 @@
 ### Total web browser : 1
 ### Total lines of code : 9,941,779 | FIREFOX
 
-### Current active repository : Vue.js
+### Current active repository : SQLite
 
 <br /><br />
 

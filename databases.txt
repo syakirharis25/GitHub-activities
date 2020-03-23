@@ -2,4 +2,3 @@
 2 - MongoDB <br />
 3 - MySQL <br />
 4 - PostgresQL <br />
-5 - SQLite <br />

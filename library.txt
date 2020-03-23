@@ -1,2 +1,4 @@
-1 - jQuery <br />
-2 - Mongoose <br />
+jQuery <br />
+Mongoose <br />
+React <br />
+SQLite <br />

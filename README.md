@@ -349,6 +349,7 @@
 1 - jQuery <br />
 2 - Mongoose <br />
 3 - React <br />
+4 - SQLite <br />
 
 <a name="mission"></a>
 ## 21. Mission.

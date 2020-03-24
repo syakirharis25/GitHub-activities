@@ -1,7 +1,7 @@
-*** GitHub owned by Microsoft <br />
-*** Microsoft founded by Bill Gates and Paul Allen <br />
-*** Bill Gates working at least 16 hours every single day, sleep under the table until his work finish <br />
-*** Paul Allen appreciates everything he can get around him, even though it is just garbage left by others to teach his beloved student, Bill Gates on how to do proper programming language <br />
+*** **GitHub, Inc.** owned by **Microsoft Corporation** <br />
+*** **Microsoft Corporation** founded by `Bill Gates` and `Paul Allen` <br />
+*** `Bill Gates` working at least 16 hours every single day, sleep under the table until his work finish <br />
+*** `Paul Allen` appreciates everything he can get around him, even though it is just garbage left by others to teach his beloved student, `Bill Gates` on how to do proper programming language <br />
 
 # Current worldwide rank : #29 as of 25 March 2020
 ### Total topic : 34

@@ -1,3 +1,4 @@
+# some brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />
 *** **Microsoft Corporation** founded by `William Henry Gates III` and `Paul Gardner Allen` <br />
 *** `William Henry Gates III` working at least 16 hours every single day, sleep under the table until his work finish <br />

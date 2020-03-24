@@ -3,7 +3,7 @@
 *** **Microsoft Corporation** founded by `William Henry Gates III` and `Paul Gardner Allen` <br />
 *** `William Henry Gates III` working at least 16 hours every single day, can go to more than 36 hours non-stop, he even sleep under his office table until his work fully finish ( Latin : aut coepisse noli aut confice | English : accomplish or do not begin ) <br />
 *** `Paul Gardner Allen` appreciates everything he can get, reach near him, even though it is just garbage left by others to teach his beloved student, `William Henry Gates III` on how to do proper programming language <br />
-*** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime, AMERIKA SYARIKAT | MICROSOFT : dari kutip sampah orang lain kepada jana RM3,422,120,000,000, https://www.youtube.com/watch?v=3CyfGS9jLsI&t=2s <br />
+*** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime, AMERIKA SYARIKAT | MICROSOFT : dari kutip sampah orang lain kepada jana paling kurang RM 3,422,120,000,000, https://www.youtube.com/watch?v=3CyfGS9jLsI&t=2s <br />
 
 # Current worldwide rank : #29 as of 25 March 2020
 ### Total topic : 34

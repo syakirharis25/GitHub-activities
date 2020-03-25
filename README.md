@@ -8,7 +8,7 @@
 
 # Current worldwide rank : #29 as of 25 March 2020
 ### Total topic : 34
-### Total sub topic : 155
+### Total sub topic : 156
 ### Total commit in GitHub : 3,341 ( last counter : 3,341 | differences : 0 )
 ### Total commit year 2020 : 2,715 ( last counter : 2,715 | differences : 0 )
 ### Total commit year 2019 : 396
@@ -27,7 +27,7 @@
 ### Total operating system : 5
 ### Total specification : 1
 ### Total text editor : 5
-### Total tools : 2
+### Total tools : 3
 ### Total version control system : 1
 ### Total web browser : 1
 ### Total lines of code : 9,941,779 | FIREFOX ( last counter : 9,941,779 | differences : 0 )
@@ -420,6 +420,7 @@
 ## 32. Tools.
 1 - ESLint <br />
 2 - DB Browser for SQLite <br />
+3 - RSpec <br />
 
 <a name="version"></a>
 ## 33. Version Control System.

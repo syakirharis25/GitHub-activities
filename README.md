@@ -4,7 +4,7 @@
 *** `William Henry Gates III` working at least 16 hours every single day, sometimes can go to more than 36 hours non-stop, he even sleep under his office table until his work fully finish ( Latin : aut coepisse noli aut confice | English : accomplish or do not begin ) <br />
 *** `Paul Gardner Allen` appreciates everything he can get, reach near him, even though it is just a piece of garbage left by others to teach his beloved student, `William Henry Gates III` on how to do proper coding, proper comprehension of programming language concept in the world of computer science <br />
 *** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime <br />
-*** What you do right now, what you believe in, what you work so hard to accomplish right now will define what you will become in the future, just do your work, just do your job, just do it <br />
+*** What you do right now, what you really believe in right now, what you work so hard to accomplish right now will define what you will become in the future, just do your work, just do your job, just do it <br />
 
 # Current worldwide rank : #29 as of 25 March 2020
 ### Total topic : 34

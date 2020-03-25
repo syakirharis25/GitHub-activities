@@ -32,7 +32,7 @@
 ### Total web browser : 1
 ### Total lines of code : 9,941,779 | FIREFOX ( last counter : 9,941,779 | differences : 0 )
 
-### Current active repository : SQLite
+### Current active repository : RSpec
 
 <br /><br />
 

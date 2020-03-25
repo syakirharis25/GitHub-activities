@@ -6,11 +6,11 @@
 *** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime <br />
 *** What you do right now, what you really believe in right now, what you work so hard to accomplish right now will define what you will become in the future, just do your work, just do your job, just do it, just finish it !!! <br />
 
-# Current worldwide rank : #29 as of 25 March 2020
+# Current worldwide rank : #28 as of 25 March 2020
 ### Total topic : 34
 ### Total sub topic : 156
-### Total commit in GitHub : 3,341 ( last counter : 3,341 | differences : 0 )
-### Total commit year 2020 : 2,715 ( last counter : 2,715 | differences : 0 )
+### Total commit in GitHub : 3,388 ( last counter : 3,341 | differences : 47 )
+### Total commit year 2020 : 2,762 ( last counter : 2,715 | differences : 47 )
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230

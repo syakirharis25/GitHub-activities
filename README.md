@@ -15,6 +15,7 @@
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
 ### Total region : 42 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
+### Total books : 6
 ### Total data format : 1
 ### Total database : 4
 ### Total developers : 85 
@@ -179,10 +180,11 @@
 <a name="book"></a>
 ## 7. Books.
 1 - Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design by Michael J. Hernandez (Third Edition) <br />
-2 - Eloquent JavaScript by Marijn Haverbeke (Third edition) <br />
-3 - Mongodb: the Definitive Guide by Shannon Bradshaw and Kristina Chodorow (Third Edition) <br />
-4 - Programming Rust: Fast, Safe Systems Development by Jim Blandy and Jason Orendorff
-5 - The Rust Programming Language by Steve Klabnik and Carol Nichols
+2 - Effective Testing with RSpec 3 Build Ruby Apps with Confidence by Myron Marston and Ian Dees, edited by Jacquelyn Carter <br />
+3 - Eloquent JavaScript by Marijn Haverbeke (Third edition) <br />
+4 - Mongodb: the Definitive Guide by Shannon Bradshaw and Kristina Chodorow (Third Edition) <br />
+5 - Programming Rust: Fast, Safe Systems Development by Jim Blandy and Jason Orendorff
+6 - The Rust Programming Language by Steve Klabnik and Carol Nichols
 
 <a name="casestudies"></a>
 ## 8. Case Studies.

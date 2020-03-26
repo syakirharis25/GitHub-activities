@@ -8,7 +8,7 @@
 
 # Current worldwide rank : #28 as of 25 March 2020
 ### Total topic : 34
-### Total sub topic : 156
+### Total sub topic : 157
 ### Total commit in GitHub : 3,402 ( last counter : 3,341 | differences : 14 )
 ### Total commit year 2020 : 2,776 ( last counter : 2,762 | differences : 47 | 14 )
 ### Total commit year 2019 : 396
@@ -26,6 +26,7 @@
 ### Total language : 21
 ### Total library : 4
 ### Total operating system : 5
+### Total package manager : 3
 ### Total specification : 1
 ### Total text editor : 5
 ### Total tools : 3
@@ -383,7 +384,8 @@
 <a name="packagemanager"></a>
 ## 24. Package Manager.
 1 - npm <br />
-2 - Yarn <br />
+2 - RubyGems <br />
+3 - Yarn <br />
 
 <a name="platform"></a>
 ## 25. Platform.

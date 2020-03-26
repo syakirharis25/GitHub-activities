@@ -216,7 +216,7 @@
 1 - JSON
 
 <a name="developers"></a>
-## 13. Developers.  
+## 13. Developers (who is also my teachers in my journey in learning about computer science world).  
  1 - Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
  2 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
  3 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />

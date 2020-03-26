@@ -34,7 +34,7 @@
 ### Total web browser : 1
 ### Total lines of code : 9,941,779 | FIREFOX ( last counter : 9,941,779 | differences : 0 )
 
-### Current active repository : RSpec
+### Current active repository : Ruby on Rails
 
 <br /><br />
 

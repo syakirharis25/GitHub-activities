@@ -10,7 +10,8 @@
 *** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
 reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
 *** `Imam Mālik` learned from **at least 900 teachers** before he write the book called **Muwaṭṭaʾ** which means "well-trodden path", hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the Muwatta led to Malik being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
-*** Malik, Melik, Malka, Malek, Malick, or Melekh (Phoenician: 𐤌𐤋𐤊; Arabic: ملك‎; Hebrew: מֶלֶךְ) is the Semitic term translating to **king**, recorded in East Semitic and later Northwest Semitic (e.g. Aramaic, Canaanite, Hebrew) and Arabic.  <br />
+*** Malik, Melik, Malka, Malek, Malick, or Melekh (Phoenician: 𐤌𐤋𐤊; Arabic: ملك‎; Hebrew: מֶלֶךְ) is the Semitic term translating to **king**, recorded in East Semitic and later Northwest Semitic (e.g. Aramaic, Canaanite, Hebrew) and Arabic. It is also one of the Names of God in the Qur'an, and is then al-Malik (الملك) or The King, Lord of the Worlds in the absolute sense (denoted by the definite article), meaning the King of Kings, above all earthly rulers.
+  <br />
 *** Some of kingdoms on this planet Earth ruled by a Malik (currently and historically) :  <br />
 1) Afghanistan  <br />
 2) Armenia <br />

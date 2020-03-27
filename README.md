@@ -48,7 +48,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 ### Total framework : 9
 ### Total integrated development environment : 2
 ### Total interface : 2
-### Total language : 21
+### Total language : 22
 ### Total library : 4
 ### Total operating system : 5
 ### Total package manager : 3
@@ -376,25 +376,26 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 ## 19. Languages.
  1 - British English <br />
  2 - C <br />
- 3 - C++ <br />
- 4 - Caml <br />
- 5 - CSS <br />
- 6 - GraphQL <br />
- 7 - Go <br />
- 8 - HTML <br />
- 9 - Italian <br />
-10 - Java <br />
-11 - JavaScript <br />
-12 - Latin <br />
-13 - OCaml <br />
-14 - PHP <br />
-15 - Python <br />
-16 - Ruby <br />
-17 - Rust <br />
-18 - Sass <br />
-19 - Spanish <br />
-20 - Structured Query Language <br />
-21 - TypeScript <br />
+ 3 - C# <br />
+ 4 - C++ <br />
+ 5 - Caml <br />
+ 6 - CSS <br />
+ 7 - GraphQL <br />
+ 8 - Go <br />
+ 9 - HTML <br />
+10 - Italian <br />
+11 - Java <br />
+12 - JavaScript <br />
+13 - Latin <br />
+14 - OCaml <br />
+15 - PHP <br />
+16 - Python <br />
+17 - Ruby <br />
+18 - Rust <br />
+19 - Sass <br />
+20 - Spanish <br />
+21 - Structured Query Language <br />
+22 - TypeScript <br />
 
 <a name="interface"></a>
 ## 20. Library.

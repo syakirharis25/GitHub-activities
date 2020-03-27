@@ -6,36 +6,11 @@
 *** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime <br />
 *** What you do right now, what you really believe in right now, what you work so hard to accomplish right now will define what you will become in the future, just do your work, just do your job, just do it, just keep on moving, just finish it !!! <br />
 
-# Benchmark
-*** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
-reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
-*** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
-*** Malik, Melik, Malka, Malek, Malick, or Melekh (Phoenician: 𐤌𐤋𐤊; Arabic: ملك‎; Hebrew: מֶלֶךְ) is the Semitic term translating to **king**, recorded in East Semitic and later Northwest Semitic (e.g. Aramaic, Canaanite, Hebrew) and Arabic. It is also one of the Names of Allah in the Qur'an, and is then al-Malik (الملك) or **The King**, **Lord of the Worlds** in the absolute sense (denoted by the definite article), meaning the **King of Kings**, above all earthly rulers.
-  <br />
-*** Some of kingdoms on this planet Earth ruled by a Malik (currently and historically) :  <br />
-1) Afghanistan  <br />
-2) Armenia <br />
-3) Bahrain  <br />
-4) Bangladesh  <br />
-5) Egypt  <br />
-6) Georgia  <br />
-7) India  <br />
-8) Iraq  <br />
-9) Jordan  <br />
-10) Libya  <br />
-11) Maldives  <br />
-12) Morocco  <br />
-13) Oman  <br />
-14) Pakistan  <br />
-15) Saudi Arabia  <br />
-16) Tunisia  <br />
-17) Yemen  <br />
-
 # Current worldwide rank : #28 as of 25 March 2020
 ### Total topic : 34
 ### Total sub topic : 157
-### Total commit in GitHub : 3,472‬ ( last counter : 3,402 | differences : 14 | 70 )
-### Total commit year 2020 : 2,846 ( last counter : 2,776 | differences : 47 | 14 | 70‬ )
+### Total commit in GitHub : 3,528‬ ( last counter : 3,472‬  | differences : 14 | 70 | 56 ) 
+### Total commit year 2020 : 2,902 ( last counter : 2,846 | differences : 47 | 14 | 70‬ | 56 ) 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -99,8 +74,9 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 33. [Version Control System.](#version)
 34. [Web Browsers.](#browser)
 35. [Official website references.](#references)
-36. [GitHub notes.](#github)
-37. [GitHub repository calculation.](#calculation)
+36. [Benchmark.](#benchmark)
+37. [GitHub notes.](#github)
+38. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -485,8 +461,34 @@ Information is beautiful : https://informationisbeautiful.net/visualizations/mil
 GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
+<a name="benchmark"></a>
+## 36. Benchmark
+*** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
+reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
+*** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
+*** Malik, Melik, Malka, Malek, Malick, or Melekh (Phoenician: 𐤌𐤋𐤊; Arabic: ملك‎; Hebrew: מֶלֶךְ) is the Semitic term translating to **king**, recorded in East Semitic and later Northwest Semitic (e.g. Aramaic, Canaanite, Hebrew) and Arabic. It is also one of the Names of Allah in the Qur'an, and is then al-Malik (الملك) or **The King**, **Lord of the Worlds** in the absolute sense (denoted by the definite article), meaning the **King of Kings**, above all earthly rulers.
+  <br />
+*** Some of kingdoms on this planet Earth ruled by a Malik (currently and historically) :  <br />
+1) Afghanistan  <br />
+2) Armenia <br />
+3) Bahrain  <br />
+4) Bangladesh  <br />
+5) Egypt  <br />
+6) Georgia  <br />
+7) India  <br />
+8) Iraq  <br />
+9) Jordan  <br />
+10) Libya  <br />
+11) Maldives  <br />
+12) Morocco  <br />
+13) Oman  <br />
+14) Pakistan  <br />
+15) Saudi Arabia  <br />
+16) Tunisia  <br />
+17) Yemen  <br />
+
 <a name="github"></a>
-## 36. GitHub notes.
+## 37. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -496,7 +498,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 37. GitHub repository calculation.
+## 38. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

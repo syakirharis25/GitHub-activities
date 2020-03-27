@@ -56,7 +56,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 ### Total tools : 3
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,941,886 | FIREFOX ( last counter : 9,941,886 | differences : 29 | 56 | 6 | 45 )
+### Total lines of code : 9,942,844 | FIREFOX ( last counter : 9,941,886 | differences : 29 | 56 | 6 | 45 | 958 )
 
 ### Current active repository : Ruby on Rails
 

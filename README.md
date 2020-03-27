@@ -51,7 +51,7 @@
 10. [Compilers.](#compiler)
 11. [Databases.](#database)
 12. [Data Format.](#dataformat)
-13. [Developers (who are also my teachers in my journey to learn more about computer science world).](#developers)
+13. [Developers.](#developers)
 14. [Discipline.](#discipline)
 15. [Environment.](#environment)
 16. [Frameworks.](#framework)
@@ -216,7 +216,7 @@
 1 - JSON
 
 <a name="developers"></a>
-## 13. Developers (who are also my teachers in my journey to learn more about computer science world).  
+## 13. Developers.  
  1 - Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
  2 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
  3 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />

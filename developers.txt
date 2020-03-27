@@ -1,9 +1,7 @@
 Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
-Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
 Andrew Betts : https://github.com/triblondon | HTTP <br />
 Anjana Vakil : https://github.com/vakila | JavaScript  <br />
-Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
 Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
 Benjamin Dunphy : https://github.com/dunphyben | React <br />
 Bert Bos : https://github.com/bert-github | CSS <br />
@@ -31,6 +29,7 @@ Jacob Thornton : https://github.com/fat | Bootstrap | CSS <br />
 James Hibbard : https://github.com/jameshibbard | Node.js <br />
 Jamie Zawinski : https://github.com/yesthatjwz | open source <br/>
 Jeff Atwood https://github.com/coding-horror | JavaScript <br />
+Jianbing Fang : https://github.com/jianbingfang | Visual Studio Code
 John Resig : https://github.com/jeresig | JavaScript <br />
 Jon Byrum : https://github.com/jbyrum | Node.js <br />
 Joni Trythall : https://github.com/jonitrythall | CSS <br />
@@ -59,6 +58,7 @@ Nikita Prokopov : https://github.com/tonsky | JavaScript <br />
 Paul Vixie : https://github.com/vixie | open source <br/>
 Philip Guo : https://github.com/pgbovine | JavaScript <br />
 Rasmus Lerdorf : https://github.com/rlerdorf | PHP <br />
+Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick | Visual Studio Code
 Rob Pike : https://github.com/robpike | Go <br />
 Robert Griesemer : https://github.com/griesemer | Go <br />
 Robin Rendle : https://github.com/robinrendle | CSS <br />

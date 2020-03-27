@@ -1,12 +1,21 @@
-# Current worldwide rank : #35 as of 21 March 2020
+# Brief introduction about GitHub and Microsoft
+*** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />
+*** **Microsoft Corporation** founded by `William Henry Gates III` and `Paul Gardner Allen` <br />
+*** `William Henry Gates III` working at least 16 hours every single day, sometimes can go to more than 36 hours non-stop, he even sleep under his office table until his work fully finish ( Latin : aut coepisse noli aut confice | English : accomplish or do not begin ) <br />
+*** `Paul Gardner Allen` appreciates everything he can get, reach near him, even though it is just a piece of garbage left by others to teach his beloved student, `William Henry Gates III` on how to do proper coding, proper comprehension of programming language concept in the world of computer science <br />
+*** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime <br />
+*** What you do right now, what you really believe in right now, what you work so hard to accomplish right now will define what you will become in the future, just do your work, just do your job, just do it, just keep on moving, just finish it !!! <br />
+
+# Current worldwide rank : #28 as of 25 March 2020
 ### Total topic : 34
-### Total sub topic : 153
-### Total commit in GitHub : 3,229‬
-### Total commit year 2020 : 2,603 
+### Total sub topic : 157
+### Total commit in GitHub : 3,402 ( last counter : 3,341 | differences : 14 )
+### Total commit year 2020 : 2,776 ( last counter : 2,762 | differences : 47 | 14 )
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
 ### Total region : 42 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
+### Total books : 6
 ### Total data format : 1
 ### Total database : 4
 ### Total developers : 85 
@@ -14,16 +23,18 @@
 ### Total framework : 9
 ### Total integrated development environment : 2
 ### Total interface : 2
-### Total language : 20
-### Total library : 3
+### Total language : 21
+### Total library : 4
 ### Total operating system : 5
+### Total package manager : 3
 ### Total specification : 1
 ### Total text editor : 5
+### Total tools : 3
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,941,779 | FIREFOX
+### Total lines of code : 9,941,779 | FIREFOX ( last counter : 9,941,779 | differences : 0 )
 
-### Current active repository : Vue.js
+### Current active repository : Ruby on Rails
 
 <br /><br />
 
@@ -170,10 +181,11 @@
 <a name="book"></a>
 ## 7. Books.
 1 - Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design by Michael J. Hernandez (Third Edition) <br />
-2 - Eloquent JavaScript by Marijn Haverbeke (Third edition) <br />
-3 - Mongodb: the Definitive Guide by Shannon Bradshaw and Kristina Chodorow (Third Edition) <br />
-4 - Programming Rust: Fast, Safe Systems Development by Jim Blandy and Jason Orendorff
-5 - The Rust Programming Language by Steve Klabnik and Carol Nichols
+2 - Effective Testing with RSpec 3 Build Ruby Apps with Confidence by Myron Marston and Ian Dees, edited by Jacquelyn Carter <br />
+3 - Eloquent JavaScript by Marijn Haverbeke (Third edition) <br />
+4 - Mongodb: the Definitive Guide by Shannon Bradshaw and Kristina Chodorow (Third Edition) <br />
+5 - Programming Rust: Fast, Safe Systems Development by Jim Blandy and Jason Orendorff
+6 - The Rust Programming Language by Steve Klabnik and Carol Nichols
 
 <a name="casestudies"></a>
 ## 8. Case Studies.
@@ -207,65 +219,65 @@
 ## 13. Developers.  
  1 - Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
  2 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
- 3 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
- 4 - Andrew Betts : https://github.com/triblondon | HTTP <br />
- 5 - Anjana Vakil : https://github.com/vakila | JavaScript  <br />
- 6 - Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
- 7 - Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
- 8 - Benjamin Dunphy : https://github.com/dunphyben | React <br />
- 9 - Bert Bos : https://github.com/bert-github | CSS <br />
-10 - Brandon Minnick : https://github.com/brminnick | Go <br />
-11 - Brendan Eich : https://github.com/BrendanEich | JavaScript <br />
-12 - Brie Bunge : https://github.com/brieb, https://twitter.com/briebunge | TypeScript <br />
-13 - Bryan Hughes : https://github.com/nebrius | Node.js <br />
-14 - Chris Coyier : https://github.com/chriscoyier | CSS <br />
-15 - Chris Wanstrath : https://github.com/defunkt | Git <br />
-16 - David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano | React <br />
-17 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig | WebAssembly <br />
-18 - Douglas Crockford : https://github.com/douglascrockford | JavaScript | JSON<br />
-19 - Edward Snowden : https://twitter.com/Snowden | SSH <br />
-20 - Eric Elliott : https://github.com/ericelliott | React <br />
-21 - Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi | Vue.js <br />
-22 - Flavio Copes : https://github.com/flaviocopes | JavaScript <br />
-23 - Francesc Campoy : https://github.com/campoy | Go <br />
-24 - Gabor Szabo : https://github.com/szabgab | Node.js | Ruby <br />
-25 - Ganesh Mani : https://github.com/ganeshmani | Node.js <br />
-26 - Guido van Rossum : https://github.com/gvanrossum | open source | Python <br/>
-27 - Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday | Vue.js <br />
-28 - Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com | Sass <br />
-29 - Hrishi Mittal : https://github.com/hrishimittal | React <br />
-30 - Jacob Thornton : https://github.com/fat | Bootstrap | CSS <br />
-31 - James Hibbard : https://github.com/jameshibbard | Node.js <br />
-32 - Jamie Zawinski : https://github.com/yesthatjwz | open source <br/>
-33 - Jeff Atwood https://github.com/coding-horror | JavaScript <br />
-34 - John Resig : https://github.com/jeresig | JavaScript <br />
-35 - Jon Byrum : https://github.com/jbyrum | Node.js <br />
-36 - Joni Trythall : https://github.com/jonitrythall | CSS <br />
-37 - José Rossi : https://github.com/joserossi | React <br />
-38 - Ken Thompson : https://github.com/ken | Go <br />
-39 - Kingsley Silas Chijioke : https://github.com/kinsomicrote | React <br />
-40 - Krasimir Tsonev : https://github.com/krasimir | Sass <br />
-41 - Lars Schneider : https://github.com/larsxschneider | Git <br />
-42 - Lin Clark : https://github.com/linclark, https://twitter.com/linclark | WebAssembly <br />
-43 - Linus Torvalds : https://github.com/torvalds | Git | Linux | open source <br />
-44 - Lokesh Dhakar : https://github.com/lokesh | CSS <br />
-45 - Lydia Hallie : https://github.com/lydiahallie | JavaScript <br />
-46 - Marijn Haverbeke : https://github.com/marijnh | JavaScript <br />
-47 - Mario Hoyos : https://github.com/mariohoyos92 | Express <br />
-48 - Mark Otto : https://github.com/mdo | CSS <br />
-49 - Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
-50 - Mathias Buus : https://github.com/mafintosh | Electron <br />
-51 - Michael Tiemann : https://github.com/MichaelTiemann | open source <br/>
-52 - Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne | Sass <br />
-53 - Moshfegh Hamedani : https://github.com/mosh-hamedani | React | Java <br />
-54 - Mu-An : https://github.com/muan | Electron <br />
-55 - Nahid Samsami : https://github.com/nsamsami | Node.js <br />
-56 - Nat Friedman : https://github.com/nat | Git <br />
-57 - Natalie Weizenbaum : https://github.com/nex3 | Sass <br />
-58 - Nikita Prokopov : https://github.com/tonsky | JavaScript <br />
-59 - Paul Vixie : https://github.com/vixie | open source <br/>
-60 - Philip Guo : https://github.com/pgbovine | JavaScript <br />
-61 - Rasmus Lerdorf : https://github.com/rlerdorf | PHP <br />
+ 3 - Andrew Betts : https://github.com/triblondon | HTTP <br />
+ 4 - Anjana Vakil : https://github.com/vakila | JavaScript  <br />
+ 5 - Basarat Ali Syed : https://github.com/basarat | TypeScript <br />
+ 6 - Benjamin Dunphy : https://github.com/dunphyben | React <br />
+ 7 - Bert Bos : https://github.com/bert-github | CSS <br />
+ 8 - Brandon Minnick : https://github.com/brminnick | Go <br />
+ 9 - Brendan Eich : https://github.com/BrendanEich | JavaScript <br />
+10 - Brie Bunge : https://github.com/brieb, https://twitter.com/briebunge | TypeScript <br />
+11 - Bryan Hughes : https://github.com/nebrius | Node.js <br />
+12 - Chris Coyier : https://github.com/chriscoyier | CSS <br />
+13 - Chris Wanstrath : https://github.com/defunkt | Git <br />
+14 - David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano | React <br />
+15 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig | WebAssembly <br />
+16 - Douglas Crockford : https://github.com/douglascrockford | JavaScript | JSON<br />
+17 - Edward Snowden : https://twitter.com/Snowden | SSH <br />
+18 - Eric Elliott : https://github.com/ericelliott | React <br />
+19 - Evan You : https://github.com/yyx990803, https://twitter.com/youyuxi | Vue.js <br />
+20 - Flavio Copes : https://github.com/flaviocopes | JavaScript <br />
+21 - Francesc Campoy : https://github.com/campoy | Go <br />
+22 - Gabor Szabo : https://github.com/szabgab | Node.js | Ruby <br />
+23 - Ganesh Mani : https://github.com/ganeshmani | Node.js <br />
+24 - Guido van Rossum : https://github.com/gvanrossum | open source | Python <br/>
+25 - Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday | Vue.js <br />
+26 - Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com | Sass <br />
+27 - Hrishi Mittal : https://github.com/hrishimittal | React <br />
+28 - Jacob Thornton : https://github.com/fat | Bootstrap | CSS <br />
+29 - James Hibbard : https://github.com/jameshibbard | Node.js <br />
+30 - Jamie Zawinski : https://github.com/yesthatjwz | open source <br/>
+31 - Jeff Atwood https://github.com/coding-horror | JavaScript <br />
+32 - Jianbing Fang : https://github.com/jianbingfang | Visual Studio Code
+33 - John Resig : https://github.com/jeresig | JavaScript <br />
+34 - Jon Byrum : https://github.com/jbyrum | Node.js <br />
+35 - Joni Trythall : https://github.com/jonitrythall | CSS <br />
+36 - José Rossi : https://github.com/joserossi | React <br />
+37 - Ken Thompson : https://github.com/ken | Go <br />
+38 - Kingsley Silas Chijioke : https://github.com/kinsomicrote | React <br />
+39 - Krasimir Tsonev : https://github.com/krasimir | Sass <br />
+40 - Lars Schneider : https://github.com/larsxschneider | Git <br />
+41 - Lin Clark : https://github.com/linclark, https://twitter.com/linclark | WebAssembly <br />
+42 - Linus Torvalds : https://github.com/torvalds | Git | Linux | open source <br />
+43 - Lokesh Dhakar : https://github.com/lokesh | CSS <br />
+44 - Lydia Hallie : https://github.com/lydiahallie | JavaScript <br />
+45 - Marijn Haverbeke : https://github.com/marijnh | JavaScript <br />
+46 - Mario Hoyos : https://github.com/mariohoyos92 | Express <br />
+47 - Mark Otto : https://github.com/mdo | CSS <br />
+48 - Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
+49 - Mathias Buus : https://github.com/mafintosh | Electron <br />
+50 - Michael Tiemann : https://github.com/MichaelTiemann | open source <br/>
+51 - Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne | Sass <br />
+52 - Moshfegh Hamedani : https://github.com/mosh-hamedani | React | Java <br />
+53 - Mu-An : https://github.com/muan | Electron <br />
+54 - Nahid Samsami : https://github.com/nsamsami | Node.js <br />
+55 - Nat Friedman : https://github.com/nat | Git <br />
+56 - Natalie Weizenbaum : https://github.com/nex3 | Sass <br />
+57 - Nikita Prokopov : https://github.com/tonsky | JavaScript <br />
+58 - Paul Vixie : https://github.com/vixie | open source <br/>
+59 - Philip Guo : https://github.com/pgbovine | JavaScript <br />
+60 - Rasmus Lerdorf : https://github.com/rlerdorf | PHP <br />
+61 - Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick | Visual Studio Code
 62 - Rob Pike : https://github.com/robpike | Go <br />
 63 - Robert Griesemer : https://github.com/griesemer | Go <br />
 64 - Robin Rendle : https://github.com/robinrendle | CSS <br />
@@ -342,7 +354,8 @@
 17 - Rust <br />
 18 - Sass <br />
 19 - Spanish <br />
-20 - TypeScript <br />
+20 - Structured Query Language <br />
+21 - TypeScript <br />
 
 <a name="interface"></a>
 ## 20. Library.
@@ -353,8 +366,8 @@
 
 <a name="mission"></a>
 ## 21. Mission.
-1 - workers
-2 - supercomputer
+1 - workers <br />
+2 - supercomputer <br />
 
 <a name="modulebundler"></a>
 ## 22. Module Bundler.
@@ -371,7 +384,8 @@
 <a name="packagemanager"></a>
 ## 24. Package Manager.
 1 - npm <br />
-2 - Yarn <br />
+2 - RubyGems <br />
+3 - Yarn <br />
 
 <a name="platform"></a>
 ## 25. Platform.
@@ -408,7 +422,9 @@
 
 <a name="tools"></a>
 ## 32. Tools.
-1 - ESLint
+1 - ESLint <br />
+2 - DB Browser for SQLite <br />
+3 - RSpec <br />
 
 <a name="version"></a>
 ## 33. Version Control System.

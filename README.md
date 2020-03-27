@@ -6,6 +6,30 @@
 *** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime <br />
 *** What you do right now, what you really believe in right now, what you work so hard to accomplish right now will define what you will become in the future, just do your work, just do your job, just do it, just keep on moving, just finish it !!! <br />
 
+# Benchmark
+*** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
+reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
+*** `Imam Mālik` learned from at least 900 teachers before he write the book called **Muwaṭṭaʾ** which means "well-trodden path", hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the Muwatta led to Malik being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
+*** Malik, Melik, Malka, Malek, Malick, or Melekh (Phoenician: 𐤌𐤋𐤊; Arabic: ملك‎; Hebrew: מֶלֶךְ) is the Semitic term translating to **king**, recorded in East Semitic and later Northwest Semitic (e.g. Aramaic, Canaanite, Hebrew) and Arabic.  <br />
+*** Some of kingdoms on this planet Earth ruled by a Malik (currently and historically) :  <br />
+1) Afghanistan  <br />
+2) Armenia <br />
+3) Bahrain  <br />
+4) Bangladesh  <br />
+5) Egypt  <br />
+6) Georgia  <br />
+7) India  <br />
+8) Iraq  <br />
+9) Jordan  <br />
+10) Libya  <br />
+11) Maldives  <br />
+12) Morocco  <br />
+13) Oman  <br />
+14) Pakistan  <br />
+15) Saudi Arabia  <br />
+16) Tunisia  <br />
+17) Yemen  <br />
+
 # Current worldwide rank : #28 as of 25 March 2020
 ### Total topic : 34
 ### Total sub topic : 157
@@ -51,7 +75,7 @@
 10. [Compilers.](#compiler)
 11. [Databases.](#database)
 12. [Data Format.](#dataformat)
-13. [Developers.](#developers)
+13. [Developers (who are also my teachers on my journey in the world of computer science).](#developers)
 14. [Discipline.](#discipline)
 15. [Environment.](#environment)
 16. [Frameworks.](#framework)
@@ -216,7 +240,7 @@
 1 - JSON
 
 <a name="developers"></a>
-## 13. Developers.  
+## 13. Developers (who are also my teachers on my journey in the world of computer science).  
  1 - Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
  2 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
  3 - Andrew Betts : https://github.com/triblondon | HTTP <br />

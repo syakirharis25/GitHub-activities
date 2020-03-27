@@ -32,7 +32,7 @@
 ### Total tools : 3
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,941,779 | FIREFOX ( last counter : 9,941,779 | differences : 0 )
+### Total lines of code : 9,941,808 | FIREFOX ( last counter : 9,941,779 | differences : 29 )
 
 ### Current active repository : Ruby on Rails
 
@@ -460,7 +460,7 @@ $ git status
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                         1             39              0            395
+Markdown                         1             42              0            424
 -------------------------------------------------------------------------------
 ```
 Refer to : https://github.com/syakirharis25/cloc

@@ -46,7 +46,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 ### Total developers : 99 
 ### Total environment : 1
 ### Total framework : 9
-### Total integrated development environment : 2
+### Total integrated development environment : 3
 ### Total interface : 2
 ### Total language : 22
 ### Total library : 4
@@ -366,6 +366,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 ## 17. Integrated Development Environment.
 1 - Lazarus <br />
 2 - IntelliJ IDEA <br />
+3 - Visual Studio <br />
 
 <a name="interface"></a>
 ## 18. Interfaces.

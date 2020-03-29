@@ -1,19 +1,23 @@
-1 - British English <br />
-2 - C <br />
-3 - C++ <br />
-4 - Caml <br />
-5 - CSS <br />
-6 - GraphQL <br />
-7 - Go <br />
-8 - HTML <br />
-9 - Italian <br />
-9 - Java <br />
-10 - JavaScript <br />
-11 - Latin <br />
-12 - OCaml <br />
-13 - PHP <br />
-14 - Python <br />
-15 - Rust <br />
-16 - Sass <br />
-17 - Spanish <br />
-18 - TypeScript <br />
+British English <br />
+C <br />
+C# <br />
+C++ <br />
+Caml <br />
+CSS <br />
+F# <br />
+GraphQL <br />
+Go <br />
+HTML <br />
+Italian <br />
+Java <br />
+JavaScript <br />
+Latin <br />
+OCaml <br />
+PHP <br />
+Python <br />
+Ruby <br />
+Rust <br />
+Sass <br />
+Spanish <br />
+Structured Query Language <br />
+TypeScript <br />

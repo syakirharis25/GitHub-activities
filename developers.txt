@@ -1,5 +1,5 @@
 Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
-Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | TypeScript <br />
+Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | C# | TypeScript <br />
 Andrew Betts : https://github.com/triblondon | HTTP <br />
 Andrew Powell-Morse : https://twitter.com/Andrewpomo | Ruby <br />
 Anjana Vakil : https://github.com/vakila | JavaScript  <br />
@@ -40,6 +40,7 @@ Jianbing Fang : https://github.com/jianbingfang | Visual Studio Code
 Jim Weirich : https://github.com/jimweirich, https://twitter.com/jimweirich | RubyGems <br />
 John Resig : https://github.com/jeresig | JavaScript <br />
 Jon Byrum : https://github.com/jbyrum | Node.js <br />
+Jon Skeet : https://github.com/jskeet, https://twitter.com/jonskeet | C# <br />
 Joni Trythall : https://github.com/jonitrythall | CSS <br />
 José Rossi : https://github.com/joserossi | React <br />
 Kasey Champion : https://twitter.com/techie4good | Ruby on Rails <br />
@@ -57,6 +58,7 @@ Mark Otto : https://github.com/mdo | CSS <br />
 Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
 Mathias Buus : https://github.com/mafintosh | Electron <br />
 Michael Tiemann : https://github.com/MichaelTiemann | open source <br/>
+Mike Dane : https://github.com/mikedane | C# <br />
 Miriam Suzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne | Sass <br />
 Moshfegh Hamedani : https://github.com/mosh-hamedani | React | Java <br />
 Mu-An : https://github.com/muan | Electron <br />

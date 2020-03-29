@@ -32,7 +32,7 @@
 ### Total tools : 3
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,942,844 | FIREFOX ( last counter : 9,941,886 | differences : 29 | 56 | 6 | 45 | 958 )
+### Total lines of code : 9,944,358‬ | FIREFOX ( last counter : 9,942,844 | differences : 29 | 56 | 6 | 45 | 958 | 1,514 )
 
 ### Current active repository : C#
 

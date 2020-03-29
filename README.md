@@ -23,7 +23,7 @@
 ### Total framework : 9
 ### Total integrated development environment : 3
 ### Total interface : 2
-### Total language : 22
+### Total language : 23
 ### Total library : 4
 ### Total operating system : 5
 ### Total package manager : 3
@@ -357,22 +357,23 @@
  4 - C++ <br />
  5 - Caml <br />
  6 - CSS <br />
- 7 - GraphQL <br />
- 8 - Go <br />
- 9 - HTML <br />
-10 - Italian <br />
-11 - Java <br />
-12 - JavaScript <br />
-13 - Latin <br />
-14 - OCaml <br />
-15 - PHP <br />
-16 - Python <br />
-17 - Ruby <br />
-18 - Rust <br />
-19 - Sass <br />
-20 - Spanish <br />
-21 - Structured Query Language <br />
-22 - TypeScript <br />
+ 7 - F# <br />
+ 8 - GraphQL <br />
+ 9 - Go <br />
+10 - HTML <br />
+11 - Italian <br />
+12 - Java <br />
+13 - JavaScript <br />
+14 - Latin <br />
+15 - OCaml <br />
+16 - PHP <br />
+17 - Python <br />
+18 - Ruby <br />
+19 - Rust <br />
+20 - Sass <br />
+21 - Spanish <br />
+22 - Structured Query Language <br />
+23 - TypeScript <br />
 
 <a name="interface"></a>
 ## 20. Library.

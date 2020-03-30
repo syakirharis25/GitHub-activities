@@ -6,7 +6,16 @@
 *** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime <br />
 *** What you do right now, what you really believe in right now, what you work so hard to accomplish right now will define what you will become in the future, just do your work, just do your job, just do it, just keep on moving, just finish it !!! <br />
 ```
-If you can't fly then run, if you can't run then walk, if you can't walk then crawl, whatever you do you have to keep moving forward.
+If you can't FLY
+  Then RUN,
+If you can't RUN 
+  Then WALK, 
+If you can't WALK 
+  Then CRAWL, 
+  
+Whatever you do :
+{ you have to keep MOVING FORWARD. }
+{ you have to HIT THE FINISH LINE. }
 ```
 
 # Current worldwide rank : #28 as of 25 March 2020

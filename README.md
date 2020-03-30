@@ -14,7 +14,7 @@ If you can't WALK
   Then CRAWL, 
   
 Whatever you do :
-{ you have to keep MOVING FORWARD. }
+{ you have to KEEP MOVING FORWARD. }
 { you have to HIT THE FINISH LINE. }
 ```
 

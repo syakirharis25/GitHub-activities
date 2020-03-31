@@ -473,6 +473,9 @@ Whatever you do :
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
 
+**_country references_** <br />
+Countries in the world by population (2020) : https://www.worldometers.info/world-population/population-by-country/ <br />
+
 **_security references_** <br />
 GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />

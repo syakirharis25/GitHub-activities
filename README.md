@@ -44,7 +44,7 @@ Whatever you do :
 ### Total tools : 3
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,944,358‬ | FIREFOX ( last counter : 9,942,844 | differences : 958 | 1,514 )
+### Total lines of code : 9,945,318‬ | FIREFOX ( last counter : 9,944,358‬ | differences : 958 | 1,514 | 960 )
 
 ### GRAND TOTAL POPULATION of All regions : 970,532,434
 

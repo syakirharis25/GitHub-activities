@@ -164,7 +164,7 @@ Whatever you do :
 23 - Zambia | population : 18,383,955 <br />
 24 - Zimbabwe | population : 14,862,924 <br />
 
-TOTAL POPULATION of Africa region : 671,511,771
+TOTAL POPULATION of Africa region : 671,511,771 <br />
 
 <a name="america"></a>
 ## 3. America.
@@ -173,7 +173,7 @@ TOTAL POPULATION of Africa region : 671,511,771
 3 - Honduras | population : 9,904,607 <br />
 4 - Venezuela | population : 28,435,940 <br />
 
-TOTAL POPULATION of America region : 61,416,096‬
+TOTAL POPULATION of America region : 61,416,096‬ <br />
 
 <a name="asia"></a>
 ## 4. Asia.
@@ -189,22 +189,22 @@ TOTAL POPULATION of America region : 61,416,096‬
 10 - Uzbekistan | population : 33,469,203 <br />
 11 - Yemen | population : 29,825,964 <br />
 
-TOTAL POPULATION of Asia region : 234,726,770‬
+TOTAL POPULATION of Asia region : 234,726,770‬ <br />
 
 <a name="europe"></a>
 ## 5. Europe.
 1 - Albania | population : 2,877,797 <br />
 
-TOTAL POPULATION of Europe region : 2,877,797
+TOTAL POPULATION of Europe region : 2,877,797 <br />
 
 ###################################################
 
-TOTAL POPULATION of Africa region : 671,511,771
-TOTAL POPULATION of America region : 61,416,096‬
-TOTAL POPULATION of Asia region : 234,726,770‬
-TOTAL POPULATION of Europe region : 2,877,797
+TOTAL POPULATION of Africa region : 671,511,771 <br />
+TOTAL POPULATION of America region : 61,416,096‬ <br />
+TOTAL POPULATION of Asia region : 234,726,770‬ <br />
+TOTAL POPULATION of Europe region : 2,877,797 <br />
 
-GRAND TOTAL POPULATION of All regions : 970,532,434‬
+GRAND TOTAL POPULATION of All regions : 970,532,434‬ <br />
 
 ####################################################
 

@@ -46,6 +46,8 @@ Whatever you do :
 ### Total web browser : 1
 ### Total lines of code : 9,944,358‬ | FIREFOX ( last counter : 9,942,844 | differences : 29 | 56 | 6 | 45 | 958 | 1,514 )
 
+### GRAND TOTAL POPULATION of All regions : 970,532,434
+
 ### Current active repository : C#
 
 <br /><br />
@@ -137,55 +139,74 @@ Whatever you do :
 
 <a name="africa"></a>
 ## 2. Africa. 
- 1 - Angola <br />
- 2 - Benin <br />
- 3 - Burkina Faso <br />
- 4 - Burundi <br />
- 5 - Cameroon [AFRICA]
- 6 - Chad <br />
- 7 - Congo <br />
- 8 - Egypt <br />
- 9 - Ethiopia <br />
-10 - Ghana <br />
-11 - Guinea <br />
-12 - Ivory Coast <br />
-13 - Malawi <br />
-14 - Mali <br />
-15 - Morocco <br />
-16 - Mozambique <br />
-17 - Niger <br />
-18 - Rwanda [AFRICA]
-19 - Senegal <br />
-20 - South Sudan <br />
-21 - Sudan <br />
-22 - Togo <br />
-23 - Zambia <br />
-24 - Zimbabwe <br />
+ 1 - Angola | population : 32,866,272 <br />
+ 2 - Benin | population : 12,123,200 <br />
+ 3 - Burkina Faso | population : 20,903,273 <br />
+ 4 - Burundi | population : 11,890,784 <br />
+ 5 - Cameroon | population : 26,545,863 <br />
+ 6 - Chad | population : 16,425,864 <br />
+ 7 - Congo | population : 5,518,087 <br />
+ 8 - Egypt | population : 102,334,404 <br />
+ 9 - Ethiopia | population : 114,963,588 <br />
+10 - Ghana | population : 31,072,940 <br />
+11 - Guinea | population : 13,132,795 <br />
+12 - Ivory Coast | population : 25,716,544 <br />
+13 - Malawi | population : 19,129,952 <br />
+14 - Mali | population : 20,250,833 <br />
+15 - Morocco | population : 36,910,560 <br />
+16 - Mozambique | population : 31,255,435 <br />
+17 - Niger | population : 24,206,644 <br />
+18 - Rwanda | population : 12,952,218 <br />
+19 - Senegal | population : 16,743,927 <br />
+20 - South Sudan | population : 11,193,725 <br />
+21 - Sudan | population : 43,849,260 <br />
+22 - Togo | population : 8,278,724 <br />
+23 - Zambia | population : 18,383,955 <br />
+24 - Zimbabwe | population : 14,862,924 <br />
+
+TOTAL POPULATION of Africa region : 671,511,771
 
 <a name="america"></a>
 ## 3. America.
-1 - Bolivia <br />
-2 - Haiti <br />
-3 - Honduras <br />
-4 - Venezuela <br />
+1 - Bolivia | population : 11,673,021 <br />
+2 - Haiti | population : 11,402,528 <br />
+3 - Honduras | population : 9,904,607 <br />
+4 - Venezuela | population : 28,435,940 <br />
+
+TOTAL POPULATION of America region : 61,416,096‬
 
 <a name="asia"></a>
 ## 4. Asia.
- 1 - Algeria <br />
- 2 - Azerbaijan [ASIA] <br />
- 3 - Cambodia <br />
- 4 - Jordan <br />
- 5 - Kazakhstan <br />
- 6 - Saudi Arabia <br />
- 7 - Syria <br />
- 8 - Tajikistan <br />
- 9 - United Arab Emirates <br />
-10 - Uzbekistan <br />
-11 - Yemen <br />
+ 1 - Algeria | population : 43,851,044 <br />
+ 2 - Azerbaijan | population : 10,139,177 <br />
+ 3 - Cambodia | population : 16,718,965 <br />
+ 4 - Jordan | population : 10,203,134 <br />
+ 5 - Kazakhstan | population : 18,776,707 <br />
+ 6 - Saudi Arabia | population : 34,813,871 <br />
+ 7 - Syria | population : 17,500,658 <br />
+ 8 - Tajikistan | population : 9,537,645 <br />
+ 9 - United Arab Emirates | population : 9,890,402 <br />
+10 - Uzbekistan | population : 33,469,203 <br />
+11 - Yemen | population : 29,825,964 <br />
+
+TOTAL POPULATION of Asia region : 234,726,770‬
 
 <a name="europe"></a>
 ## 5. Europe.
-1 - Albania
+1 - Albania | population : 2,877,797 <br />
+
+TOTAL POPULATION of Europe region : 2,877,797
+
+###################################################
+
+TOTAL POPULATION of Africa region : 671,511,771
+TOTAL POPULATION of America region : 61,416,096‬
+TOTAL POPULATION of Asia region : 234,726,770‬
+TOTAL POPULATION of Europe region : 2,877,797
+
+GRAND TOTAL POPULATION of All regions : 970,532,434‬
+
+####################################################
 
 <a name="algorithms"></a>
 ## 6. Algorithms.

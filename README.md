@@ -35,7 +35,7 @@ Whatever you do :
 ### Total framework : 9
 ### Total integrated development environment : 3
 ### Total interface : 2
-### Total language : 23
+### Total language : 24
 ### Total library : 4
 ### Total operating system : 5
 ### Total package manager : 3
@@ -388,6 +388,7 @@ Whatever you do :
 21 - Spanish <br />
 22 - Structured Query Language <br />
 23 - TypeScript <br />
+24 - Visual Basic <br />
 
 <a name="interface"></a>
 ## 20. Library.

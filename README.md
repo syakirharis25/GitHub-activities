@@ -30,7 +30,7 @@ Whatever you do :
 ### Total books : 6
 ### Total data format : 1
 ### Total database : 4
-### Total developers : 101 
+### Total developers : 107
 ### Total environment : 1
 ### Total framework : 9
 ### Total integrated development environment : 3

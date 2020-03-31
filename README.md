@@ -50,7 +50,8 @@ Whatever you do :
 
 ### Current active repository : C#
 
-<br /><br />
+<br />
+---
 
 ## Table of Contents
  1. [Regions.](#region)

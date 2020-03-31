@@ -48,9 +48,7 @@ Whatever you do :
 
 ### GRAND TOTAL POPULATION of All regions : 970,532,434
 
-### Current active repository : C#
-
-<br />
+### Current active repository : Visual Basic
 
 ---
 

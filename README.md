@@ -18,11 +18,11 @@ Whatever you do :
 { you have to HIT THE FINISH LINE. }
 ```
 
-# Current worldwide rank : #28 as of 25 March 2020
+# Current worldwide rank : #28 as of 31 March 2020
 ### Total topic : 34
 ### Total sub topic : 157
-### Total commit in GitHub : 3,761 ( last counter : 3,641‬  | differences : 14 | 70 | 56 | 111 | 120 ) 
-### Total commit year 2020 : 3,135 ( last counter : 3,015 | differences : 47 | 14 | 70‬ | 56 | 111 | 120 ) 
+### Total commit in GitHub : 3,785‬ ( last counter : 3,761  | differences : 14 | 70 | 56 | 111 | 120 | 24 ) 
+### Total commit year 2020 : 3,159 ( last counter : 3,135 | differences : 47 | 14 | 70‬ | 56 | 111 | 120 | 24 ) 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230

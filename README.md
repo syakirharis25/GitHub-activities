@@ -18,11 +18,11 @@ Whatever you do :
 { you have to HIT THE FINISH LINE. }
 ```
 
-# Current worldwide rank : #28 as of 31 March 2020
+# Current worldwide rank : #24 as of 31 March 2020
 ### Total topic : 34
 ### Total sub topic : 157
-### Total commit in GitHub : 3,837 ( last counter : 3,785  | differences : 14 | 70 | 56 | 111 | 120 | 24 | 52 ) 
-### Total commit year 2020 : 3,211 ( last counter : 3,159 | differences : 47 | 14 | 70‬ | 56 | 111 | 120 | 24 | 52 ) 
+### Total commit in GitHub : 3,920‬ ( last counter : 3,837 | differences : 14 | 70 | 56 | 111 | 120 | 24 | 52 | 83‬ ) 
+### Total commit year 2020 : 3,294 ( last counter : 3,211 | differences : 14 | 70‬ | 56 | 111 | 120 | 24 | 52 | 83 ) 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -44,7 +44,7 @@ Whatever you do :
 ### Total tools : 3
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,945,318‬ | FIREFOX ( last counter : 9,944,358‬ | differences : 958 | 1,514 | 960 )
+### Total lines of code : 9,946,184‬ | FIREFOX ( last counter : 9,945,318‬ | differences : 958 | 1,514 | 960 | 866 )
 
 ### GRAND TOTAL POPULATION of All regions : 970,532,434
 

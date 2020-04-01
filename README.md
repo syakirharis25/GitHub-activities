@@ -32,7 +32,7 @@ Whatever you do :
 ### Total database : 4
 ### Total developers : 107
 ### Total environment : 1
-### Total framework : 9
+### Total framework : 10
 ### Total integrated development environment : 3
 ### Total interface : 2
 ### Total language : 24
@@ -273,7 +273,7 @@ GRAND TOTAL POPULATION of All regions : 970,532,434‬ <br />
  20 - David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano | React <br />
  21 - David Wilson : https://github.com/daviwil, https://twitter.com/daviwil | F#
  22 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig | WebAssembly <br />
- 23 - Derek Banas : https://github.com/newthinktank, https://twitter.com/NewThinkTank | F#
+ 23 - Derek Banas : https://github.com/newthinktank, https://twitter.com/NewThinkTank | F# | Visual Basic <br />
  24 - Douglas Crockford : https://github.com/douglascrockford | JavaScript | JSON<br />
  25 - Dwayne Richard Hipp : https://github.com/dhh, https://twitter.com/DRichardHipp | SQLite <br />
  26 - Eduardo Baik : https://github.com/itzedu | Ruby on Rails <br />
@@ -369,15 +369,16 @@ GRAND TOTAL POPULATION of All regions : 970,532,434‬ <br />
 
 <a name="framework"></a>
 ## 16. Frameworks.
-1 - Bootstrap <br />
-2 - Drupal <br />
-3 - Electron <br />
-4 - Express <br />
-5 - Jest <br />
-6 - Materialize <br />
-7 - Mocha <br />
-8 - NestJS <br />
-9 - Ruby on Rails <br />
+1 - ASP.NET Core <br />
+2 - Bootstrap <br />
+3 - Drupal <br />
+4 - Electron <br />
+5 - Express <br />
+6 - Jest <br />
+7 - Materialize <br />
+8 - Mocha <br />
+9 - NestJS <br />
+10 - Ruby on Rails <br />
 
 <a name="IDE"></a>
 ## 17. Integrated Development Environment.

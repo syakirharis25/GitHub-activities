@@ -29,7 +29,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 61 = Africa : 24 | America : 9 | Asia : 19 | Europe : 6
+### Total region : 61 = Africa : 24 | America : 10 | Asia : 19 | Europe : 6
 ### Total books : 6
 ### Total data format : 1
 ### Total database : 4
@@ -49,7 +49,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total web browser : 1
 ### Total lines of code : 9,946,184‬ | FIREFOX ( last counter : 9,945,318‬ | differences : 1,514 | 960 | 866 )
 
-### GRAND TOTAL POPULATION of All regions : 970,532,434
+### GRAND TOTAL POPULATION of All regions : 970,532,434 (last counter :  970,532,434 | differences : )
 
 ### Current active repository : Visual Basic
 
@@ -190,18 +190,18 @@ TOTAL POPULATION of Africa region : 671,511,771 <br />
 
 <a name="america"></a>
 ## 3. America.
-Argentina [AMERICA] <br />
-1 - Bolivia | population : 11,673,021 <br />
-2 - Cuba [AMERICA] <br /> 
-3 - Ecuador [AMERICA] <br />
-4 - El Savador [AMERICA] <br /> 
-5 - Haiti | population : 11,402,528 <br />
-6 - Nicaragua [AMERICA] <br />
-7 - Honduras | population : 9,904,607 <br />
-8 - Paraguay [AMERICA] <br /> 
-9 - Venezuela | population : 28,435,940 <br />
+ 1 - Argentina [AMERICA] | population : 45,195,774 <br />
+ 2 - Bolivia | population : 11,673,021 <br />
+ 3 - Cuba [AMERICA] | population : 11,326,616 <br /> 
+ 4 - Ecuador [AMERICA] | population : 17,643,054 <br />
+ 5 - El Savador [AMERICA] | population : 6,486,205 <br /> 
+ 6 - Haiti | population : 11,402,528 <br />
+ 7 - Nicaragua [AMERICA] | population : 6,624,554 <br />
+ 8 - Honduras | population : 9,904,607 <br />
+ 9 - Paraguay [AMERICA] | population : 7,132,538 <br /> 
+10 - Venezuela | population : 28,435,940 <br />
 
-TOTAL POPULATION of America region : 61,416,096‬ <br />
+TOTAL POPULATION of America region : 155,824,837 ( last counter : 61,416,096‬ | differences : 94,408,741 ) <br />
 
 <a name="asia"></a>
 ## 4. Asia.
@@ -210,17 +210,17 @@ TOTAL POPULATION of America region : 61,416,096‬ <br />
  3 - Cambodia | population : 16,718,965 <br />
  4 - Jordan | population : 10,203,134 <br />
  5 - Kazakhstan | population : 18,776,707 <br />
- 6 - Kyrgyzstan [ASIA] <br /> 
- 7 - Laos [ASIA] <br /> 
- 8 - Lebanon [ASIA] <br /> 
- 9 - Libya [ASIA] <br /> 
-10 -Myanmar [ASIA] <br /> 
+ 6 - Kyrgyzstan | population : [ASIA] <br /> 
+ 7 - Laos | population : [ASIA] <br /> 
+ 8 - Lebanon | population : [ASIA] <br /> 
+ 9 - Libya | population : [ASIA] <br /> 
+10 -Myanmar | population : [ASIA] <br /> 
 11 - Saudi Arabia | population : 34,813,871 <br />
 12 - Singapore [ASIA] <br /> 
 13 - Syria | population : 17,500,658 <br />
 14 - Tajikistan | population : 9,537,645 <br />
-15 - Thailand [ASIA] <br /> 
-16 - Turkmenistan [ASIA] <br /> 
+15 - Thailand [ASIA] | population : <br /> 
+16 - Turkmenistan [ASIA] | population : <br /> 
 17 - United Arab Emirates | population : 9,890,402 <br />
 18 - Uzbekistan | population : 33,469,203 <br />
 19 - Yemen | population : 29,825,964 <br />
@@ -230,11 +230,11 @@ TOTAL POPULATION of Asia region : 234,726,770‬ <br />
 <a name="europe"></a>
 ## 5. Europe.
 1 - Albania | population : 2,877,797 <br />
-2 - Estonia [EUROPE] <br /> 
-3 - Ireland [EUROPE] <br /> 
-4 - Latvia [EUROPE] <br /> 
-5 - Luxembourg [EUROPE] <br /> 
-6 - Portugal [EUROPE] <br /> 
+2 - Estonia [EUROPE] | population : <br /> 
+3 - Ireland [EUROPE] | population : <br /> 
+4 - Latvia [EUROPE] | population : <br /> 
+5 - Luxembourg [EUROPE] | population : <br /> 
+6 - Portugal [EUROPE] | population : <br /> 
 
 TOTAL POPULATION of Europe region : 2,877,797 <br />
 

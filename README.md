@@ -29,7 +29,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 62 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
+### Total region : 61 = Africa : 24 | America : 9 | Asia : 19 | Europe : 6
 ### Total books : 6
 ### Total data format : 1
 ### Total database : 4
@@ -107,7 +107,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
  8 - Burkina Faso [AFRICA] <br />
  9 - Burundi [AFRICA] <br />
 10 - Cambodia [ASIA] <br />
-11 - Cameroon [AFRICA] <br />
+11 - Cameroon [AFRICA]
 12 - Chad [AFRICA] <br />
 13 - Congo [AFRICA] <br />
 14 - Cuba [AMERICA] <br /> 
@@ -135,30 +135,29 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 36 - Morocco [AFRICA] <br />
 37 - Mozambique [AFRICA] <br />
 38 - Myanmar [ASIA] <br /> 
-39 - Myanmar [ASIA] <br /> 
-40 - Nicaragua [AMERICA] <br /> 
-41 - Niger [AFRICA] <br />
-42 - Paraguay [AMERICA] <br /> 
-43 - Portugal [EUROPE] <br /> 
-44 - Rwanda [AFRICA] <br /> 
-45 - Saudi Arabia [ASIA] <br />
-46 - Senegal [AFRICA] <br />
-47 - Sierra Leone [AFRICA] <br />
-48 - Singapore [ASIA] <br /> 
-49 - Somalia [AFRICA] <br />
-50 - South Sudan [AFRICA] <br />
-51 - Sudan [AFRICA] <br />
-52 - Syria [ASIA] <br />
-53 - Tajikistan [ASIA] <br />
-54 - Thailand [ASIA] <br /> 
-55 - Togo [AFRICA] <br />
-56 - Turkmenistan [ASIA] <br /> 
-57 - UnitedArab Emirates (UAE) [ASIA] <br />
-58 - Uzbekistan [ASIA] <br />
-59 - Venezuela [AMERICA] <br />
-60 - Yemen [ASIA] <br />
-61 - Zambia [AFRICA] <br />
-62 - Zimbabwe [AFRICA] <br />
+39 - Nicaragua [AMERICA] <br /> 
+40 - Niger [AFRICA] <br />
+41 - Paraguay [AMERICA] <br /> 
+42 - Portugal [EUROPE] <br /> 
+43 - Rwanda [AFRICA]
+44 - SaudiArabia [ASIA] <br />
+45 - Senegal [AFRICA] <br />
+46 - Sierra Leone [AFRICA] <br />
+47 - Singapore [ASIA] <br /> 
+48 - Somalia [AFRICA] <br />
+49 - South Sudan [AFRICA] <br />
+50 - Sudan [AFRICA] <br />
+51 - Syria [ASIA] <br />
+52 - Tajikistan [ASIA] <br />
+53 - Thailand [ASIA] <br /> 
+54 - Togo [AFRICA] <br />
+55 - Turkmenistan [ASIA] <br /> 
+56 - UnitedArab Emirates (UAE) [ASIA] <br />
+57 - Uzbekistan [ASIA] <br />
+58 - Venezuela [AMERICA] <br />
+59 - Yemen [ASIA] <br />
+60 - Zambia [AFRICA] <br />
+61 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa. 
@@ -191,10 +190,16 @@ TOTAL POPULATION of Africa region : 671,511,771 <br />
 
 <a name="america"></a>
 ## 3. America.
+Argentina [AMERICA] <br />
 1 - Bolivia | population : 11,673,021 <br />
-2 - Haiti | population : 11,402,528 <br />
-3 - Honduras | population : 9,904,607 <br />
-4 - Venezuela | population : 28,435,940 <br />
+2 - Cuba [AMERICA] <br /> 
+3 - Ecuador [AMERICA] <br />
+4 - El Savador [AMERICA] <br /> 
+5 - Haiti | population : 11,402,528 <br />
+6 - Nicaragua [AMERICA] <br />
+7 - Honduras | population : 9,904,607 <br />
+8 - Paraguay [AMERICA] <br /> 
+9 - Venezuela | population : 28,435,940 <br />
 
 TOTAL POPULATION of America region : 61,416,096‬ <br />
 
@@ -205,18 +210,31 @@ TOTAL POPULATION of America region : 61,416,096‬ <br />
  3 - Cambodia | population : 16,718,965 <br />
  4 - Jordan | population : 10,203,134 <br />
  5 - Kazakhstan | population : 18,776,707 <br />
- 6 - Saudi Arabia | population : 34,813,871 <br />
- 7 - Syria | population : 17,500,658 <br />
- 8 - Tajikistan | population : 9,537,645 <br />
- 9 - United Arab Emirates | population : 9,890,402 <br />
-10 - Uzbekistan | population : 33,469,203 <br />
-11 - Yemen | population : 29,825,964 <br />
+ 6 - Kyrgyzstan [ASIA] <br /> 
+ 7 - Laos [ASIA] <br /> 
+ 8 - Lebanon [ASIA] <br /> 
+ 9 - Libya [ASIA] <br /> 
+10 -Myanmar [ASIA] <br /> 
+11 - Saudi Arabia | population : 34,813,871 <br />
+12 - Singapore [ASIA] <br /> 
+13 - Syria | population : 17,500,658 <br />
+14 - Tajikistan | population : 9,537,645 <br />
+15 - Thailand [ASIA] <br /> 
+16 - Turkmenistan [ASIA] <br /> 
+17 - United Arab Emirates | population : 9,890,402 <br />
+18 - Uzbekistan | population : 33,469,203 <br />
+19 - Yemen | population : 29,825,964 <br />
 
 TOTAL POPULATION of Asia region : 234,726,770‬ <br />
 
 <a name="europe"></a>
 ## 5. Europe.
 1 - Albania | population : 2,877,797 <br />
+2 - Estonia [EUROPE] <br /> 
+3 - Ireland [EUROPE] <br /> 
+4 - Latvia [EUROPE] <br /> 
+5 - Luxembourg [EUROPE] <br /> 
+6 - Portugal [EUROPE] <br /> 
 
 TOTAL POPULATION of Europe region : 2,877,797 <br />
 

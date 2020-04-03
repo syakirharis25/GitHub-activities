@@ -23,7 +23,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 # Current worldwide rank : #23 as of 31 March 2020
 ### Total topic : 34
-### Total sub topic : 158
+### Total sub topic : 159
 ### Total commit in GitHub : 3,975‬ ( last counter : 3,920 | differences : 56 | 111 | 120 | 24 | 52 | 83‬ | 55 ) 
 ### Total commit year 2020 : 3,349 ( last counter : 3,294 | differences : 56 | 111 | 120 | 24 | 52 | 83 | 55 ) 
 ### Total commit year 2019 : 396
@@ -39,7 +39,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total integrated development environment : 3
 ### Total interface : 2
 ### Total language : 24
-### Total library : 4
+### Total library : 5
 ### Total operating system : 5
 ### Total package manager : 3
 ### Total specification : 1
@@ -423,10 +423,11 @@ GRAND TOTAL POPULATION of All regions : 970,532,434‬ <br />
 
 <a name="interface"></a>
 ## 20. Library.
-1 - jQuery <br />
-2 - Mongoose <br />
-3 - React <br />
-4 - SQLite <br />
+1 - Bitnami <br />
+2 - jQuery <br />
+3 - Mongoose <br />
+4 - React <br />
+5 - SQLite <br />
 
 <a name="mission"></a>
 ## 21. Mission.

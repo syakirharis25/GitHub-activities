@@ -29,7 +29,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 42 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
+### Total region : 62 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
 ### Total books : 6
 ### Total data format : 1
 ### Total database : 4
@@ -100,45 +100,65 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
  1 - Albania [EUROPE] <br />
  2 - Algeria [ASIA] <br />
  3 - Angola [AFRICA] <br />
- 4 - Azerbaijan [ASIA] <br />
- 5 - Benin [AFRICA] <br />
- 6 - Bolivia [AMERICA] <br />
- 7 - Burkina Faso [AFRICA] <br />
- 8 - Burundi [AFRICA] <br />
- 9 - Cambodia [ASIA] <br />
-10 - Cameroon [AFRICA] <br />
-11 - Chad [AFRICA] <br />
-12 - Congo [AFRICA] <br />
-13 - Egypt [AFRICA] <br />
-14 - Ethiopia [AFRICA] <br />
-15 - Ghana [AFRICA] <br />
-16 - Guinea [AFRICA] <br />
-17 - Haiti [AMERICA] <br />
-18 - Honduras [AMERICA] <br />
-19 - Ivory Coast [AFRICA] <br />
-20 - Jordan [ASIA] <br />
-21 - Kazakhstan [ASIA] <br />
-22 - Malawi [AFRICA] <br />
-23 - Mali [AFRICA] <br />
-24 - Morocco [AFRICA] <br />
-25 - Mozambique [AFRICA] <br />
-26 - Niger [AFRICA] <br />
-27 - Rwanda [AFRICA]
-28 - Saudi Arabia [ASIA] <br />
-29 - Senegal [AFRICA] <br />
-30 - Sierra Leone [AFRICA] <br />
-31 - Somalia [AFRICA] <br />
-32 - South Sudan [AFRICA] <br />
-33 - Sudan [AFRICA] <br />
-34 - Syria [ASIA] <br />
-35 - Tajikistan [ASIA] <br />
-36 - Togo [AFRICA] <br />
-37 - United Arab Emirates (UAE) [ASIA] <br />
-38 - Uzbekistan [ASIA] <br />
-39 - Venezuela [AMERICA] <br />
-40 - Yemen [ASIA] <br />
-41 - Zambia [AFRICA] <br />
-42 - Zimbabwe [AFRICA] <br />
+ 4 - Argentina [AMERICA] <br /> 
+ 5 - Azerbaijan [ASIA] <br />
+ 6 - Benin [AFRICA] <br />
+ 7 - Bolivia [AMERICA] <br />
+ 8 - Burkina Faso [AFRICA] <br />
+ 9 - Burundi [AFRICA] <br />
+10 - Cambodia [ASIA] <br />
+11 - Cameroon [AFRICA]
+12 - Chad [AFRICA] <br />
+13 - Congo [AFRICA] <br />
+14 - Cuba [AMERICA] <br /> 
+15 - Ecuador [AMERICA] <br />
+16 - Egypt [AFRICA] <br />
+17 - El Savador [AMERICA] <br /> 
+18 - Estonia [EUROPE] <br /> 
+19 - Ethiopia [AFRICA] <br />
+20 - Ghana [AFRICA] <br />
+21 - Guinea [AFRICA] <br />
+22 - Haiti [AMERICA] <br />
+23 - Honduras [AMERICA] <br />
+24 - Ireland [EUROPE] <br /> 
+25 - Ivory Coast [AFRICA] <br />
+26 - Jordan [ASIA] <br />
+27 - Kazakhstan [ASIA] <br />
+28 - Kyrgyzstan [ASIA] <br /> 
+29 - Laos [ASIA] <br /> 
+30 - Latvia [EUROPE] <br /> 
+31 - Lebanon [ASIA] <br /> 
+32 - Libya [ASIA] <br /> 
+33 - Luxembourg [EUROPE] <br /> 
+34 - Malawi [AFRICA] <br />
+35 - Mali [AFRICA] <br />
+36 - Morocco [AFRICA] <br />
+37 - Mozambique [AFRICA] <br />
+38 - Myanmar [ASIA] <br /> 
+39 - Myanmar [ASIA] <br /> 
+40 - Nicaragua [AMERICA] <br /> 
+41 - Niger [AFRICA] <br />
+42 - Paraguay [AMERICA] <br /> 
+43 - Portugal [EUROPE] <br /> 
+44 - Rwanda [AFRICA]
+45 - SaudiArabia [ASIA] <br />
+46 - Senegal [AFRICA] <br />
+47 - Sierra Leone [AFRICA] <br />
+48 - Singapore [ASIA] <br /> 
+49 - Somalia [AFRICA] <br />
+50 - South Sudan [AFRICA] <br />
+51 - Sudan [AFRICA] <br />
+52 - Syria [ASIA] <br />
+53 - Tajikistan [ASIA] <br />
+54 - Thailand [ASIA] <br /> 
+55 - Togo [AFRICA] <br />
+56 - Turkmenistan [ASIA] <br /> 
+57 - UnitedArab Emirates (UAE) [ASIA] <br />
+58 - Uzbekistan [ASIA] <br />
+59 - Venezuela [AMERICA] <br />
+60 - Yemen [ASIA] <br />
+61 - Zambia [AFRICA] <br />
+62 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa. 

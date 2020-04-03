@@ -22,8 +22,8 @@ Whatever you do :
 It all started when I saw a presentation about **dinosaur** on a computer, currently United States of America (USA) boasts the greatest number of dinosaur species found on planet Earth, maybe this is why, currently United States of America (USA) is the main leader in the world of computer science, and then I found **dinosaur** again, especially in the Operating System Concepts textbook used by the university to study about the world of computer science, which is also stated on that textbook `printed in the United States of America`. What I can understand right now is that American people built their computer and the operating system to fully understand the dinosaur they found in their new-found world, which is right now being renamed the Jurassic World.. **RAWR !!!**
 
 # Current worldwide rank : #22 as of 31 March 2020
-### Total topic : 35
-### Total sub topic : 160
+### Total topic : 36
+### Total sub topic : 161
 ### Total commit in GitHub : 4,023 ( last counter : 3,975‬  | differences : 24 | 52 | 83‬ | 55 ) 
 ### Total commit year 2020 : 3,397 ( last counter : 3,349 | differences : 24 | 52 | 83 | 55 | 48 ) 
 ### Total commit year 2019 : 396
@@ -31,6 +31,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total commit year 2017 : 230
 ### Total region : 61 = Africa : 24 | America : 10 | Asia : 19 | Europe : 6
 ### Total books : 6
+### Total containerization : 1
 ### Total data format : 1
 ### Total database : 4
 ### Total developers : 111
@@ -67,35 +68,36 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
  8. [Case Studies.](#casestudies)
  9. [Command-line Interpreter.](#CLI)
 10. [Compilers.](#compiler)
-11. [Databases.](#database)
-12. [Data Format.](#dataformat)
-13. [Developers (who are also my teachers on my journey in the world of computer science).](#developers)
-14. [Discipline.](#discipline)
-15. [Environment.](#environment)
-16. [Forge.](#forge)
-17. [Frameworks.](#framework)
-18. [Integrated Development Environment.](#IDE)
-19. [Interfaces.](#interface)
-20. [Languages.](#language)
-21. [Library.](#library)
-22. [Mission.](#mission)
-23. [Module Bundler.](#modulebundler)
-24. [Operating Systems.](#os)
-25. [Package Manager.](#packagemanager)
-26. [Platform.](#platform)
-27. [Protocol.](#protocol)
-28. [Shell.](#shell)
-29. [Specification.](#specification)
-30. [Standard.](#standard)
-31. [Technique.](#technique)
-32. [Text Editors.](#editor)
-33. [Tools.](#tools)
-34. [Version Control System.](#version)
-35. [Web Browsers.](#browser)
-36. [Official website references.](#references)
-37. [Benchmark.](#benchmark)
-38. [GitHub notes.](#github)
-39. [GitHub repository calculation.](#calculation)
+11. [Containerization.](#containerization)
+12. [Databases.](#database)
+13. [Data Format.](#dataformat)
+14. [Developers (who are also my teachers on my journey in the world of computer science).](#developers)
+15. [Discipline.](#discipline)
+16. [Environment.](#environment)
+17. [Forge.](#forge)
+18. [Frameworks.](#framework)
+19. [Integrated Development Environment.](#IDE)
+20. [Interfaces.](#interface)
+21. [Languages.](#language)
+22. [Library.](#library)
+23. [Mission.](#mission)
+24. [Module Bundler.](#modulebundler)
+25. [Operating Systems.](#os)
+26. [Package Manager.](#packagemanager)
+27. [Platform.](#platform)
+28. [Protocol.](#protocol)
+29. [Shell.](#shell)
+30. [Specification.](#specification)
+31. [Standard.](#standard)
+32. [Technique.](#technique)
+33. [Text Editors.](#editor)
+34. [Tools.](#tools)
+35. [Version Control System.](#version)
+36. [Web Browsers.](#browser)
+37. [Official website references.](#references)
+38. [Benchmark.](#benchmark)
+39. [GitHub notes.](#github)
+40. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -280,8 +282,12 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 4 - ocamlopt <br />
 5 - Svelte <br />
 
+<a name="containerization"></a>
+## 11. Containerization.
+1 - Docker
+
 <a name="database"></a>
-## 11. Databases.
+## 12. Databases.
 1 - Apache Cassandra <br />
 2 - MongoDB <br />
 3 - MySQL <br />
@@ -289,11 +295,11 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - SQLite <br />
 
 <a name="dataformat"></a>
-## 12. Data Format.
+## 13. Data Format.
 1 - JSON
 
 <a name="developers"></a>
-## 13. Developers (who are also my teachers on my journey in the world of computer science).  
+## 14. Developers (who are also my teachers on my journey in the world of computer science).  
   1 - Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
   2 - Alfonso Garcia-Caro : https://twitter.com/alfonsogcnunez | F#
   3 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | C# | TypeScript <br />
@@ -407,19 +413,19 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 111 - Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz | Ruby <br />
 
 <a name="discipline"></a>
-## 14. Discipline.
+## 15. Discipline.
 1. Statistics <br />
 
 <a name="environment"></a>
-## 15. Environment.
+## 16. Environment.
 1 - Node.js
 
 <a name="forge"></a>
-## 16. Forge.
+## 17. Forge.
 1 - Gitea
 
 <a name="framework"></a>
-## 17. Frameworks.
+## 18. Frameworks.
 1 - ASP.NET Core <br />
 2 - Bootstrap <br />
 3 - Drupal <br />
@@ -432,18 +438,18 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 10 - Ruby on Rails <br />
 
 <a name="IDE"></a>
-## 18. Integrated Development Environment.
+## 19. Integrated Development Environment.
 1 - Lazarus <br />
 2 - IntelliJ IDEA <br />
 3 - Visual Studio <br />
 
 <a name="interface"></a>
-## 19. Interfaces.
+## 20. Interfaces.
 1 - Programming Interface (API) <br />
 2 - Insomnia <br />
 
 <a name="language"></a>
-## 20. Languages.
+## 21. Languages.
  1 - British English <br />
  2 - C <br />
  3 - C# <br />
@@ -470,7 +476,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 24 - Visual Basic <br />
 
 <a name="interface"></a>
-## 21. Library.
+## 22. Library.
 1 - Bitnami <br />
 2 - jQuery <br />
 3 - Mongoose <br />
@@ -478,16 +484,16 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - SQLite <br />
 
 <a name="mission"></a>
-## 22. Mission.
+## 23. Mission.
 1 - workers <br />
 2 - supercomputer <br />
 
 <a name="modulebundler"></a>
-## 23. Module Bundler.
+## 24. Module Bundler.
 1 - webpack <br />
 
 <a name="os"></a>
-## 24. Operating Systems.
+## 25. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
@@ -495,38 +501,38 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - Linux | Parrot OS <br />
 
 <a name="packagemanager"></a>
-## 25. Package Manager.
+## 26. Package Manager.
 1 - npm <br />
 2 - RubyGems <br />
 3 - Yarn <br />
 
 <a name="platform"></a>
-## 26. Platform.
+## 27. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 27. Protocol.
+## 28. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="shell"></a>
-## 28. Shell.
+## 29. Shell.
 1 - PowerShell <br />
 2 - SSH <br />
 
 <a name="specification"></a>
-## 29. Specification.
+## 30. Specification.
 1 - ECMAScript
 
 <a name="standard"></a>
-## 30. Standard.
+## 31. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 31.Technique.
+## 32.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 32. Text Editors.
+## 33. Text Editors.
 1 - Atom <br />
 2 - Code::Blocks <br />
 3 - Sublime Text <br />
@@ -534,22 +540,22 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - Visual Studio Code <br />
 
 <a name="tools"></a>
-## 33. Tools.
+## 34. Tools.
 1 - ESLint <br />
 2 - DB Browser for SQLite <br />
 3 - GitLab <br />
 4 - RSpec <br />
 
 <a name="version"></a>
-## 34. Version Control System.
+## 35. Version Control System.
 1 - Git <br />
 
 <a name="browser"></a>
-## 35. Web Browsers.
+## 36. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 36. Official website references.
+## 37. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -562,7 +568,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="benchmark"></a>
-## 37. Benchmark
+## 38. Benchmark
 *** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
 reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
 *** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
@@ -588,7 +594,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 17) Yemen  <br />
 
 <a name="github"></a>
-## 38. GitHub notes.
+## 39. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -598,7 +604,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 39. GitHub repository calculation.
+## 40. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

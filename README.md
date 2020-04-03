@@ -22,8 +22,8 @@ Whatever you do :
 It all started when I saw a presentation about **dinosaur** on a computer, currently United States of America (USA) boasts the greatest number of dinosaur species found on planet Earth, maybe this is why, currently United States of America (USA) is the main leader in the world of computer science, and then I found **dinosaur** again, especially in the Operating System Concepts textbook used by the university to study about the world of computer science, which is also stated on that textbook `printed in the United States of America`. What I can understand right now is that American people built their computer and the operating system to fully understand the dinosaur they found in their new-found world, which is right now being renamed the Jurassic World.. **RAWR !!!**
 
 # Current worldwide rank : #22 as of 31 March 2020
-### Total topic : 34
-### Total sub topic : 159
+### Total topic : 35
+### Total sub topic : 160
 ### Total commit in GitHub : 4,023 ( last counter : 3,975‬  | differences : 24 | 52 | 83‬ | 55 ) 
 ### Total commit year 2020 : 3,397 ( last counter : 3,349 | differences : 24 | 52 | 83 | 55 | 48 ) 
 ### Total commit year 2019 : 396
@@ -35,6 +35,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total database : 4
 ### Total developers : 111
 ### Total environment : 1
+### Total forge : 1
 ### Total framework : 10
 ### Total integrated development environment : 3
 ### Total interface : 2
@@ -71,29 +72,30 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 13. [Developers (who are also my teachers on my journey in the world of computer science).](#developers)
 14. [Discipline.](#discipline)
 15. [Environment.](#environment)
-16. [Frameworks.](#framework)
-17. [Integrated Development Environment.](#IDE)
-18. [Interfaces.](#interface)
-19. [Languages.](#language)
-20. [Library.](#library)
-21. [Mission.](#mission)
-22. [Module Bundler.](#modulebundler)
-23. [Operating Systems.](#os)
-24. [Package Manager.](#packagemanager)
-25. [Platform.](#platform)
-26. [Protocol.](#protocol)
-27. [Shell.](#shell)
-28. [Specification.](#specification)
-29. [Standard.](#standard)
-30. [Technique.](#technique)
-31. [Text Editors.](#editor)
-32. [Tools.](#tools)
-33. [Version Control System.](#version)
-34. [Web Browsers.](#browser)
-35. [Official website references.](#references)
-36. [Benchmark.](#benchmark)
-37. [GitHub notes.](#github)
-38. [GitHub repository calculation.](#calculation)
+16. [Forge.](#forge)
+17. [Frameworks.](#framework)
+18. [Integrated Development Environment.](#IDE)
+19. [Interfaces.](#interface)
+20. [Languages.](#language)
+21. [Library.](#library)
+22. [Mission.](#mission)
+23. [Module Bundler.](#modulebundler)
+24. [Operating Systems.](#os)
+25. [Package Manager.](#packagemanager)
+26. [Platform.](#platform)
+27. [Protocol.](#protocol)
+28. [Shell.](#shell)
+29. [Specification.](#specification)
+30. [Standard.](#standard)
+31. [Technique.](#technique)
+32. [Text Editors.](#editor)
+33. [Tools.](#tools)
+34. [Version Control System.](#version)
+35. [Web Browsers.](#browser)
+36. [Official website references.](#references)
+37. [Benchmark.](#benchmark)
+38. [GitHub notes.](#github)
+39. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -412,8 +414,12 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 ## 15. Environment.
 1 - Node.js
 
+<a name="forge"></a>
+## 16. Forge.
+1 - Gitea
+
 <a name="framework"></a>
-## 16. Frameworks.
+## 17. Frameworks.
 1 - ASP.NET Core <br />
 2 - Bootstrap <br />
 3 - Drupal <br />
@@ -426,18 +432,18 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 10 - Ruby on Rails <br />
 
 <a name="IDE"></a>
-## 17. Integrated Development Environment.
+## 18. Integrated Development Environment.
 1 - Lazarus <br />
 2 - IntelliJ IDEA <br />
 3 - Visual Studio <br />
 
 <a name="interface"></a>
-## 18. Interfaces.
+## 19. Interfaces.
 1 - Programming Interface (API) <br />
 2 - Insomnia <br />
 
 <a name="language"></a>
-## 19. Languages.
+## 20. Languages.
  1 - British English <br />
  2 - C <br />
  3 - C# <br />
@@ -464,7 +470,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 24 - Visual Basic <br />
 
 <a name="interface"></a>
-## 20. Library.
+## 21. Library.
 1 - Bitnami <br />
 2 - jQuery <br />
 3 - Mongoose <br />
@@ -472,16 +478,16 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - SQLite <br />
 
 <a name="mission"></a>
-## 21. Mission.
+## 22. Mission.
 1 - workers <br />
 2 - supercomputer <br />
 
 <a name="modulebundler"></a>
-## 22. Module Bundler.
+## 23. Module Bundler.
 1 - webpack <br />
 
 <a name="os"></a>
-## 23. Operating Systems.
+## 24. Operating Systems.
 1 - Microsoft | Windows 10 <br />
 2 - Linux | Kali <br />
 3 - Linux | Ubuntu <br />
@@ -489,38 +495,38 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - Linux | Parrot OS <br />
 
 <a name="packagemanager"></a>
-## 24. Package Manager.
+## 25. Package Manager.
 1 - npm <br />
 2 - RubyGems <br />
 3 - Yarn <br />
 
 <a name="platform"></a>
-## 25. Platform.
+## 26. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 26. Protocol.
+## 27. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="shell"></a>
-## 27. Shell.
+## 28. Shell.
 1 - PowerShell <br />
 2 - SSH <br />
 
 <a name="specification"></a>
-## 28. Specification.
+## 29. Specification.
 1 - ECMAScript
 
 <a name="standard"></a>
-## 29. Standard.
+## 30. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 30.Technique.
+## 31.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 31. Text Editors.
+## 32. Text Editors.
 1 - Atom <br />
 2 - Code::Blocks <br />
 3 - Sublime Text <br />
@@ -528,22 +534,22 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - Visual Studio Code <br />
 
 <a name="tools"></a>
-## 32. Tools.
+## 33. Tools.
 1 - ESLint <br />
 2 - DB Browser for SQLite <br />
 3 - GitLab <br />
 4 - RSpec <br />
 
 <a name="version"></a>
-## 33. Version Control System.
-1 - Git
+## 34. Version Control System.
+1 - Git <br />
 
 <a name="browser"></a>
-## 34. Web Browsers.
+## 35. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 35. Official website references.
+## 36. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -556,7 +562,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="benchmark"></a>
-## 36. Benchmark
+## 37. Benchmark
 *** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
 reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
 *** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
@@ -582,7 +588,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 17) Yemen  <br />
 
 <a name="github"></a>
-## 37. GitHub notes.
+## 38. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -592,7 +598,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 38. GitHub repository calculation.
+## 39. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

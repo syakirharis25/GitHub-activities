@@ -106,7 +106,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
  7 - Burkina Faso [AFRICA] <br />
  8 - Burundi [AFRICA] <br />
  9 - Cambodia [ASIA] <br />
-10 - Cameroon [AFRICA]
+10 - Cameroon [AFRICA] <br />
 11 - Chad [AFRICA] <br />
 12 - Congo [AFRICA] <br />
 13 - Egypt [AFRICA] <br />

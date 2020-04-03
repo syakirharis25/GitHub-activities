@@ -49,7 +49,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total web browser : 1
 ### Total lines of code : 9,946,184‬ | FIREFOX ( last counter : 9,945,318‬ | differences : 1,514 | 960 | 866 )
 
-### GRAND TOTAL POPULATION of All regions : 970,532,434 (last counter :  970,532,434 | differences : )
+### GRAND TOTAL POPULATION of All regions : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 
 ### Current active repository : Visual Basic
 
@@ -190,15 +190,15 @@ TOTAL POPULATION of Africa region : 671,511,771 <br />
 
 <a name="america"></a>
 ## 3. America.
- 1 - Argentina [AMERICA] | population : 45,195,774 <br />
+ 1 - Argentina | population : 45,195,774 <br />
  2 - Bolivia | population : 11,673,021 <br />
- 3 - Cuba [AMERICA] | population : 11,326,616 <br /> 
- 4 - Ecuador [AMERICA] | population : 17,643,054 <br />
- 5 - El Savador [AMERICA] | population : 6,486,205 <br /> 
+ 3 - Cuba | population : 11,326,616 <br /> 
+ 4 - Ecuador | population : 17,643,054 <br />
+ 5 - El Savador | population : 6,486,205 <br /> 
  6 - Haiti | population : 11,402,528 <br />
- 7 - Nicaragua [AMERICA] | population : 6,624,554 <br />
+ 7 - Nicaragua | population : 6,624,554 <br />
  8 - Honduras | population : 9,904,607 <br />
- 9 - Paraguay [AMERICA] | population : 7,132,538 <br /> 
+ 9 - Paraguay | population : 7,132,538 <br /> 
 10 - Venezuela | population : 28,435,940 <br />
 
 TOTAL POPULATION of America region : 155,824,837 ( last counter : 61,416,096‬ | differences : 94,408,741 ) <br />
@@ -210,44 +210,44 @@ TOTAL POPULATION of America region : 155,824,837 ( last counter : 61,416,096‬ 
  3 - Cambodia | population : 16,718,965 <br />
  4 - Jordan | population : 10,203,134 <br />
  5 - Kazakhstan | population : 18,776,707 <br />
- 6 - Kyrgyzstan | population : [ASIA] <br /> 
- 7 - Laos | population : [ASIA] <br /> 
- 8 - Lebanon | population : [ASIA] <br /> 
- 9 - Libya | population : [ASIA] <br /> 
-10 -Myanmar | population : [ASIA] <br /> 
+ 6 - Kyrgyzstan | population : 6,524,195 <br /> 
+ 7 - Laos | population : 7,275,560 <br /> 
+ 8 - Lebanon | population : 6,825,445 <br /> 
+ 9 - Libya | population : 6,871,292 <br /> 
+10 - Myanmar | population : 54,409,800 <br /> 
 11 - Saudi Arabia | population : 34,813,871 <br />
-12 - Singapore [ASIA] <br /> 
+12 - Singapore | population : 5,850,342 <br /> 
 13 - Syria | population : 17,500,658 <br />
 14 - Tajikistan | population : 9,537,645 <br />
-15 - Thailand [ASIA] | population : <br /> 
-16 - Turkmenistan [ASIA] | population : <br /> 
+15 - Thailand | population : 69,799,978 <br /> 
+16 - Turkmenistan | population : 6,031,200 <br /> 
 17 - United Arab Emirates | population : 9,890,402 <br />
 18 - Uzbekistan | population : 33,469,203 <br />
 19 - Yemen | population : 29,825,964 <br />
 
-TOTAL POPULATION of Asia region : 234,726,770‬ <br />
+TOTAL POPULATION of Asia region : 398,314,582‬ ( last counter : 234,726,770 | differences : 163,587,812 )<br />
 
 <a name="europe"></a>
 ## 5. Europe.
 1 - Albania | population : 2,877,797 <br />
-2 - Estonia [EUROPE] | population : <br /> 
-3 - Ireland [EUROPE] | population : <br /> 
-4 - Latvia [EUROPE] | population : <br /> 
-5 - Luxembourg [EUROPE] | population : <br /> 
-6 - Portugal [EUROPE] | population : <br /> 
+2 - Estonia | population : 	1,326,535 <br /> 
+3 - Ireland | population : 4,937,786 <br /> 
+4 - Latvia | population : 1,886,198 <br /> 
+5 - Luxembourg | population : 625,978 <br /> 
+6 - Portugal | population : 10,196,709 <br /> 
 
-TOTAL POPULATION of Europe region : 2,877,797 <br />
+TOTAL POPULATION of Europe region : 21,851,003 ( last counter : 2,877,797 | differences : 18,973,206 ) <br />
 
-###################################################
+##############################################################################################################
 
 TOTAL POPULATION of Africa region : 671,511,771 <br />
-TOTAL POPULATION of America region : 61,416,096‬ <br />
-TOTAL POPULATION of Asia region : 234,726,770‬ <br />
-TOTAL POPULATION of Europe region : 2,877,797 <br />
+TOTAL POPULATION of America region : 155,824,837 ( last counter : 61,416,096‬ | differences : 94,408,741 ) <br />
+TOTAL POPULATION of Asia region : 398,314,582‬ ( last counter : 234,726,770‬ | differences : 163,587,812) <br />
+TOTAL POPULATION of Europe region : 21,851,003 ( last counter : 2,877,797 | differences : 18,973,206 ) <br />
 
-GRAND TOTAL POPULATION of All regions : 970,532,434‬ <br />
+GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,434‬ | differences : 276,969,759‬ ) <br />
 
-####################################################
+################################################################################################################
 
 <a name="algorithms"></a>
 ## 6. Algorithms.

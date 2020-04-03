@@ -140,8 +140,8 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 41 - Niger [AFRICA] <br />
 42 - Paraguay [AMERICA] <br /> 
 43 - Portugal [EUROPE] <br /> 
-44 - Rwanda [AFRICA]
-45 - SaudiArabia [ASIA] <br />
+44 - Rwanda [AFRICA] <br /> 
+45 - Saudi Arabia [ASIA] <br />
 46 - Senegal [AFRICA] <br />
 47 - Sierra Leone [AFRICA] <br />
 48 - Singapore [ASIA] <br /> 

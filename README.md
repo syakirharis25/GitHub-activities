@@ -238,7 +238,7 @@ TOTAL POPULATION of Asia region : 398,314,582‬ ( last counter : 234,726,770 | 
 
 TOTAL POPULATION of Europe region : 21,851,003 ( last counter : 2,877,797 | differences : 18,973,206 ) <br />
 
-##############################################################################################################
+###################################################################################
 
 TOTAL POPULATION of Africa region : 671,511,771 <br />
 TOTAL POPULATION of America region : 155,824,837 ( last counter : 61,416,096‬ | differences : 94,408,741 ) <br />
@@ -247,7 +247,7 @@ TOTAL POPULATION of Europe region : 21,851,003 ( last counter : 2,877,797 | diff
 
 GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,434‬ | differences : 276,969,759‬ ) <br />
 
-################################################################################################################
+####################################################################################
 
 <a name="algorithms"></a>
 ## 6. Algorithms.

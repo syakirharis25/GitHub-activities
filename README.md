@@ -44,7 +44,7 @@ It is all started when I saw a presentation about **dinosaur** on a computer, cu
 ### Total package manager : 3
 ### Total specification : 1
 ### Total text editor : 5
-### Total tools : 3
+### Total tools : 4
 ### Total version control system : 1
 ### Total web browser : 1
 ### Total lines of code : 9,946,184‬ | FIREFOX ( last counter : 9,945,318‬ | differences : 958 | 1,514 | 960 | 866 )
@@ -488,7 +488,8 @@ GRAND TOTAL POPULATION of All regions : 970,532,434‬ <br />
 ## 32. Tools.
 1 - ESLint <br />
 2 - DB Browser for SQLite <br />
-3 - RSpec <br />
+3 - GitLab <br />
+4 - RSpec <br />
 
 <a name="version"></a>
 ## 33. Version Control System.

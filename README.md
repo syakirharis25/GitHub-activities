@@ -47,7 +47,7 @@ It is all started when I saw a presentation about **dinosaur** on a computer, cu
 ### Total tools : 4
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,946,184‬ | FIREFOX ( last counter : 9,945,318‬ | differences : 958 | 1,514 | 960 | 866 )
+### Total lines of code : 9,946,184‬ | FIREFOX ( last counter : 9,945,318‬ | differences : 1,514 | 960 | 866 )
 
 ### GRAND TOTAL POPULATION of All regions : 970,532,434
 

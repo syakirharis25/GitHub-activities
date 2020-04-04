@@ -1,4 +1,4 @@
-**Current Motto : Just Do It! Carpe Diem! When you are in a rally, in a racing like WRC, in a hurry, you just want to seize the day!**
+**Current Motto : Just Do It! Carpe Diem! When you are in a rally, in a racing like WRC, in a mission, you just want to seize the day!**
 
 # Brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />

@@ -1,4 +1,4 @@
-**Mantra : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !**
+**Mantra / Chant : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !**
 
 **Current Motto : Just Do It! Carpe Diem! When you are in a rally racing like WRC, in a mission, you just want to seize the day!**
 

@@ -1,4 +1,4 @@
-**Mantra : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! ** <br />
+**Mantra : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !** <br />
 **Current Motto : Just Do It! Carpe Diem! When you are in a rally racing like WRC, in a mission, you just want to seize the day!**
 
 # Brief introduction about GitHub and Microsoft

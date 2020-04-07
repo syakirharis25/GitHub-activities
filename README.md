@@ -1,7 +1,5 @@
 **Mantra / Chant : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !**
 
-**Current Motto : Just Do It! Carpe Diem! When you are in a rally racing like WRC, in a mission, you just want to seize the day!**
-
 # Brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />
 *** **Microsoft Corporation** founded by `William Henry Gates III` and `Paul Gardner Allen` <br />

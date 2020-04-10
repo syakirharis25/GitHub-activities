@@ -24,8 +24,8 @@ Whatever you do :
 It all started when I saw a presentation about **dinosaur** on a computer, currently United States of America (USA) boasts the greatest number of dinosaur species found on planet Earth, maybe this is why, currently United States of America (USA) is the main leader in the world of computer science, and then I found **dinosaur** again, especially in the Operating System Concepts textbook used by the university to study about the world of computer science, which is also stated on that textbook `printed in the United States of America`. What I can understand right now is that American people built their computer and the operating system to fully understand the dinosaur they found in their new-found world, which is right now being renamed the Jurassic World.. **RAWR !!!**
 
 # Current worldwide rank : #17 as of 8 April 2020
-### Total topic : 36
-### Total sub topic : 163
+### Total topic : 37
+### Total sub topic : 164
 ### Total commit in GitHub : 4,239 ( last counter : 4,200‬  | differences : 90 | 87 | 39 ) 
 ### Total commit year 2020 : 3,613 ( last counter : 3,574 | differences : 90 | 87 | 39‬ ) 
 ### Total commit year 2019 : 396
@@ -55,7 +55,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 ### GRAND TOTAL POPULATION of All regions : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 
-### Current active repository : Visual Basic
+### Current active repository : Snort
 
 ---
 
@@ -80,26 +80,27 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 18. [Frameworks.](#framework)
 19. [Integrated Development Environment.](#IDE)
 20. [Interfaces.](#interface)
-21. [Languages.](#language)
-22. [Library.](#library)
-23. [Mission.](#mission)
-24. [Module Bundler.](#modulebundler)
-25. [Operating Systems.](#os)
-26. [Package Manager.](#packagemanager)
-27. [Platform.](#platform)
-28. [Protocol.](#protocol)
-29. [Shell.](#shell)
-30. [Specification.](#specification)
-31. [Standard.](#standard)
-32. [Technique.](#technique)
-33. [Text Editors.](#editor)
-34. [Tools.](#tools)
-35. [Version Control System.](#version)
-36. [Web Browsers.](#browser)
-37. [Official website references.](#references)
-38. [Benchmark.](#benchmark)
-39. [GitHub notes.](#github)
-40. [GitHub repository calculation.](#calculation)
+21. [Intrusion Detection System.](#intrusion)
+22. [Languages.](#language)
+23. [Library.](#library)
+24. [Mission.](#mission)
+25. [Module Bundler.](#modulebundler)
+26. [Operating Systems.](#os)
+27. [Package Manager.](#packagemanager)
+28. [Platform.](#platform)
+29. [Protocol.](#protocol)
+30. [Shell.](#shell)
+31. [Specification.](#specification)
+32. [Standard.](#standard)
+33. [Technique.](#technique)
+34. [Text Editors.](#editor)
+35. [Tools.](#tools)
+36. [Version Control System.](#version)
+37. [Web Browsers.](#browser)
+38. [Official website references.](#references)
+39. [Benchmark.](#benchmark)
+40. [GitHub notes.](#github)
+41. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -451,8 +452,12 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 1 - Programming Interface (API) <br />
 2 - Insomnia <br />
 
+<a name="intrusion"></a>
+## 21. Intrusion Detection System.
+1 - Snort <br />
+
 <a name="language"></a>
-## 21. Languages.
+## 22. Languages.
  1 - British English <br />
  2 - C <br />
  3 - C# <br />
@@ -479,7 +484,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 24 - Visual Basic <br />
 
 <a name="interface"></a>
-## 22. Library.
+## 23. Library.
 1 - Bitnami <br />
 2 - jQuery <br />
 3 - Mongoose <br />
@@ -487,16 +492,16 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - SQLite <br />
 
 <a name="mission"></a>
-## 23. Mission.
+## 24. Mission.
 1 - workers <br />
 2 - supercomputer <br />
 
 <a name="modulebundler"></a>
-## 24. Module Bundler.
+## 25. Module Bundler.
 1 - webpack <br />
 
 <a name="os"></a>
-## 25. Operating Systems.
+## 26. Operating Systems.
 1 - Linux | Debian <br />
 2 - Linux | Kali <br />
 3 - Linux | Manjaro <br />
@@ -505,38 +510,38 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 6 - Microsoft | Windows 10 <br />
 
 <a name="packagemanager"></a>
-## 26. Package Manager.
+## 27. Package Manager.
 1 - npm <br />
 2 - RubyGems <br />
 3 - Yarn <br />
 
 <a name="platform"></a>
-## 27. Platform.
+## 28. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 28. Protocol.
+## 29. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="shell"></a>
-## 29. Shell.
+## 30. Shell.
 1 - PowerShell <br />
 2 - SSH <br />
 
 <a name="specification"></a>
-## 30. Specification.
+## 31. Specification.
 1 - ECMAScript
 
 <a name="standard"></a>
-## 31. Standard.
+## 32. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 32.Technique.
+## 33.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 33. Text Editors.
+## 34. Text Editors.
 1 - Atom <br />
 2 - Code::Blocks <br />
 3 - Sublime Text <br />
@@ -544,22 +549,22 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - Visual Studio Code <br />
 
 <a name="tools"></a>
-## 34. Tools.
+## 35. Tools.
 1 - ESLint <br />
 2 - DB Browser for SQLite <br />
 3 - GitLab <br />
 4 - RSpec <br />
 
 <a name="version"></a>
-## 35. Version Control System.
+## 36. Version Control System.
 1 - Git <br />
 
 <a name="browser"></a>
-## 36. Web Browsers.
+## 37. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 37. Official website references.
+## 38. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -572,7 +577,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="benchmark"></a>
-## 38. Benchmark
+## 39. Benchmark
 *** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
 reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
 *** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
@@ -598,7 +603,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 17) Yemen  <br />
 
 <a name="github"></a>
-## 39. GitHub notes.
+## 40. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -608,7 +613,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 40. GitHub repository calculation.
+## 41. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

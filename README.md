@@ -47,7 +47,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total operating system : 6
 ### Total package manager : 3
 ### Total specification : 1
-### Total text editor : 5
+### Total text editor : 6
 ### Total tools : 4
 ### Total version control system : 1
 ### Total web browser : 1
@@ -544,9 +544,10 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 ## 34. Text Editors.
 1 - Atom <br />
 2 - Code::Blocks <br />
-3 - Sublime Text <br />
-4 - Vim <br />
-5 - Visual Studio Code <br />
+3 - Notepad++ <br />
+4 - Sublime Text <br />
+5 - Vim <br />
+6 - Visual Studio Code <br />
 
 <a name="tools"></a>
 ## 35. Tools.

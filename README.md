@@ -25,7 +25,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 # Current worldwide rank : #17 as of 8 April 2020
 ### Total topic : 36
-### Total sub topic : 162
+### Total sub topic : 163
 ### Total commit in GitHub : 4,239 ( last counter : 4,200‬  | differences : 90 | 87 | 39 ) 
 ### Total commit year 2020 : 3,613 ( last counter : 3,574 | differences : 90 | 87 | 39‬ ) 
 ### Total commit year 2019 : 396
@@ -44,7 +44,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total interface : 2
 ### Total language : 24
 ### Total library : 5
-### Total operating system : 5
+### Total operating system : 6
 ### Total package manager : 3
 ### Total specification : 1
 ### Total text editor : 5
@@ -497,11 +497,12 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 
 <a name="os"></a>
 ## 25. Operating Systems.
-1 - Microsoft | Windows 10 <br />
+1 - Linux | Debian <br />
 2 - Linux | Kali <br />
-3 - Linux | Ubuntu <br />
-4 - Linux | Debian <br />
-5 - Linux | Parrot OS <br />
+3 - Linux | Manjaro <br />
+4 - Linux | Parrot OS <br />
+5 - Linux | Ubuntu <br />
+6 - Microsoft | Windows 10 <br />
 
 <a name="packagemanager"></a>
 ## 26. Package Manager.

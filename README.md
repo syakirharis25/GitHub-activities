@@ -56,7 +56,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 ### TOTAL POPULATION : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 
-### Current active repository : Snort
+### Current active repository : Arch Linux
 
 ---
 

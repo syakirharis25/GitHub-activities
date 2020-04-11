@@ -54,7 +54,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total web browser : 1
 ### Total lines of code : 10,004,870‬ | FIREFOX ( last counter : 9,946,224 | differences : 866 | 40 | 58,646‬ )
 
-### TOTAL POPULATION of All regions : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
+### TOTAL POPULATION : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 
 ### Current active repository : Snort
 

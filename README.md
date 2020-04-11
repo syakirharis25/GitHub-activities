@@ -24,8 +24,8 @@ Whatever you do :
 It all started when I saw a presentation about **dinosaur** on a computer, currently United States of America (USA) boasts the greatest number of dinosaur species found on planet Earth, maybe this is why, currently United States of America (USA) is the main leader in the world of computer science, and then I found **dinosaur** again, especially in the Operating System Concepts textbook used by the university to study about the world of computer science, which is also stated on that textbook `printed in the United States of America`. What I can understand right now is that American people built their computer and the operating system to fully understand the dinosaur they found in their new-found world, which is right now being renamed the Jurassic World.. **RAWR !!!**
 
 # Current worldwide rank : #17 as of 8 April 2020
-### Total topic : 37
-### Total sub topic : 165
+### Total topic : 38
+### Total sub topic : 166
 ### Total commit in GitHub : 4,239 ( last counter : 4,200‬  | differences : 90 | 87 | 39 ) 
 ### Total commit year 2020 : 3,613 ( last counter : 3,574 | differences : 90 | 87 | 39‬ ) 
 ### Total commit year 2019 : 396
@@ -49,6 +49,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total specification : 1
 ### Total text editor : 6
 ### Total tools : 4
+### Total utility : 1
 ### Total version control system : 1
 ### Total web browser : 1
 ### Total lines of code : 10,004,870‬ | FIREFOX ( last counter : 9,946,224 | differences : 1,514 | 960 | 866 | 40 | 58,646‬ )
@@ -95,12 +96,13 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 33. [Technique.](#technique)
 34. [Text Editors.](#editor)
 35. [Tools.](#tools)
-36. [Version Control System.](#version)
-37. [Web Browsers.](#browser)
-38. [Official website references.](#references)
-39. [Benchmark.](#benchmark)
-40. [GitHub notes.](#github)
-41. [GitHub repository calculation.](#calculation)
+36. [Utility.](#utility)
+37. [Version Control System.](#version)
+38. [Web Browsers.](#browser)
+39. [Official website references.](#references)
+40. [Benchmark.](#benchmark)
+41. [GitHub notes.](#github)
+42. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -557,16 +559,20 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 3 - GitLab <br />
 4 - RSpec <br />
 
+<a name="utility"></a>
+## 36. Utility.
+1 - balenaEtcher <br />
+
 <a name="version"></a>
-## 36. Version Control System.
+## 37. Version Control System.
 1 - Git <br />
 
 <a name="browser"></a>
-## 37. Web Browsers.
+## 38. Web Browsers.
 1 - Google Chrome
 
 <a name="references"></a>
-## 38. Official website references.
+## 39. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -579,7 +585,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="benchmark"></a>
-## 39. Benchmark
+## 40. Benchmark
 *** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
 reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
 *** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
@@ -605,7 +611,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 17) Yemen  <br />
 
 <a name="github"></a>
-## 40. GitHub notes.
+## 41. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -615,7 +621,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 41. GitHub repository calculation.
+## 42. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

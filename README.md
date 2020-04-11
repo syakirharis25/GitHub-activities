@@ -1,4 +1,4 @@
-**Battleground Mantra / Chant : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !**
+**Battleground Mantra / Chant : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !**
 
 # Brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />

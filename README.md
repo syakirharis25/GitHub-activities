@@ -26,8 +26,8 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 # Current worldwide rank : #16 as of 8 April 2020
 ### Total topic : 38
 ### Total sub topic : 166
-### Total commit in GitHub : 4,354‬ ( last counter : 4,324 | differences : 90 | 87 | 39 | 65 | 20 | 30 ) 
-### Total commit year 2020 : 3,728 ( last counter : 3,698 | differences : 90 | 87 | 39‬ | 65 | 20 | 30 ) 
+### Total commit in GitHub : 4,392 ( last counter : 4,354 | differences : 90 | 87 | 39 | 65 | 20 | 30 | 38 ) 
+### Total commit year 2020 : 3,766 ( last counter : 3,728 | differences : 90 | 87 | 39‬ | 65 | 20 | 30 | 38‬ ) 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -52,11 +52,12 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total utility : 1
 ### Total version control system : 1
 ### Total web browser : 1
+### Total web server : 1
 ### Total lines of code : 10,004,899‬‬ | FIREFOX ( last counter : 10,004,870| differences : 866 | 40 | 58,646‬ | 29 )
 
 ### TOTAL POPULATION : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 
-### Current active repository : Arch Linux
+### Current active repository : ASP.NET Core
 
 ---
 
@@ -99,10 +100,11 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 36. [Utility.](#utility)
 37. [Version Control System.](#version)
 38. [Web Browsers.](#browser)
-39. [Official website references.](#references)
-40. [Benchmark.](#benchmark)
-41. [GitHub notes.](#github)
-42. [GitHub repository calculation.](#calculation)
+39. [Web Server.](#webserver)
+40. [Official website references.](#references)
+41. [Benchmark.](#benchmark)
+42. [GitHub notes.](#github)
+43. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -571,8 +573,12 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 ## 38. Web Browsers.
 1 - Google Chrome
 
+<a name="webserver"></a>
+## 39. Web Server.
+1 - Internet Information Services
+
 <a name="references"></a>
-## 39. Official website references.
+## 40. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -585,7 +591,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="benchmark"></a>
-## 40. Benchmark
+## 41. Benchmark
 *** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
 reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
 *** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
@@ -611,7 +617,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 17) Yemen  <br />
 
 <a name="github"></a>
-## 41. GitHub notes.
+## 42. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -621,7 +627,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 42. GitHub repository calculation.
+## 43. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

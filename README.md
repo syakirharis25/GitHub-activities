@@ -1,5 +1,5 @@
 **Battle Cry / Mantra / Chant : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !** <br />
-**[ Si vis pacem, para bellum : If you want peace, prepare for war ] | [ Non est ad astra mollis e terris via : There is no easy way from the earth to the stars ] ** 
+**[ Si vis pacem, para bellum : If you want peace, prepare for war ] | [ Non est ad astra mollis e terris via : There is no easy way from the earth to the stars ]** 
 
 # Brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />

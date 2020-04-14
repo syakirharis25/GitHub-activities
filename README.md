@@ -1,6 +1,7 @@
 **Battle Cry / Mantra / Chant : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !** <br />
 Si vis pacem, para bellum : If you want peace, prepare for war  <br />
 Non est ad astra mollis e terris via : There is no easy way from the earth to the stars <br />
+`Proxima Centauri, the closest star to planet Earth, is at least 40,208,000,000,000 km away, 4.24 light-years away, a light-year is 9.44 trillion km, or 5.88 trillion miles, if want to reach the closest start Proxima Centauri by walking, it would take 215 million years.`
 
 # Brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />

@@ -29,11 +29,11 @@ Whatever you do :
 # Brief introduction about my computer science journey
 It all started when I saw a presentation about **dinosaur** on a computer, currently United States of America (USA) boasts the greatest number of dinosaur species found on planet Earth, maybe this is why, currently United States of America (USA) is the main leader in the world of computer science, and then I found **dinosaur** again, especially in the Operating System Concepts textbook used by the university to study about the world of computer science, which is also stated on that textbook `printed in the United States of America`. What I can understand right now is that American people built their computer and the operating system to fully understand the dinosaur they found in their new-found world, which is right now being renamed the Jurassic World.. **RAWR !!!**
 
-# Current worldwide rank : #16 as of 8 April 2020
+# Current worldwide rank : #14 as of 15 April 2020
 ### Total topic : 38
 ### Total sub topic : 166
-### Total commit in GitHub : 4,392 ( last counter : 4,354 | differences : 90 | 87 | 39 | 65 | 20 | 30 | 38 ) 
-### Total commit year 2020 : 3,766 ( last counter : 3,728 | differences : 90 | 87 | 39‬ | 65 | 20 | 30 | 38‬ ) 
+### Total commit in GitHub : 4,468 ( last counter : 4,392 | differences : 90 | 87 | 39 | 65 | 20 | 30 | 38 | 76 ) 
+### Total commit year 2020 : 3,842 ( last counter : 3,766 | differences : 90 | 87 | 39‬ | 65 | 20 | 30 | 38‬ | 76 ) 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230

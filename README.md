@@ -36,7 +36,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 # Current worldwide rank : #13 as of 15 April 2020
 ### Total topic : 38
-### Total sub topic : 166
+### Total sub topic : 167
 ### Total commit in GitHub : 4,516 ( last counter : 4,468 | differences : 20 | 30 | 38 | 76 | 48 ) 
 ### Total commit year 2020 : 3,890 ( last counter : 3,842 | differences : 20 | 30 | 38‬ | 76 | 48‬ ) 
 ### Total commit year 2019 : 396

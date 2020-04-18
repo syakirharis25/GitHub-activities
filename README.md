@@ -36,7 +36,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 # Current worldwide rank : #13 as of 15 April 2020
 ### Total topic : 38
-### Total sub topic : 167
+### Total sub topic : 168
 ### Total commit in GitHub : 4,516 ( last counter : 4,468 | differences : 20 | 30 | 38 | 76 | 48 ) 
 ### Total commit year 2020 : 3,890 ( last counter : 3,842 | differences : 20 | 30 | 38‬ | 76 | 48‬ ) 
 ### Total commit year 2019 : 396
@@ -51,7 +51,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total environment : 1
 ### Total forge : 1
 ### Total framework : 12
-### Total integrated development environment : 3
+### Total integrated development environment : 4
 ### Total interface : 2
 ### Total language : 24
 ### Total library : 5
@@ -467,7 +467,8 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 ## 19. Integrated Development Environment.
 1 - Lazarus <br />
 2 - IntelliJ IDEA <br />
-3 - Visual Studio <br />
+3 - NetBeans <br />
+4 - Visual Studio <br />
 
 <a name="interface"></a>
 ## 20. Interfaces.

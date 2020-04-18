@@ -1,42 +1,61 @@
- 1 -   Albania [EUROPE] <br />
- 2 -   Algeria [ASIA] <br />
- 3 -   Angola [AFRICA] <br />
- 4 -   Azerbaijan [ASIA] <br />
- 5 -   Benin [AFRICA] <br />
- 6 -   Bolivia [AMERICA] <br />
- 7 -   Burkina Faso [AFRICA] <br />
- 8 -   Burundi [AFRICA] <br />
- 9 -   Cambodia [ASIA] <br />
-10 -   Cameroon [AFRICA]
-11 -   Chad [AFRICA] <br />
-12 -   Congo [AFRICA] <br />
-13 -   Egypt [AFRICA] <br />
-14 -   Ethiopia [AFRICA] <br />
-15 -   Ghana [AFRICA] <br />
-16 -   Guinea [AFRICA] <br />
-17 -   Haiti [AMERICA] <br />
-18 -   Honduras [AMERICA] <br />
-19 -   Ivory Coast [AFRICA] <br />
-20 -   Jordan [ASIA] <br />
-21 -   Kazakhstan [ASIA] <br />
-22 -   Malawi [AFRICA] <br />
-23 -   Mali [AFRICA] <br />
-24 -   Morocco [AFRICA] <br />
-25 -   Mozambique [AFRICA] <br />
-26 -   Niger [AFRICA] <br />
-27 -   Rwanda [AFRICA]
-28 -   Saudi Arabia [ASIA] <br />
-29 -   Senegal [AFRICA] <br />
-30 -   Sierra Leone [AFRICA] <br />
-31 -   Somalia [AFRICA] <br />
-32 -   South Sudan [AFRICA] <br />
-33 -   Sudan [AFRICA] <br />
-34 -   Syria [ASIA] <br />
-35 -   Tajikistan [ASIA] <br />
-36 -   Togo [AFRICA] <br />
-37 -   United Arab Emirates (UAE) [ASIA] <br />
-38 -   Uzbekistan [ASIA] <br />
-39 -   Venezuela [AMERICA] <br />
-40 -   Yemen [ASIA] <br />
-41 -   Zambia [AFRICA] <br />
-42 -   Zimbabwe [AFRICA] <br />
+Albania [EUROPE] <br />
+Algeria [ASIA] <br />
+Angola [AFRICA] <br />
+Argentina [AMERICA] <br /> 
+Azerbaijan [ASIA] <br />
+Benin [AFRICA] <br />
+Bolivia [AMERICA] <br />
+Burkina Faso [AFRICA] <br />
+Burundi [AFRICA] <br />
+Cambodia [ASIA] <br />
+Cameroon [AFRICA]
+Chad [AFRICA] <br />
+Congo [AFRICA] <br />
+Cuba [AMERICA] <br /> 
+Ecuador [AMERICA] <br />
+Egypt [AFRICA] <br />
+El Savador [AMERICA] <br /> 
+Estonia [EUROPE] <br /> 
+Ethiopia [AFRICA] <br />
+Ghana [AFRICA] <br />
+Guinea [AFRICA] <br />
+Haiti [AMERICA] <br />
+Honduras [AMERICA] <br />
+Ireland [EUROPE] <br /> 
+Ivory Coast [AFRICA] <br />
+Jordan [ASIA] <br />
+Kazakhstan [ASIA] <br />
+Kyrgyzstan [ASIA] <br /> 
+Laos [ASIA] <br /> 
+Latvia [EUROPE] <br /> 
+Lebanon [ASIA] <br /> 
+Libya [ASIA] <br /> 
+Luxembourg [EUROPE] <br /> 
+Malawi [AFRICA] <br />
+Mali [AFRICA] <br />
+Morocco [AFRICA] <br />
+Mozambique [AFRICA] <br />
+Myanmar [ASIA] <br /> 
+Nicaragua [AMERICA] <br /> 
+Niger [AFRICA] <br />
+Paraguay [AMERICA] <br /> 
+Portugal [EUROPE] <br /> 
+Rwanda [AFRICA]
+SaudiArabia [ASIA] <br />
+Senegal [AFRICA] <br />
+Sierra Leone [AFRICA] <br />
+Singapore [ASIA] <br /> 
+Somalia [AFRICA] <br />
+South Sudan [AFRICA] <br />
+Sudan [AFRICA] <br />
+Syria [ASIA] <br />
+Tajikistan [ASIA] <br />
+Thailand [ASIA] <br /> 
+Togo [AFRICA] <br />
+Turkmenistan [ASIA] <br /> 
+UnitedArab Emirates (UAE) [ASIA] <br />
+Uzbekistan [ASIA] <br />
+Venezuela [AMERICA] <br />
+Yemen [ASIA] <br />
+Zambia [AFRICA] <br />
+Zimbabwe [AFRICA] <br />

@@ -34,11 +34,11 @@ Whatever you do :
 # Brief introduction about my computer science journey
 It all started when I saw a presentation about **dinosaur** on a computer, currently United States of America (USA) boasts the greatest number of dinosaur species found on planet Earth, maybe this is why, currently United States of America (USA) is the main leader in the world of computer science, and then I found **dinosaur** again, especially in the Operating System Concepts textbook used by the university to study about the world of computer science, which is also stated on that textbook `printed in the United States of America`. What I can understand right now is that American people built their computer and the operating system to fully understand the dinosaur they found in their new-found world, which is right now being renamed the Jurassic World.. **RAWR !!!**
 
-# Current worldwide rank : #13 as of 15 April 2020
+# Current worldwide rank : #12 as of 19 April 2020
 ### Total topic : 38
 ### Total sub topic : 168
-### Total commit in GitHub : 4,516 ( last counter : 4,468 | differences : 20 | 30 | 38 | 76 | 48 ) 
-### Total commit year 2020 : 3,890 ( last counter : 3,842 | differences : 20 | 30 | 38‬ | 76 | 48‬ ) 
+### Total commit in GitHub : 4,572 ( last counter : 4,516 | differences : 20 | 30 | 38 | 76 | 48 | 56 ) 
+### Total commit year 2020 : 3,946 ( last counter : 3,890 | differences : 20 | 30 | 38‬ | 76 | 48‬ | 56 ) 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
@@ -64,7 +64,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total version control system : 1
 ### Total web browser : 1
 ### Total web server : 1
-### Total lines of code : 10,139,468‬ | FIREFOX ( last counter : 10,004,870| differences : 58,646‬ | 29 | 134,569 )
+### Total lines of code : 10,139,468‬ | FIREFOX ( last counter : 10,004,870| differences : 29 | 134,569 )
 
 ### TOTAL POPULATION : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 

@@ -50,7 +50,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total developers : 117
 ### Total environment : 1
 ### Total forge : 1
-### Total framework : 11
+### Total framework : 12
 ### Total integrated development environment : 3
 ### Total interface : 2
 ### Total language : 24
@@ -461,6 +461,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 9 - Mocha <br />
 10 - NestJS <br />
 11 - Ruby on Rails <br />
+12 - Spring <br />
 
 <a name="IDE"></a>
 ## 19. Integrated Development Environment.

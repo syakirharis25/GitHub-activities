@@ -1,3 +1,16 @@
+**Battle Cry / Mantra / Chant : WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD ! WORK HARD !** <br />
+
+**_Si vis pacem, para bellum : If you want peace, prepare for war, also means peace through strength_**  <br />
+**_Per ardua ad astra : Through adversity to the stars, also means through struggle to the stars_** <br />
+**_Non est ad astra mollis e terris via : There is no easy way from the earth to the stars_** <br />
+**_Macte virtute sic itur ad astra : Those who excel, thus reach the stars_** <br />
+**_Hinc itur ad astra : From here the way leads to the stars_** <br />
+**_Ad astra per aspera : A rough road leads to the stars_** <br />
+**_Sic itur ad astra : Thus you shall go to the stars_** <br />
+**_Virtute siderum tenus : With valour to the stars_** <br />
+
+`Proxima Centauri, the closest star to planet Earth, is at least 40,208,000,000,000 kilometres away, 4.24 light-years away, a light-year is 9.44 trillion kilometres or 5.88 trillion miles, a light-year is a distance that light travels in a vacuum in one Julian year (365.242222 days), if a normal human wants to reach the closest star from planet Earth by walking, it would take at least 215 million years. No matter how far it is, there is living creature high up there because Allah's Throne is upon water [11:7], water is the source of life [2:164],[6:164],[10:24],[14:32],[16:10],[16:11],[16:65],[20:53],[2:30],[22:5],[22:63],[24:45],[25:49],[25:54],[27:60],[29:63],[30:24],[30:50],[31:10],[32:27],[35:27],[39:21],[41:39],[43:11],[50:9], there are 8 angels bear the Throne at its edges [69:17], space exploration also means Heaven exploration [69:16], Heaven or السَّمَاء means "very high up in the sky". There is one and only way to reach that Throne very high up in the sky, just keep on working hard, working hard, working hard, never stop working hard, just keep on working hard to stay alive, do not just try to be a normal human, be a superhuman, go الأَقۡصَي, "Aqsa"; go farthermost, go extreme, to the highest degree, to the utmost degree, push it to the limit [17:1], just keep on building a very clear ٱلصِّرَاطَ, "ṣirāṭ"; direction, command, movement, passage, path [1:6],[1:7] to reach the level of Most High, the Most Great [2:255]. Do not ever listen to the naysayers [144:4], only listen to people who always stay true to his or her own words [5:41] because nothing is impossible, everything is possible [2:117],[3:47],[3:59],[6:73],[16:40],[19:35],[36:82],[40:68]. A sign of kingship, that you already reached that kind of level is that the Ark of the Covenant will come to you, also carried by the angels [2:248], and the Heaven will split [69:16] ( meaning heaven is fully open for you as the sign of your true kingship, welcoming you to sit on ) the Throne [69:17], achieved the quality or state of being tranquil; that is, complete calm, complete serene, complete worry-free, and your army, troops, soldiers will consist of those coming from heavens, "very high up in the sky", and from the Earth; forces of the Heavens and the Earth [48:4].` 
+
 # Brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />
 *** **Microsoft Corporation** founded by `William Henry Gates III` and `Paul Gardner Allen` <br />
@@ -5,38 +18,59 @@
 *** `Paul Gardner Allen` appreciates everything he can get, reach near him, even though it is just a piece of garbage left by others to teach his beloved student, `William Henry Gates III` on how to do proper coding, proper comprehension of programming language concept in the world of computer science <br />
 *** In United States of America and in the world of computer science, nothing is really impossible if you really believe you can do it and you really believe that you can hit your objective, mission and vision you want to achieve in your lifetime <br />
 *** What you do right now, what you really believe in right now, what you work so hard to accomplish right now will define what you will become in the future, just do your work, just do your job, just do it, just keep on moving, just finish it !!! <br />
+```
+If you can't FLY
+  Then RUN,
+If you can't RUN 
+  Then WALK, 
+If you can't WALK 
+  Then CRAWL, 
+  
+Whatever you do :
+{ you have to KEEP MOVING FORWARD. }
+{ you have to HIT THE FINISH LINE. }
+```
 
-# Current worldwide rank : #28 as of 25 March 2020
-### Total topic : 34
-### Total sub topic : 157
-### Total commit in GitHub : 3,641‬ ( last counter : 3,530‬‬  | differences : 14 | 70 | 56 | 111 ) 
-### Total commit year 2020 : 3,015 ( last counter : 2,902 | differences : 47 | 14 | 70‬ | 56 | 111 ) 
+# Brief introduction about my computer science journey
+It all started when I saw a presentation about **dinosaur** on a computer, currently United States of America (USA) boasts the greatest number of dinosaur species found on planet Earth, maybe this is why, currently United States of America (USA) is the main leader in the world of computer science, and then I found **dinosaur** again, especially in the Operating System Concepts textbook used by the university to study about the world of computer science, which is also stated on that textbook `printed in the United States of America`. What I can understand right now is that American people built their computer and the operating system to fully understand the dinosaur they found in their new-found world, which is right now being renamed the Jurassic World.. **RAWR !!!**
+
+# Current worldwide rank : #13 as of 15 April 2020
+### Total topic : 38
+### Total sub topic : 166
+### Total commit in GitHub : 4,516 ( last counter : 4,468 | differences : 20 | 30 | 38 | 76 | 48 ) 
+### Total commit year 2020 : 3,890 ( last counter : 3,842 | differences : 20 | 30 | 38‬ | 76 | 48‬ ) 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230
-### Total region : 42 = Africa : 24 | America : 4 | Asia : 11 | Europe : 1
+### Total region : 61 = Africa : 24 | America : 10 | Asia : 19 | Europe : 6
 ### Total books : 6
+### Total containerization : 1
 ### Total data format : 1
 ### Total database : 4
-### Total developers : 101 
+### Total developers : 117
 ### Total environment : 1
-### Total framework : 9
+### Total forge : 1
+### Total framework : 11
 ### Total integrated development environment : 3
 ### Total interface : 2
-### Total language : 23
-### Total library : 4
-### Total operating system : 5
+### Total language : 24
+### Total library : 5
+### Total operating system : 7
 ### Total package manager : 3
 ### Total specification : 1
-### Total text editor : 5
-### Total tools : 3
+### Total text editor : 6
+### Total tools : 4
+### Total utility : 1
 ### Total version control system : 1
 ### Total web browser : 1
-### Total lines of code : 9,944,358‬ | FIREFOX ( last counter : 9,942,844 | differences : 29 | 56 | 6 | 45 | 958 | 1,514 )
+### Total web server : 1
+### Total lines of code : 10,004,899‬‬ | FIREFOX ( last counter : 10,004,870| differences : 866 | 40 | 58,646‬ | 29 )
 
-### Current active repository : C#
+### TOTAL POPULATION : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 
-<br /><br />
+### Current active repository : ASP.NET Core
+
+---
 
 ## Table of Contents
  1. [Regions.](#region)
@@ -49,131 +83,193 @@
  8. [Case Studies.](#casestudies)
  9. [Command-line Interpreter.](#CLI)
 10. [Compilers.](#compiler)
-11. [Databases.](#database)
-12. [Data Format.](#dataformat)
-13. [Developers (who are also my teachers on my journey in the world of computer science).](#developers)
-14. [Discipline.](#discipline)
-15. [Environment.](#environment)
-16. [Frameworks.](#framework)
-17. [Integrated Development Environment.](#IDE)
-18. [Interfaces.](#interface)
-19. [Languages.](#language)
-20. [Library.](#library)
-21. [Mission.](#mission)
-22. [Module Bundler.](#modulebundler)
-23. [Operating Systems.](#os)
-24. [Package Manager.](#packagemanager)
-25. [Platform.](#platform)
-26. [Protocol.](#protocol)
-27. [Shell.](#shell)
-28. [Specification.](#specification)
-29. [Standard.](#standard)
-30. [Technique.](#technique)
-31. [Text Editors.](#editor)
-32. [Tools.](#tools)
-33. [Version Control System.](#version)
-34. [Web Browsers.](#browser)
-35. [Official website references.](#references)
-36. [Benchmark.](#benchmark)
-37. [GitHub notes.](#github)
-38. [GitHub repository calculation.](#calculation)
+11. [Containerization.](#containerization)
+12. [Databases.](#database)
+13. [Data Format.](#dataformat)
+14. [Developers (who are also my teachers on my journey in the world of computer science).](#developers)
+15. [Discipline.](#discipline)
+16. [Environment.](#environment)
+17. [Forge.](#forge)
+18. [Frameworks.](#framework)
+19. [Integrated Development Environment.](#IDE)
+20. [Interfaces.](#interface)
+21. [Intrusion Detection System.](#intrusion)
+22. [Languages.](#language)
+23. [Library.](#library)
+24. [Mission.](#mission)
+25. [Module Bundler.](#modulebundler)
+26. [Operating Systems.](#os)
+27. [Package Manager.](#packagemanager)
+28. [Platform.](#platform)
+29. [Protocol.](#protocol)
+30. [Shell.](#shell)
+31. [Specification.](#specification)
+32. [Standard.](#standard)
+33. [Technique.](#technique)
+34. [Text Editors.](#editor)
+35. [Tools.](#tools)
+36. [Utility.](#utility)
+37. [Version Control System.](#version)
+38. [Web Browsers.](#browser)
+39. [Web Server.](#webserver)
+40. [Official website references.](#references)
+41. [Benchmark.](#benchmark)
+42. [GitHub notes.](#github)
+43. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
  1 - Albania [EUROPE] <br />
  2 - Algeria [ASIA] <br />
  3 - Angola [AFRICA] <br />
- 4 - Azerbaijan [ASIA] <br />
- 5 - Benin [AFRICA] <br />
- 6 - Bolivia [AMERICA] <br />
- 7 - Burkina Faso [AFRICA] <br />
- 8 - Burundi [AFRICA] <br />
- 9 - Cambodia [ASIA] <br />
-10 - Cameroon [AFRICA]
-11 - Chad [AFRICA] <br />
-12 - Congo [AFRICA] <br />
-13 - Egypt [AFRICA] <br />
-14 - Ethiopia [AFRICA] <br />
-15 - Ghana [AFRICA] <br />
-16 - Guinea [AFRICA] <br />
-17 - Haiti [AMERICA] <br />
-18 - Honduras [AMERICA] <br />
-19 - Ivory Coast [AFRICA] <br />
-20 - Jordan [ASIA] <br />
-21 - Kazakhstan [ASIA] <br />
-22 - Malawi [AFRICA] <br />
-23 - Mali [AFRICA] <br />
-24 - Morocco [AFRICA] <br />
-25 - Mozambique [AFRICA] <br />
-26 - Niger [AFRICA] <br />
-27 - Rwanda [AFRICA]
-28 - Saudi Arabia [ASIA] <br />
-29 - Senegal [AFRICA] <br />
-30 - Sierra Leone [AFRICA] <br />
-31 - Somalia [AFRICA] <br />
-32 - South Sudan [AFRICA] <br />
-33 - Sudan [AFRICA] <br />
-34 - Syria [ASIA] <br />
-35 - Tajikistan [ASIA] <br />
-36 - Togo [AFRICA] <br />
-37 - United Arab Emirates (UAE) [ASIA] <br />
-38 - Uzbekistan [ASIA] <br />
-39 - Venezuela [AMERICA] <br />
-40 - Yemen [ASIA] <br />
-41 - Zambia [AFRICA] <br />
-42 - Zimbabwe [AFRICA] <br />
+ 4 - Argentina [AMERICA] <br /> 
+ 5 - Azerbaijan [ASIA] <br />
+ 6 - Benin [AFRICA] <br />
+ 7 - Bolivia [AMERICA] <br />
+ 8 - Burkina Faso [AFRICA] <br />
+ 9 - Burundi [AFRICA] <br />
+10 - Cambodia [ASIA] <br />
+11 - Cameroon [AFRICA]
+12 - Chad [AFRICA] <br />
+13 - Congo [AFRICA] <br />
+14 - Cuba [AMERICA] <br /> 
+15 - Ecuador [AMERICA] <br />
+16 - Egypt [AFRICA] <br />
+17 - El Savador [AMERICA] <br /> 
+18 - Estonia [EUROPE] <br /> 
+19 - Ethiopia [AFRICA] <br />
+20 - Ghana [AFRICA] <br />
+21 - Guinea [AFRICA] <br />
+22 - Haiti [AMERICA] <br />
+23 - Honduras [AMERICA] <br />
+24 - Ireland [EUROPE] <br /> 
+25 - Ivory Coast [AFRICA] <br />
+26 - Jordan [ASIA] <br />
+27 - Kazakhstan [ASIA] <br />
+28 - Kyrgyzstan [ASIA] <br /> 
+29 - Laos [ASIA] <br /> 
+30 - Latvia [EUROPE] <br /> 
+31 - Lebanon [ASIA] <br /> 
+32 - Libya [ASIA] <br /> 
+33 - Luxembourg [EUROPE] <br /> 
+34 - Malawi [AFRICA] <br />
+35 - Mali [AFRICA] <br />
+36 - Morocco [AFRICA] <br />
+37 - Mozambique [AFRICA] <br />
+38 - Myanmar [ASIA] <br /> 
+39 - Nicaragua [AMERICA] <br /> 
+40 - Niger [AFRICA] <br />
+41 - Paraguay [AMERICA] <br /> 
+42 - Portugal [EUROPE] <br /> 
+43 - Rwanda [AFRICA]
+44 - SaudiArabia [ASIA] <br />
+45 - Senegal [AFRICA] <br />
+46 - Sierra Leone [AFRICA] <br />
+47 - Singapore [ASIA] <br /> 
+48 - Somalia [AFRICA] <br />
+49 - South Sudan [AFRICA] <br />
+50 - Sudan [AFRICA] <br />
+51 - Syria [ASIA] <br />
+52 - Tajikistan [ASIA] <br />
+53 - Thailand [ASIA] <br /> 
+54 - Togo [AFRICA] <br />
+55 - Turkmenistan [ASIA] <br /> 
+56 - UnitedArab Emirates (UAE) [ASIA] <br />
+57 - Uzbekistan [ASIA] <br />
+58 - Venezuela [AMERICA] <br />
+59 - Yemen [ASIA] <br />
+60 - Zambia [AFRICA] <br />
+61 - Zimbabwe [AFRICA] <br />
 
 <a name="africa"></a>
 ## 2. Africa. 
- 1 - Angola <br />
- 2 - Benin <br />
- 3 - Burkina Faso <br />
- 4 - Burundi <br />
- 5 - Cameroon [AFRICA]
- 6 - Chad <br />
- 7 - Congo <br />
- 8 - Egypt <br />
- 9 - Ethiopia <br />
-10 - Ghana <br />
-11 - Guinea <br />
-12 - Ivory Coast <br />
-13 - Malawi <br />
-14 - Mali <br />
-15 - Morocco <br />
-16 - Mozambique <br />
-17 - Niger <br />
-18 - Rwanda [AFRICA]
-19 - Senegal <br />
-20 - South Sudan <br />
-21 - Sudan <br />
-22 - Togo <br />
-23 - Zambia <br />
-24 - Zimbabwe <br />
+ 1 - Angola | population : 32,866,272 <br />
+ 2 - Benin | population : 12,123,200 <br />
+ 3 - Burkina Faso | population : 20,903,273 <br />
+ 4 - Burundi | population : 11,890,784 <br />
+ 5 - Cameroon | population : 26,545,863 <br />
+ 6 - Chad | population : 16,425,864 <br />
+ 7 - Congo | population : 5,518,087 <br />
+ 8 - Egypt | population : 102,334,404 <br />
+ 9 - Ethiopia | population : 114,963,588 <br />
+10 - Ghana | population : 31,072,940 <br />
+11 - Guinea | population : 13,132,795 <br />
+12 - Ivory Coast | population : 25,716,544 <br />
+13 - Malawi | population : 19,129,952 <br />
+14 - Mali | population : 20,250,833 <br />
+15 - Morocco | population : 36,910,560 <br />
+16 - Mozambique | population : 31,255,435 <br />
+17 - Niger | population : 24,206,644 <br />
+18 - Rwanda | population : 12,952,218 <br />
+19 - Senegal | population : 16,743,927 <br />
+20 - South Sudan | population : 11,193,725 <br />
+21 - Sudan | population : 43,849,260 <br />
+22 - Togo | population : 8,278,724 <br />
+23 - Zambia | population : 18,383,955 <br />
+24 - Zimbabwe | population : 14,862,924 <br />
+
+TOTAL POPULATION of Africa region : 671,511,771 <br />
 
 <a name="america"></a>
 ## 3. America.
-1 - Bolivia <br />
-2 - Haiti <br />
-3 - Honduras <br />
-4 - Venezuela <br />
+ 1 - Argentina | population : 45,195,774 <br />
+ 2 - Bolivia | population : 11,673,021 <br />
+ 3 - Cuba | population : 11,326,616 <br /> 
+ 4 - Ecuador | population : 17,643,054 <br />
+ 5 - El Savador | population : 6,486,205 <br /> 
+ 6 - Haiti | population : 11,402,528 <br />
+ 7 - Nicaragua | population : 6,624,554 <br />
+ 8 - Honduras | population : 9,904,607 <br />
+ 9 - Paraguay | population : 7,132,538 <br /> 
+10 - Venezuela | population : 28,435,940 <br />
+
+TOTAL POPULATION of America region : 155,824,837 ( last counter : 61,416,096‬ | differences : 94,408,741 ) <br />
 
 <a name="asia"></a>
 ## 4. Asia.
- 1 - Algeria <br />
- 2 - Azerbaijan [ASIA] <br />
- 3 - Cambodia <br />
- 4 - Jordan <br />
- 5 - Kazakhstan <br />
- 6 - Saudi Arabia <br />
- 7 - Syria <br />
- 8 - Tajikistan <br />
- 9 - United Arab Emirates <br />
-10 - Uzbekistan <br />
-11 - Yemen <br />
+ 1 - Algeria | population : 43,851,044 <br />
+ 2 - Azerbaijan | population : 10,139,177 <br />
+ 3 - Cambodia | population : 16,718,965 <br />
+ 4 - Jordan | population : 10,203,134 <br />
+ 5 - Kazakhstan | population : 18,776,707 <br />
+ 6 - Kyrgyzstan | population : 6,524,195 <br /> 
+ 7 - Laos | population : 7,275,560 <br /> 
+ 8 - Lebanon | population : 6,825,445 <br /> 
+ 9 - Libya | population : 6,871,292 <br /> 
+10 - Myanmar | population : 54,409,800 <br /> 
+11 - Saudi Arabia | population : 34,813,871 <br />
+12 - Singapore | population : 5,850,342 <br /> 
+13 - Syria | population : 17,500,658 <br />
+14 - Tajikistan | population : 9,537,645 <br />
+15 - Thailand | population : 69,799,978 <br /> 
+16 - Turkmenistan | population : 6,031,200 <br /> 
+17 - United Arab Emirates | population : 9,890,402 <br />
+18 - Uzbekistan | population : 33,469,203 <br />
+19 - Yemen | population : 29,825,964 <br />
+
+TOTAL POPULATION of Asia region : 398,314,582‬ ( last counter : 234,726,770 | differences : 163,587,812 )<br />
 
 <a name="europe"></a>
 ## 5. Europe.
-1 - Albania
+1 - Albania | population : 2,877,797 <br />
+2 - Estonia | population : 	1,326,535 <br /> 
+3 - Ireland | population : 4,937,786 <br /> 
+4 - Latvia | population : 1,886,198 <br /> 
+5 - Luxembourg | population : 625,978 <br /> 
+6 - Portugal | population : 10,196,709 <br /> 
+
+TOTAL POPULATION of Europe region : 21,851,003 ( last counter : 2,877,797 | differences : 18,973,206 ) <br />
+
+###################################################################################
+
+TOTAL POPULATION of Africa region : 671,511,771 <br />
+TOTAL POPULATION of America region : 155,824,837 ( last counter : 61,416,096‬ | differences : 94,408,741 ) <br />
+TOTAL POPULATION of Asia region : 398,314,582‬ ( last counter : 234,726,770‬ | differences : 163,587,812) <br />
+TOTAL POPULATION of Europe region : 21,851,003 ( last counter : 2,877,797 | differences : 18,973,206 ) <br />
+
+GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,434‬ | differences : 276,969,759‬ ) <br />
+
+####################################################################################
 
 <a name="algorithms"></a>
 ## 6. Algorithms.
@@ -204,8 +300,12 @@
 4 - ocamlopt <br />
 5 - Svelte <br />
 
+<a name="containerization"></a>
+## 11. Containerization.
+1 - Docker
+
 <a name="database"></a>
-## 11. Databases.
+## 12. Databases.
 1 - Apache Cassandra <br />
 2 - MongoDB <br />
 3 - MySQL <br />
@@ -213,146 +313,172 @@
 5 - SQLite <br />
 
 <a name="dataformat"></a>
-## 12. Data Format.
+## 13. Data Format.
 1 - JSON
 
 <a name="developers"></a>
-## 13. Developers (who are also my teachers on my journey in the world of computer science).  
-  1 - Ahmed Hadjou  -https://github.com/hidjou | Vue.js <br />
-  2 - Anders Hejlsberg  -https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | C# | TypeScript <br />
-  3 - Andrew Betts  -https://github.com/triblondon | HTTP <br />
-  4 - Andrew Powell-Morse  -https://twitter.com/Andrewpomo | Ruby <br />
-  5 - Anjana Vakil  -https://github.com/vakila | JavaScript  <br />
-  6 - Awais Mirza  -https://twitter.com/AwaisMirza01 | SQLite <br />
-  7 - Basarat Ali Syed  -https://github.com/basarat | TypeScript <br />
-  8 - Benjamin Dunphy  -https://github.com/dunphyben | React <br />
-  9 - Bert Bos  -https://github.com/bert-github | CSS <br />
- 10 - Brandon Minnick  -https://github.com/brminnick | Go <br />
- 11 - Brendan Eich  -https://github.com/BrendanEich | JavaScript <br />
- 12 - Brie Bunge  -https://github.com/brieb, https://twitter.com/briebunge | TypeScript <br />
- 13 - Bryan Hughes  -https://github.com/nebrius | Node.js <br />
- 14 - Chad Fowler  -https://github.com/chad, https://twitter.com/chadfowler | RubyGems <br />
- 15 - Chris Coyier  -https://github.com/chriscoyier | CSS <br />
- 16 - Chris Wanstrath  -https://github.com/defunkt | Git <br />
- 17 - David Heinemeier Hansson  -https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing | Ruby on Rails <br />
- 18 - David Khourshid  -https://github.com/davidkpiano, https://twitter.com/DavidKPiano | React <br />
- 19 - Deepti Gandluri  -https://github.com/dtig, https://twitter.com/dptig | WebAssembly <br />
- 20 - Douglas Crockford  -https://github.com/douglascrockford | JavaScript | JSON<br />
- 21 - Dwayne Richard Hipp  -https://github.com/dhh, https://twitter.com/DRichardHipp | SQLite <br />
- 22 - Eduardo Baik  -https://github.com/itzedu | Ruby on Rails <br />
- 23 - Edward Snowden  -https://twitter.com/Snowden | SSH <br />
- 24 - Eric Elliott  -https://github.com/ericelliott | React <br />
- 25 - Evan You  -https://github.com/yyx990803, https://twitter.com/youyuxi | Vue.js <br />
- 26 - Flavio Copes  -https://github.com/flaviocopes | JavaScript <br />
- 27 - Francesc Campoy  -https://github.com/campoy | Go <br />
- 28 - Gabor Szabo  -https://github.com/szabgab | Node.js | Ruby <br />
- 29 - Gabor Szabo  -https://github.com/szabgab | Ruby <br />
- 30 - Ganesh Mani  -https://github.com/ganeshmani | Node.js <br />
- 31 - Guido van Rossum  -https://github.com/gvanrossum | open source | Python <br/>
- 32 - Gwendolyn Faraday  -https://github.com/gwenf, https://twitter.com/gwen_faraday | Vue.js <br />
- 33 - Hampton Catlin  -https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com | Sass <br />
- 34 - Hrishi Mittal  -https://github.com/hrishimittal | React <br />
- 35 - Jacob Thornton  -https://github.com/fat | Bootstrap | CSS <br />
- 36 - James Hibbard  -https://github.com/jameshibbard | Node.js <br />
- 37 - Jamie Zawinski  -https://github.com/yesthatjwz | open source <br/>
- 38 - Jeff Atwood https://github.com/coding-horror | JavaScript <br />
- 39 - Jianbing Fang  -https://github.com/jianbingfang | Visual Studio Code
- 40 - Jim Weirich  -https://github.com/jimweirich, https://twitter.com/jimweirich | RubyGems <br />
- 41 - John Resig  -https://github.com/jeresig | JavaScript <br />
- 42 - Jon Byrum  -https://github.com/jbyrum | Node.js <br />
- 43 - Jon Skeet  -https://github.com/jskeet, https://twitter.com/jonskeet | C# <br />
- 44 - Joni Trythall  -https://github.com/jonitrythall | CSS <br />
- 45 - José Rossi  -https://github.com/joserossi | React <br />
- 46 - Kasey Champion  -https://twitter.com/techie4good | Ruby on Rails <br />
- 47 - Ken Thompson  -https://github.com/ken | Go <br />
- 48 - Kingsley Silas Chijioke  -https://github.com/kinsomicrote | React <br />
- 49 - Krasimir Tsonev  -https://github.com/krasimir | Sass <br />
- 50 - Lars Schneider  -https://github.com/larsxschneider | Git <br />
- 51 - Lin Clark  -https://github.com/linclark, https://twitter.com/linclark | WebAssembly <br />
- 52 - Linus Torvalds  -https://github.com/torvalds | Git | Linux | open source <br />
- 53 - Lokesh Dhakar  -https://github.com/lokesh | CSS <br />
- 54 - Lydia Hallie  -https://github.com/lydiahallie | JavaScript <br />
- 55 - Marijn Haverbeke  -https://github.com/marijnh | JavaScript <br />
- 56 - Mario Hoyos  -https://github.com/mariohoyos92 | Express <br />
- 57 - Mark Otto  -https://github.com/mdo | CSS <br />
- 58 - Mark Otto  -https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
- 59 - Mathias Buus  -https://github.com/mafintosh | Electron <br />
- 60 - Michael Tiemann  -https://github.com/MichaelTiemann | open source <br/>
- 61 - Mike Dane  -https://github.com/mikedane | C# <br />
- 62 - Miriam Suzanne  -https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne | Sass <br />
- 63 - Moshfegh Hamedani  -https://github.com/mosh-hamedani | React | Java <br />
- 64 - Mu-An  -https://github.com/muan | Electron <br />
- 65 - Nahid Samsami  -https://github.com/nsamsami | Node.js <br />
- 66 - Nat Friedman  -https://github.com/nat | Git <br />
- 67 - Natalie Weizenbaum  -https://github.com/nex3 | Sass <br />
- 68 - Nesha Zoric  -https://github.com/nebojsaz, https://twitter.com/neshazo | Ruby on Rails <br />
- 69 - Nikita Prokopov  -https://github.com/tonsky | JavaScript <br />
- 70 - Paul Brannan  -https://github.com/cout | RubyGems <br />
- 71 - Paul Vixie  -https://github.com/vixie | open source <br/>
- 72 - Philip Guo  -https://github.com/pgbovine | JavaScript <br />
- 73 - Radouane Khiri  -https://github.com/Redvanisation, https://twitter.com/redvanisation | Ruby on Rails <br />
- 74 - Rasmus Lerdorf  -https://github.com/rlerdorf | PHP <br />
- 75 - Richard Kilmer  -https://github.com/richkilmer | RubyGems <br />
- 76 - Ritwick Dey  -https://github.com/ritwickdey, https://twitter.com/dey_ritwick | Visual Studio Code
- 77 - Rob Pike  -https://github.com/robpike | Go <br />
- 78 - Robert Griesemer  -https://github.com/griesemer | Go <br />
- 79 - Robin Rendle  -https://github.com/robinrendle | CSS <br />
- 80 - Russ Cox  -https://github.com/rsc | Go <br />
- 81 - Ryan Florence  -https://github.com/ryanflorence, https://twitter.com/ryanflorence | React <br />
- 82 - S M Asad Rahman  -https://github.com/asad-mlbd | Node.js <br />
- 83 - Sandhika Galih  -https://github.com/sandhikagalih | JavaScript <br />
- 84 - Sarah Drasner  -https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo | Vue.js <br />
- 85 - Saurabh Mhatre  -https://github.com/smhatre59 | Node.js <br />
- 86 - Sepideh Setayeshfar  -https://github.com/ssetayeshfar | Node.js <br />
- 87 - Shaun The Net Ninja  -https://github.com/iamshaunjp | CSS <br />
- 88 - Sir Timothy John Berners-Lee  -https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee | HTML <br />
- 89 - Sophie Alpert  -https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com | React <br />
- 90 - Starr Horne  -https://github.com/starrhorne, https://twitter.com/starrhorne | Ruby <br />
- 91 - Steffen Kolmer  -https://github.com/skolmer | JavaScript <br />
- 92 - Steve Souders  -http://stevesouders.com, https://github.com/stevesouders | HTTP <br />
- 93 - Sunil Sandhu  -https://github.com/sunil-sandhu | React <br />
- 94 - Surma  -https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev | WebAssembly <br />
- 95 - Tamas Piros  -https://github.com/tamaspiros | Express <br />
- 96 - Tatu Ylonen  -https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh | SSH <br />
- 97 - Taylor Otwell  -https://github.com/taylorotwell, https://twitter.com/taylorotwell | Vue.js <br />
- 98 - TJ Holowaychuk  -https://github.com/tj | Express <br />
- 99 - Vigneshwer Dhinakaran  -https://github.com/dvigneshwer | Node.js <br />
-100 - Xavier Leroy  -https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml <br />
-101 - Yukihiro Matsumoto  -https://github.com/matz, https://twitter.com/yukihiro_matz | Ruby <br />
+## 14. Developers (who are also my teachers on my journey in the world of computer science).  
+  1 - Steffen Kolmer : https://github.com/skolmer | JavaScript <br />
+  2 - SteveSouders : http://stevesouders.com, https://github.com/stevesouders | HTTP <br />
+  3 - SunilSandhu : https://github.com/sunil-sandhu | React <br />
+  4 - Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev | WebAssembly <br />
+  5 - Tamas Piros : https://github.com/tamaspiros | Express <br />
+  6 - TatuYlonen : https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh |SSH <br />
+  7 - Taylor Otwell : https://github.com/taylorotwell, https://twitter.com/taylorotwell |Vue.js <br />
+  8 - TJ Holowaychuk : https://github.com/tj | Express <br />
+  9 - ValerySizov : https://twitter.com/_ValerySizov_ | GitLab <br />
+ 10 - Vigneshwer Dhinakaran : https://github.com/dvigneshwer | Node.js <br />
+ 11 - Xavier Leroy : https://github.com/xavierleroy, https://xavierleroy.org | Caml | OCaml <br />
+ 12 - Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz | Ruby <br />
+ 13 - Afzaal Ahmad Zeeshan : https://github.com/afzaal-ahmad-zeeshan, https://twitter.com/afzaalvirgoboy | ASP.NET Core <br />
+ 14 - Ahmed Hadjou : https://github.com/hidjou |Vue.js <br />
+ 15 - Alfonso Garcia-Caro : https://twitter.com/alfonsogcnunez | F#
+ 16 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | C# |TypeScript <br />
+ 17 - Andrew Betts : https://github.com/triblondon | HTTP <br />
+ 18 - Andrew Powell-Morse : https://twitter.com/Andrewpomo | Ruby <br />
+ 19 - AnjanaVakil : https://github.com/vakila | JavaScript <br />
+ 20 - AnkitSolanki : https://github.com/Anks, https://twitter.com/_anks | F#
+ 21 - Awais Mirza : https://twitter.com/AwaisMirza |SQLite <br />
+ 22 - Basarat AliSyed : https://github.com/basarat |TypeScript <br />
+ 23 - Benjamin Dunphy : https://github.com/dunphyben | React <br />
+ 24 - Bert Bos : https://github.com/bert-github | CSS <br />
+ 25 - Bhrugen Patel : https://github.com/bhrugen | ASP.NET Core <br />
+ 26 - Bill Raymond : https://github.com/BillRaymond, https://twitter.com/billraymonde |VisualStudio <br />
+ 27 - Brandon Minnick : https://github.com/brminnick | Go <br />
+ 28 - Brendan Eich : https://github.com/BrendanEich | JavaScript <br />
+ 29 - Brie Bunge : https://github.com/brieb, https://twitter.com/briebunge |TypeScript <br />
+ 30 - Bryan Hughes : https://github.com/nebrius | Node.js <br />
+ 31 - Chad Fowler : https://github.com/chad, https://twitter.com/chadfowler | RubyGems <br />
+ 32 - Chris Coyier : https://github.com/chriscoyier | CSS <br />
+ 33 - Chris Wanstrath : https://github.com/defunkt | Git <br />
+ 34 - Dave McKay : https://twitter.com/TheGurkha | Linux <br />
+ 35 - David Heinemeier Hansson : https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing | Ruby on Rails <br />
+ 36 - David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano | React <br />
+ 37 - David Wilson : https://github.com/daviwil, https://twitter.com/daviwil | F#
+ 38 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig | WebAssembly <br />
+ 39 - Derek Banas : https://github.com/newthinktank, https://twitter.com/NewThinkTank | F# |Visual Basic <br />
+ 40 - Dmitriy Zaporozhets : https://github.com/dzaporozhets, https://twitter.com/dzaporozhets | GitLab <br />
+ 41 - Douglas Crockford : https://github.com/douglascrockford | JavaScript | JSON<br />
+ 42 - Dwayne Richard Hipp : https://github.com/dhh, https://twitter.com/DRichardHipp |SQLite <br />
+ 43 - Eduardo Baik : https://github.com/itzedu | Ruby on Rails <br />
+ 44 - EdwardSnowden : https://twitter.com/Snowden |SSH <br />
+ 45 - Eric Elliott : https://github.com/ericelliott | React <br />
+ 46 - Erica Brescia : https://github.com/ebrescia ,https://twitter.com/ericabrescia | Bitnami <br />
+ 47 - EvanYou : https://github.com/yyx, https://twitter.com/youyuxi |Vue.js <br />
+ 48 - Flavio Copes : https://github.com/flaviocopes | JavaScript <br />
+ 49 - Francesc Campoy : https://github.com/campoy | Go <br />
+ 50 - GaborSzabo : https://github.com/szabgab | Node.js | Ruby <br />
+ 51 - GaborSzabo : https://github.com/szabgab | Ruby <br />
+ 52 - Ganesh Mani : https://github.com/ganeshmani | Node.js <br />
+ 53 - GuidoVan Rossum : https://github.com/gvanrossum | openSource | Python <br/>
+ 54 - Gwendolyn Faraday : https://github.com/gwenf, https://twitter.com/gwen_faraday |Vue.js <br />
+ 55 - Hampton Catlin : https://github.com/hcatlin, https://twitter.com/hcatlin, http://hamptoncatlin.com |Sass <br />
+ 56 - Hrishi Mittal : https://github.com/hrishimittal | React <br />
+ 57 - JacobThornton : https://github.com/fat | Bootstrap | CSS <br />
+ 58 - James Hibbard : https://github.com/jameshibbard | Node.js <br />
+ 59 - Jamie Zawinski : https://github.com/yesthatjwz | openSource <br/>
+ 60 - Jeff Atwood https://github.com/coding-horror | JavaScript <br />
+ 61 - Jianbing Fang : https://github.com/jianbingfang |VisualStudio Code
+ 62 - Jim Weirich : https://github.com/jimweirich, https://twitter.com/jimweirich | RubyGems <br />
+ 63 - John Resig : https://github.com/jeresig | JavaScript <br />
+ 64 - Jon Byrum : https://github.com/jbyrum | Node.js <br />
+ 65 - JonSkeet : https://github.com/jskeet, https://twitter.com/jonskeet | C# <br />
+ 66 - JoniTrythall : https://github.com/jonitrythall | CSS <br />
+ 67 - Jorge Fioranelli : https://github.com/jorgef, https://twitter.com/jorgefioranelli | F#
+ 68 - José Rossi : https://github.com/joserossi | React <br />
+ 69 - Kasey Champion : https://twitter.com/techiegood | Ruby on Rails <br />
+ 70 - KenThompson : https://github.com/ken | Go <br />
+ 71 - Kendra Havens : https://github.com/kendrahavens, https://twitter.com/gotheap | ASP.NET Core <br />
+ 72 - KingsleySilas Chijioke : https://github.com/kinsomicrote | React <br />
+ 73 - KrasimirTsonev : https://github.com/krasimir |Sass <br />
+ 74 - Krzysztof Cieślak : https://github.com/Krzysztof-Cieslak, https://twitter.com/k_cieslak | F#
+ 75 - LarsSchneider : https://github.com/larsxschneider | Git <br />
+ 76 - Lin Clark : https://github.com/linclark, https://twitter.com/linclark | WebAssembly <br />
+ 77 - LinusTorvalds : https://github.com/torvalds | Git | Linux | openSource <br />
+ 78 - Lokesh Dhakar : https://github.com/lokesh | CSS <br />
+ 79 - Lydia Hallie : https://github.com/lydiahallie | JavaScript <br />
+ 80 - Maria Naggaga : https://twitter.com/LadyNaggaga | ASP.NET Core <br />
+ 81 - Marijn Haverbeke : https://github.com/marijnh | JavaScript <br />
+ 82 - Mario Hoyos : https://github.com/mariohoyos | Express <br />
+ 83 - Mark Otto : https://github.com/mdo | CSS <br />
+ 84 - Mark Otto : https://github.com/mdo, https://twitter.com/mdo, https://markdotto.com | Bootstrap <br />
+ 85 - Mathias Buus : https://github.com/mafintosh | Electron <br />
+ 86 - MichaelTiemann : https://github.com/MichaelTiemann | openSource <br/>
+ 87 - Mike Dane : https://github.com/mikedane | C# <br />
+ 88 - MiriamSuzanne : https://github.com/mirisuzanne, https://twitter.com/MiriSuzanne |Sass <br />
+ 89 - Moshfegh Hamedani : https://github.com/mosh-hamedani | React | Java <br />
+ 90 - Mu-An : https://github.com/muan | Electron <br />
+ 91 - NahidSamsami : https://github.com/nsamsami | Node.js <br />
+ 92 - Nat Friedman : https://github.com/nat | Git <br />
+ 93 - Natalie Weizenbaum : https://github.com/nex |Sass <br />
+ 94 - Nesha Zoric : https://github.com/nebojsaz, https://twitter.com/neshazo | Ruby on Rails <br />
+ 95 - Nikita Prokopov : https://github.com/tonsky | JavaScript <br />
+ 96 - Paul Brannan : https://github.com/cout | RubyGems <br />
+ 97 - PaulVixie : https://github.com/vixie | openSource <br/>
+ 98 - Philip Guo : https://github.com/pgbovine | JavaScript <br />
+ 99 - Radouane Khiri : https://github.com/Redvanisation, https://twitter.com/redvanisation | Ruby on Rails <br />
+100 - Rasmus Lerdorf : https://github.com/rlerdorf | PHP <br />
+101 - Richard Kilmer : https://github.com/richkilmer | RubyGems <br />
+102 - Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick |VisualStudio Code
+103 - Rob Pike : https://github.com/robpike | Go <br />
+104 - Robert Griesemer : https://github.com/griesemer | Go <br />
+105 - Robin Rendle : https://github.com/robinrendle | CSS <br />
+106 - Russ Cox : https://github.com/rsc | Go <br />
+107 - Ryan Florence : https://github.com/ryanflorence, https://twitter.com/ryanflorence | React <br />
+108 - S M Asad Rahman : https://github.com/asad-mlbd | Node.js <br />
+109 - Sandhika Galih : https://github.com/sandhikagalih | JavaScript <br />
+110 - Sarah Drasner : https://github.com/sdras, https://sarah.dev, https://twitter.com/sarah_edo |Vue.js <br />
+111 - Saurabh Mhatre : https://github.com/smhatre | Node.js <br />
+112 - Scott Hanselman : https://github.com/shanselman, https://twitter.com/shanselman | ASP.NET Core <br />
+113 - SepidehSetayeshfar : https://github.com/ssetayeshfar | Node.js <br />
+114 - ShaunThe Net Ninja : https://github.com/iamshaunjp | CSS <br />
+115 - SirTimothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w.org/People/Berners-Lee | HTML <br />
+116 - Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com | React <br />
+117 - Starr Horne : https://github.com/starrhorne, https://twitter.com/starrhorne | Ruby <br />
 
 <a name="discipline"></a>
-## 14. Discipline.
+## 15. Discipline.
 1. Statistics <br />
 
 <a name="environment"></a>
-## 15. Environment.
+## 16. Environment.
 1 - Node.js
 
+<a name="forge"></a>
+## 17. Forge.
+1 - Gitea
+
 <a name="framework"></a>
-## 16. Frameworks.
-1 - Bootstrap <br />
-2 - Drupal <br />
-3 - Electron <br />
-4 - Express <br />
-5 - Jest <br />
-6 - Materialize <br />
-7 - Mocha <br />
-8 - NestJS <br />
-9 - Ruby on Rails <br />
+## 18. Frameworks.
+1 - .NET Core <br />
+2 - ASP.NET Core <br />
+3 - Bootstrap <br />
+4 - Drupal <br />
+5 - Electron <br />
+6 - Express <br />
+7 - Jest <br />
+8 - Materialize <br />
+9 - Mocha <br />
+10 - NestJS <br />
+11 - Ruby on Rails <br />
 
 <a name="IDE"></a>
-## 17. Integrated Development Environment.
+## 19. Integrated Development Environment.
 1 - Lazarus <br />
 2 - IntelliJ IDEA <br />
 3 - Visual Studio <br />
 
 <a name="interface"></a>
-## 18. Interfaces.
+## 20. Interfaces.
 1 - Programming Interface (API) <br />
 2 - Insomnia <br />
 
+<a name="intrusion"></a>
+## 21. Intrusion Detection System.
+1 - Snort <br />
+
 <a name="language"></a>
-## 19. Languages.
+## 22. Languages.
  1 - British English <br />
  2 - C <br />
  3 - C# <br />
@@ -376,96 +502,113 @@
 21 - Spanish <br />
 22 - Structured Query Language <br />
 23 - TypeScript <br />
+24 - Visual Basic <br />
 
 <a name="interface"></a>
-## 20. Library.
-1 - jQuery <br />
-2 - Mongoose <br />
-3 - React <br />
-4 - SQLite <br />
+## 23. Library.
+1 - Bitnami <br />
+2 - jQuery <br />
+3 - Mongoose <br />
+4 - React <br />
+5 - SQLite <br />
 
 <a name="mission"></a>
-## 21. Mission.
+## 24. Mission.
 1 - workers <br />
 2 - supercomputer <br />
 
 <a name="modulebundler"></a>
-## 22. Module Bundler.
+## 25. Module Bundler.
 1 - webpack <br />
 
 <a name="os"></a>
-## 23. Operating Systems.
-1 - Microsoft | Windows 10 <br />
-2 - Linux | Kali <br />
-3 - Linux | Ubuntu <br />
-4 - Linux | Debian <br />
+## 26. Operating Systems.
+1 - Linux | Arch Linux <br />
+2 - Linux | Debian <br />
+3 - Linux | Kali <br />
+4 - Linux | Manjaro <br />
 5 - Linux | Parrot OS <br />
+6 - Linux | Ubuntu <br />
+7 - Microsoft | Windows 10 <br />
 
 <a name="packagemanager"></a>
-## 24. Package Manager.
+## 27. Package Manager.
 1 - npm <br />
 2 - RubyGems <br />
 3 - Yarn <br />
 
 <a name="platform"></a>
-## 25. Platform.
+## 28. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 26. Protocol.
+## 29. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="shell"></a>
-## 27. Shell.
+## 30. Shell.
 1 - PowerShell <br />
 2 - SSH <br />
 
 <a name="specification"></a>
-## 28. Specification.
+## 31. Specification.
 1 - ECMAScript
 
 <a name="standard"></a>
-## 29. Standard.
+## 32. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 30.Technique.
+## 33.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 31. Text Editors.
+## 34. Text Editors.
 1 - Atom <br />
 2 - Code::Blocks <br />
-3 - Sublime Text <br />
-4 - Vim <br />
-5 - Visual Studio Code <br />
+3 - Notepad++ <br />
+4 - Sublime Text <br />
+5 - Vim <br />
+6 - Visual Studio Code <br />
 
 <a name="tools"></a>
-## 32. Tools.
+## 35. Tools.
 1 - ESLint <br />
 2 - DB Browser for SQLite <br />
-3 - RSpec <br />
+3 - GitLab <br />
+4 - RSpec <br />
+
+<a name="utility"></a>
+## 36. Utility.
+1 - balenaEtcher <br />
 
 <a name="version"></a>
-## 33. Version Control System.
-1 - Git
+## 37. Version Control System.
+1 - Git <br />
 
 <a name="browser"></a>
-## 34. Web Browsers.
+## 38. Web Browsers.
 1 - Google Chrome
 
+<a name="webserver"></a>
+## 39. Web Server.
+1 - Internet Information Services
+
 <a name="references"></a>
-## 35. Official website references.
+## 40. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
+
+**_country references_** <br />
+Countries in the world by population (2020) : https://www.worldometers.info/world-population/population-by-country/ <br />
 
 **_security references_** <br />
 GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="benchmark"></a>
-## 36. Benchmark
+## 41. Benchmark
 *** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
 reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
 *** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
@@ -491,7 +634,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 17) Yemen  <br />
 
 <a name="github"></a>
-## 37. GitHub notes.
+## 42. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -501,7 +644,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 38. GitHub repository calculation.
+## 43. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

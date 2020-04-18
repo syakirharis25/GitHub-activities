@@ -314,7 +314,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 <a name="developers"></a>
 ## 14. Developers (who are also my teachers on my journey in the world of computer science).  
   1 - Ahmed Hadjou : https://github.com/hidjou | Vue.js <br />
-  2 - Alfonso Garcia-Caro : https://twitter.com/alfonsogcnunez | F#
+  2 - Alfonso Garcia-Caro : https://twitter.com/alfonsogcnunez | F# <br />
   3 - Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg | C# | TypeScript <br />
   4 - Andrew Betts : https://github.com/triblondon | HTTP <br />
   5 - Andrew Powell-Morse : https://twitter.com/Andrewpomo | Ruby <br />

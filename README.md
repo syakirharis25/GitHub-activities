@@ -13,7 +13,7 @@
 
 **_Currently, there are only 2 space forces on planet Earth, really serious about Heavens exploration activities;_** <br />
 **_1) Russian Space Forces Космические войска России [ RUSSIA ] : https://structure.mil.ru/structure/forces/vks/cosmic.htm_** <br />
-**_2) United States Space Force (USSF) [ UNITED STATES OF AMERICA ] : https://twitter.com/SpaceForceDoD_** <br />
+**_2) United States Space Force [ UNITED STATES OF AMERICA ] : https://twitter.com/SpaceForceDoD_** <br />
 
 # Brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />

@@ -35,8 +35,8 @@ Whatever you do :
 It all started when I saw a presentation about **dinosaur** on a computer, currently United States of America (USA) boasts the greatest number of dinosaur species found on planet Earth, maybe this is why, currently United States of America (USA) is the main leader in the world of computer science, and then I found **dinosaur** again, especially in the Operating System Concepts textbook used by the university to study about the world of computer science, which is also stated on that textbook `printed in the United States of America`. What I can understand right now is that American people built their computer and the operating system to fully understand the dinosaur they found in their new-found world, which is right now being renamed the Jurassic World.. **RAWR !!!**
 
 # Current worldwide rank : #12 as of 19 April 2020
-### Total topic : 38
-### Total sub topic : 168
+### Total topic : 39
+### Total sub topic : 169
 ### Total commit in GitHub : 4,572 ( last counter : 4,516 | differences : 20 | 30 | 38 | 76 | 48 | 56 ) 
 ### Total commit year 2020 : 3,946 ( last counter : 3,890 | differences : 20 | 30 | 38‬ | 76 | 48‬ | 56 ) 
 ### Total commit year 2019 : 396
@@ -96,26 +96,27 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 21. [Intrusion Detection System.](#intrusion)
 22. [Languages.](#language)
 23. [Library.](#library)
-24. [Mission.](#mission)
-25. [Module Bundler.](#modulebundler)
-26. [Operating Systems.](#os)
-27. [Package Manager.](#packagemanager)
-28. [Platform.](#platform)
-29. [Protocol.](#protocol)
-30. [Shell.](#shell)
-31. [Specification.](#specification)
-32. [Standard.](#standard)
-33. [Technique.](#technique)
-34. [Text Editors.](#editor)
-35. [Tools.](#tools)
-36. [Utility.](#utility)
-37. [Version Control System.](#version)
-38. [Web Browsers.](#browser)
-39. [Web Server.](#webserver)
-40. [Official website references.](#references)
-41. [Benchmark.](#benchmark)
-42. [GitHub notes.](#github)
-43. [GitHub repository calculation.](#calculation)
+24. [Media player.](#mediaplayer)
+25. [Mission.](#mission)
+26. [Module Bundler.](#modulebundler)
+27. [Operating Systems.](#os)
+28. [Package Manager.](#packagemanager)
+29. [Platform.](#platform)
+30. [Protocol.](#protocol)
+31. [Shell.](#shell)
+32. [Specification.](#specification)
+33. [Standard.](#standard)
+34. [Technique.](#technique)
+35. [Text Editors.](#editor)
+36. [Tools.](#tools)
+37. [Utility.](#utility)
+38. [Version Control System.](#version)
+39. [Web Browsers.](#browser)
+40. [Web Server.](#webserver)
+41. [Official website references.](#references)
+42. [Benchmark.](#benchmark)
+43. [GitHub notes.](#github)
+44. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
 ## 1. Regions.
@@ -514,17 +515,21 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 4 - React <br />
 5 - SQLite <br />
 
+<a name="mediaplayer"></a>
+## 24. Media player.
+1 - VLC media player
+
 <a name="mission"></a>
-## 24. Mission.
+## 25. Mission.
 1 - workers <br />
 2 - supercomputer <br />
 
 <a name="modulebundler"></a>
-## 25. Module Bundler.
+## 26. Module Bundler.
 1 - webpack <br />
 
 <a name="os"></a>
-## 26. Operating Systems.
+## 27. Operating Systems.
 1 - Linux | Arch Linux <br />
 2 - Linux | Debian <br />
 3 - Linux | Kali <br />
@@ -534,38 +539,38 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 7 - Microsoft | Windows 10 <br />
 
 <a name="packagemanager"></a>
-## 27. Package Manager.
+## 28. Package Manager.
 1 - npm <br />
 2 - RubyGems <br />
 3 - Yarn <br />
 
 <a name="platform"></a>
-## 28. Platform.
+## 29. Platform.
 1 - Open source
 
 <a name="protocol"></a>
-## 29. Protocol.
+## 30. Protocol.
 1 - Hypertext Transfer Protocol (HTTP)
 
 <a name="shell"></a>
-## 30. Shell.
+## 31. Shell.
 1 - PowerShell <br />
 2 - SSH <br />
 
 <a name="specification"></a>
-## 31. Specification.
+## 32. Specification.
 1 - ECMAScript
 
 <a name="standard"></a>
-## 32. Standard.
+## 33. Standard.
 1 - WebAssembly <br />
 
 <a name="region"></a>
-## 33.Technique.
+## 34.Technique.
 1 - AJAX
 
 <a name="editor"></a>
-## 34. Text Editors.
+## 35. Text Editors.
 1 - Atom <br />
 2 - Code::Blocks <br />
 3 - Notepad++ <br />
@@ -574,30 +579,30 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 6 - Visual Studio Code <br />
 
 <a name="tools"></a>
-## 35. Tools.
+## 36. Tools.
 1 - ESLint <br />
 2 - DB Browser for SQLite <br />
 3 - GitLab <br />
 4 - RSpec <br />
 
 <a name="utility"></a>
-## 36. Utility.
+## 37. Utility.
 1 - balenaEtcher <br />
 
 <a name="version"></a>
-## 37. Version Control System.
+## 38. Version Control System.
 1 - Git <br />
 
 <a name="browser"></a>
-## 38. Web Browsers.
+## 39. Web Browsers.
 1 - Google Chrome
 
 <a name="webserver"></a>
-## 39. Web Server.
+## 40. Web Server.
 1 - Internet Information Services
 
 <a name="references"></a>
-## 40. Official website references.
+## 41. Official website references.
 **_code references_** <br />
 How Many Millions of Lines of Code Does It Take? by Jeff Desjardins : https://www.visualcapitalist.com/millions-lines-of-code <br />
 Information is beautiful : https://informationisbeautiful.net/visualizations/million-lines-of-code/ <br />
@@ -610,7 +615,7 @@ GlobalSecurity.org : https://www.globalsecurity.org <br />
 F-22 Raptor Avionics : https://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm <br />
 
 <a name="benchmark"></a>
-## 41. Benchmark
+## 42. Benchmark
 *** `Abu Abdullah Mālik ibn Anas ibn Mālik Ibn Abī 'Āmir Ibn 'Amr Ibnul-Hārith Ibn Ghaimān Ibn Khuthail Ibn 'Amr Ibnul-Haarith`,
 reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin Al-Abbas bin Usman bin Syafie bin As-Saib`, reverently known as `Imam Syafi'i` or `Imam Syafie`.  <br />
 *** `Imam Mālik` learned from **at least 900 teachers** to write a book known as **Muwaṭṭaʾ** which means **"well-trodden path"**, hailed as **_"the soundest book on earth after the Quran"_** by `Imam Syafi'i`, the compilation of the **Muwaṭṭaʾ** led to `Imam Mālik` being bestowed with such reverential epithets as Proof of the Community, Imam of the Abode of Emigration, and Knowledgeable Scholar of Medina.  <br />
@@ -636,7 +641,7 @@ reverently known as `Imam Mālik`, the grand teacher of `Muhammad bin Idris bin 
 17) Yemen  <br />
 
 <a name="github"></a>
-## 42. GitHub notes.
+## 43. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/GitHub-activities.git
@@ -646,7 +651,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 43. GitHub repository calculation.
+## 44. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code

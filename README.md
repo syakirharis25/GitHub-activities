@@ -64,7 +64,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ### Total version control system : 1
 ### Total web browser : 1
 ### Total web server : 1
-### Total lines of code : 10,139,468‬ | FIREFOX ( last counter : 10,004,870| differences : 29 | 134,569 )
+### Total lines of code : 10,139,504 | FIREFOX ( last counter : 10,004,870| differences : 134,569 | 36 )
 
 ### TOTAL POPULATION : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 

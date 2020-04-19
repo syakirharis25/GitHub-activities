@@ -73,33 +73,33 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 ---
 
 ## Table of Contents
- 1. [Regions.](#region)
+ 1. [Region.](#region)
  2. [Africa.](#africa)
  3. [America.](#america)
  4. [Asia.](#asia)
  5. [Europe.](#europe)
- 6. [Algorithms.](#algorithms)
+ 6. [Algorithm.](#algorithm)
  7. [Books.](#book)
- 8. [Case Studies.](#casestudies)
+ 8. [Case Study.](#casestudy)
  9. [Command-line Interpreter.](#CLI)
 10. [Compilers.](#compiler)
 11. [Containerization.](#containerization)
 12. [Databases.](#database)
 13. [Data Format.](#dataformat)
-14. [Developers (who are also my teachers on my journey in the world of computer science).](#developers)
+14. [Developer (who are also my teachers on my journey in the world of computer science).](#developers)
 15. [Discipline.](#discipline)
 16. [Environment.](#environment)
 17. [Forge.](#forge)
-18. [Frameworks.](#framework)
+18. [Framework.](#framework)
 19. [Integrated Development Environment.](#IDE)
 20. [Interfaces.](#interface)
 21. [Intrusion Detection System.](#intrusion)
-22. [Languages.](#language)
+22. [Language.](#language)
 23. [Library.](#library)
 24. [Media player.](#mediaplayer)
 25. [Mission.](#mission)
 26. [Module Bundler.](#modulebundler)
-27. [Operating Systems.](#os)
+27. [Operating System.](#os)
 28. [Package Manager.](#packagemanager)
 29. [Platform.](#platform)
 30. [Protocol.](#protocol)
@@ -107,7 +107,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 32. [Specification.](#specification)
 33. [Standard.](#standard)
 34. [Technique.](#technique)
-35. [Text Editors.](#editor)
+35. [Text Editor.](#editor)
 36. [Tools.](#tools)
 37. [Utility.](#utility)
 38. [Version Control System.](#version)
@@ -119,7 +119,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 44. [GitHub repository calculation.](#calculation)
 
 <a name="region"></a>
-## 1. Regions.
+## 1. Region.
  1 - Albania [EUROPE] <br />
  2 - Algeria [ASIA] <br />
  3 - Angola [AFRICA] <br />
@@ -272,12 +272,12 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 
 ####################################################################################
 
-<a name="algorithms"></a>
-## 6. Algorithms.
+<a name="algorithm"></a>
+## 6. Algorithm.
 1 - Training Data <br />
 
 <a name="book"></a>
-## 7. Books.
+## 7. Book.
 1 - Database Design for Mere Mortals : A Hands-On Guide to Relational Database Design by Michael J. Hernandez (Third Edition) <br />
 2 - Effective Testing with RSpec 3 Build Ruby Apps with Confidence by Myron Marston and Ian Dees, edited by Jacquelyn Carter <br />
 3 - Eloquent JavaScript by Marijn Haverbeke (Third edition) <br />
@@ -285,8 +285,8 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - Programming Rust: Fast, Safe Systems Development by Jim Blandy and Jason Orendorff
 6 - The Rust Programming Language by Steve Klabnik and Carol Nichols
 
-<a name="casestudies"></a>
-## 8. Case Studies.
+<a name="casestudy"></a>
+## 8. Case Study.
 1 - F-22
 
 <a name="CLI"></a>
@@ -294,7 +294,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 1 - Windows Command Prompt
 
 <a name="compiler"></a>
-## 10. Compilers.
+## 10. Compiler.
 1 - Free Pascal <br />
 2 - rustc <br />
 3 - ocamlc <br />
@@ -306,7 +306,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 1 - Docker
 
 <a name="database"></a>
-## 12. Databases.
+## 12. Database.
 1 - Apache Cassandra <br />
 2 - MongoDB <br />
 3 - MySQL <br />
@@ -317,8 +317,8 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 ## 13. Data Format.
 1 - JSON
 
-<a name="developers"></a>
-## 14. Developers (who are also my teachers on my journey in the world of computer science).  
+<a name="developer"></a>
+## 14. Developer (who are also my teachers on my journey in the world of computer science).  
   1 - Steffen Kolmer : https://github.com/skolmer | JavaScript <br />
   2 - SteveSouders : http://stevesouders.com, https://github.com/stevesouders | HTTP <br />
   3 - SunilSandhu : https://github.com/sunil-sandhu | React <br />
@@ -450,7 +450,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 1 - Gitea
 
 <a name="framework"></a>
-## 18. Frameworks.
+## 18. Framework.
 1 - .NET Core <br />
 2 - ASP.NET Core <br />
 3 - Bootstrap <br />
@@ -529,7 +529,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 1 - webpack <br />
 
 <a name="os"></a>
-## 27. Operating Systems.
+## 27. Operating System.
 1 - Linux | Arch Linux <br />
 2 - Linux | Debian <br />
 3 - Linux | Kali <br />
@@ -570,7 +570,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 1 - AJAX
 
 <a name="editor"></a>
-## 35. Text Editors.
+## 35. Text Editor.
 1 - Atom <br />
 2 - Code::Blocks <br />
 3 - Notepad++ <br />
@@ -578,8 +578,8 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 5 - Vim <br />
 6 - Visual Studio Code <br />
 
-<a name="tools"></a>
-## 36. Tools.
+<a name="tool"></a>
+## 36. Tool.
 1 - ESLint <br />
 2 - DB Browser for SQLite <br />
 3 - GitLab <br />
@@ -594,7 +594,7 @@ GRAND TOTAL POPULATION of All regions : 1,247,502,193 ( last counter : 970,532,4
 1 - Git <br />
 
 <a name="browser"></a>
-## 39. Web Browsers.
+## 39. Web Browser.
 1 - Google Chrome
 
 <a name="webserver"></a>

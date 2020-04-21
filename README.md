@@ -15,6 +15,8 @@
 **_1) Russian Space Forces, Космические войска России [ Russian Federation ]; started in year 1992, initial project started in year 1955 under the name; Space Operations Section, Strategic Operations Branch of the Supreme High Command Reserve Artillery, Секции космических операций, стратегических операций отделения ВГК резервной артиллерии_** <br />
 **_2) United States Space Force [ United States of America ]; started in year 2019, initial project started in year 1982 under the name; Air Force Space Command_** <br />
 
+* Intelligence word comes from Latin intelligentia (“the act of choosing between, intelligence”), from intellegō (“understand”), from inter (“between”) + legō (“choose, pick out, read”), capacity of mind, especially to understand principles, truths, facts or meanings, acquire knowledge, and apply it to practice; the ability to comprehend and learn, is an important component of national power and a fundamental element in decision making regarding national security, defense, and foreign policies.
+
 # Brief introduction about GitHub and Microsoft
 *** **GitHub, Inc.** owned by **Microsoft Corporation**, both from United States of America <br />
 *** **Microsoft Corporation** founded by `William Henry Gates III` and `Paul Gardner Allen` <br />

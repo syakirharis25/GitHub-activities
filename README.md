@@ -58,8 +58,10 @@ Average commit performance before 1 January 2021 : 10,838 total commits | as 22 
 Average worldwide rank before 1 January 2021 : #3 | as 22 April 2020 <br />
 <br />
 Average speed performance needed to be #1 before 1 January 2021 : 80 commits per day | 2,400‬ commits per month <br />
-Current speed performance vs GitHub : 30% <br />
+Current speed performance vs GitHub : 30% | at least count once before 00:00:00 UTC the next day; Coordinated Universal Time<br />
+Coordinated Universal; UTC Time TIME IS ALWAYS DISPLAYED AS 24 HOURS : https://www.time.gov <br />
 <br />
+
 ### Total topic : 39
 ### Total sub topic : 169
 ### Total commit in GitHub : 4,750‬ ( last counter : 4,742 | differences : 48 | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 

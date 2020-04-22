@@ -65,6 +65,7 @@ Current speed performance per execution <br />
 Continuous counter : 22 seconds 565 milliseconds | 10 seconds 976 milliseconds | 6 seconds 409 milliseconds <br /> 
 Total : 39 seconds 950 milliseconds | Count : 3 | Maximum : 22 seconds 565 milliseconds | Minimum : 6 seconds 409 milliseconds | Average : 13 seconds 317 milliseconds <br />
 <br />
+Current speed performance of IDE initializing : 23 seconds <br /> 
 
 ### Total topic : 39
 ### Total sub topic : 169

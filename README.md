@@ -42,10 +42,10 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 # Current worldwide rank : #15 as of 21 April 2020
 22 April 2020 | Wednesday : <br />
-continuous counter : **value** |  **value**
+continuous counter : **value** |  **value**  <br />
 Total : **value** | Count : **value** | Maximum : **value**| Minimum : **value** | Average : **value** <br />
 23 April 2020 | Thursday : <br />
-continuous counter : **value** |  **value**
+continuous counter : **value** |  **value**  <br />
 Total : **value** | Count : **value** | Maximum : **value**| Minimum : **value** | Average : **value** <br />
 
 ### Total topic : 39

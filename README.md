@@ -61,8 +61,8 @@ Average speed performance needed to be #1 before 1 January 2021 : 80 commits per
 Current speed performance vs GitHub : 30% | at least count once every 2 days, within 48 hours before 00:00:00 UTC the next day<br />
 Coordinated Universal; UTC Time TIME IS ALWAYS DISPLAYED AS 24 HOURS : https://www.time.gov <br />
 <br />
-Current speed performance per execution 
-Continuous counter : 22 seconds 565 milliseconds | **value** 
+Current speed performance per execution <br /> 
+Continuous counter : 22 seconds 565 milliseconds | **value** <br /> 
 Total : 22 seconds 565 milliseconds | Count : 1 | Maximum : 22 seconds 565 milliseconds | Minimum : 22 seconds 565 millisecond | Average : 22 seconds 565 millisecond <br />
 <br />
 

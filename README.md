@@ -49,9 +49,12 @@ Total : 24 | Count : 1 | Maximum : 24 | Minimum : 24 | Average : 24 <br />
 Continuous counter : **value** |  **value**  <br />
 Total : **value** | Count : **value** | Maximum : **value** | Minimum : **value** | Average : **value** <br />
 <br />
-Average speed performance for 30 April 2020 : 192 commits per month <br />
-Average commit performance for 30 April 2020 : 4,934 total commits <br />
-
+Average speed performance before 1 May 2020 : 192 commits per month <br />
+Average commit performance before 1 May 2020 : 4,934 total commits <br />
+<br />
+Average speed performance before 1 January 2021 : 6,096 commits per year <br />
+Average commit performance before 1 January 2021 : 10,838 total commits <br />
+<br />
 ### Total topic : 39
 ### Total sub topic : 169
 ### Total commit in GitHub : 4,742 ( last counter : 4,718 | differences : 48 | 56 | 69 | 29 | 27 | 21 | 24 ) 

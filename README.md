@@ -51,9 +51,11 @@ Total : **value** | Count : **value** | Maximum : **value** | Minimum : **value*
 <br />
 Average speed performance before 1 May 2020 : 192 commits per month <br />
 Average commit performance before 1 May 2020 : 4,934 total commits <br />
+Average worldwide rank before 1 May 2020 : #14 <br />
 <br />
 Average speed performance before 1 January 2021 : 6,096 commits per year <br />
 Average commit performance before 1 January 2021 : 10,838 total commits <br />
+Average worldwide rank before 1 January 2021 : #3 <br />
 <br />
 ### Total topic : 39
 ### Total sub topic : 169

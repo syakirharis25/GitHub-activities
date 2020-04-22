@@ -42,8 +42,8 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 # Current worldwide rank : #15 as of 21 April 2020
 DATE ACTIVITY COUNTER <br />
-22 April 2020 | Wednesday : (commit counter : | || Total : || Count : || Maximum : || Minimum : || Average : ) <br />
-23 April 2020 | Thursday : (commit counter : | || Total : || Count : || Maximum : || Minimum : || Average : )  <br />
+22 April 2020 | Wednesday : (commit counter : **value** |  **value** || Total : **value** || Count : **value** || Maximum : **value**|| Minimum : **value** || Average : **value** ) <br />
+23 April 2020 | Thursday : (commit counter : **value** | **value** || Total : **value** || Count : **value** || Maximum : **value** || Minimum : **value** || Average : **value** )  <br />
 
 ### Total topic : 39
 ### Total sub topic : 169

@@ -58,6 +58,7 @@ Average commit performance before 1 January 2021 : 10,838 total commits | as 22 
 Average worldwide rank before 1 January 2021 : #3 | as 22 April 2020 <br />
 <br />
 Average speed performance needed to be #1 before 1 January 2021 : 80 commits per day | 2,400‬ commits per month <br />
+Expectation vs current speed performance percentage : 8% <br />
 <br />
 ### Total topic : 39
 ### Total sub topic : 169

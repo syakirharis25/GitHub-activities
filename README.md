@@ -49,7 +49,7 @@ Total : 24 | Count : 1 | Maximum : 24 | Minimum : 8 | Average : 16 <br />
 Continuous counter : **value** |  **value**  <br />
 Total : **value** | Count : **value** | Maximum : **value** | Minimum : **value** | Average : **value** <br />
 <br />
-Average speed performance before 1 May 2020 : 192 commits per month | as 22 April 2020 <br />
+Average speed performance before 1 May 2020 : 24 commits per day | 720 commits per month | as 22 April 2020 <br />
 Average commit performance before 1 May 2020 : 4,934 total commits | as 22 April 2020 <br />
 Average worldwide rank before 1 May 2020 : #14 | as 22 April 2020 <br />
 <br />
@@ -58,7 +58,7 @@ Average commit performance before 1 January 2021 : 10,838 total commits | as 22 
 Average worldwide rank before 1 January 2021 : #3 | as 22 April 2020 <br />
 <br />
 Average speed performance needed to be #1 before 1 January 2021 : 80 commits per day | 2,400‬ commits per month <br />
-GitHub vs current speed performance percentage : 8% <br />
+Current speed performance vs GitHub : 30% <br />
 <br />
 ### Total topic : 39
 ### Total sub topic : 169

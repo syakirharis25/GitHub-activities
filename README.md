@@ -42,27 +42,27 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 
 # Current worldwide rank : #15 as of 21 April 2020
 22 April 2020 | Wednesday; <br />
-Continuous counter : 24 |  **value**  <br />
-Total : 24 | Count : 1 | Maximum : 24 | Minimum : 24 | Average : 24 <br />
+Continuous counter : 24 | 8 | <br />
+Total : 24 | Count : 1 | Maximum : 24 | Minimum : 8 | Average : 16 <br />
 <br />
 23 April 2020 | Thursday; <br />
 Continuous counter : **value** |  **value**  <br />
 Total : **value** | Count : **value** | Maximum : **value** | Minimum : **value** | Average : **value** <br />
 <br />
-Average speed performance before 1 May 2020 : 192 commits per month <br />
-Average commit performance before 1 May 2020 : 4,934 total commits <br />
-Average worldwide rank before 1 May 2020 : #14 <br />
+Average speed performance before 1 May 2020 : 192 commits per month | as 22 April 2020 <br />
+Average commit performance before 1 May 2020 : 4,934 total commits | as 22 April 2020 <br />
+Average worldwide rank before 1 May 2020 : #14 | as 22 April 2020 <br />
 <br />
-Average speed performance before 1 January 2021 : 6,096 commits per year <br />
-Average commit performance before 1 January 2021 : 10,838 total commits <br />
-Average worldwide rank before 1 January 2021 : #3 <br />
+Average speed performance before 1 January 2021 : 6,096 commits per year | as 22 April 2020 <br />
+Average commit performance before 1 January 2021 : 10,838 total commits | as 22 April 2020 <br />
+Average worldwide rank before 1 January 2021 : #3 | as 22 April 2020 <br />
 <br />
 Average speed performance needed to be #1 before 1 January 2021 : 80 commits per day <br />
 <br />
 ### Total topic : 39
 ### Total sub topic : 169
-### Total commit in GitHub : 4,742 ( last counter : 4,718 | differences : 48 | 56 | 69 | 29 | 27 | 21 | 24 ) 
-### Total commit year 2020 : 4,116 ( last counter : 4,092 | differences : 48‬ | 56 | 69 | 29 | 27 | 21 | 24 ) 
+### Total commit in GitHub : 4,750‬ ( last counter : 4,742 | differences : 48 | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 
+### Total commit year 2020 : 4,124 ( last counter : 4,116 | differences : 48‬ | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 
 ### Total commit year 2019 : 396
 ### Total commit year 2018 : 0
 ### Total commit year 2017 : 230

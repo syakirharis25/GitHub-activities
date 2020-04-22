@@ -44,6 +44,7 @@ It all started when I saw a presentation about **dinosaur** on a computer, curre
 22 April 2020 | Wednesday; <br />
 Continuous counter : **value** |  **value**  <br />
 Total : **value** | Count : **value** | Maximum : **value**| Minimum : **value** | Average : **value** <br />
+<br />
 23 April 2020 | Thursday; <br />
 Continuous counter : **value** |  **value**  <br />
 Total : **value** | Count : **value** | Maximum : **value**| Minimum : **value** | Average : **value** <br />

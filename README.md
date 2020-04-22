@@ -49,7 +49,7 @@ Total : 24 | Count : 1 | Maximum : 24 | Minimum : 24 | Average : 24 <br />
 Continuous counter : **value** |  **value**  <br />
 Total : **value** | Count : **value** | Maximum : **value** | Minimum : **value** | Average : **value** <br />
 <br />
-Average speed performance for 30 April 2020 : 192 commit per month <br />
+Average speed performance for 30 April 2020 : 192 commits per month <br />
 Average commit performance for 30 April 2020 : 4,934 total commits <br />
 
 ### Total topic : 39

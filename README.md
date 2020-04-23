@@ -67,7 +67,7 @@ Total : 39 seconds 950 milliseconds | Count : 3 | Maximum : 22 seconds 565 milli
 <br />
 Current speed performance of machine boot time; <br />
 Continuous counter : 2 minutes 53 seconds 72 milliseconds | draft <br /> 
-Total : 32 minutes 53 seconds 72 milliseconds | Count : 1 | Maximum : 2 minutes 53 seconds 72 milliseconds | Minimum :2 minutes 53 seconds 72 milliseconds | Average : 2 minutes 53 seconds 72 milliseconds <br />
+Total : 32 minutes 53 seconds 72 milliseconds | Count : 1 | Maximum : 2 minutes 53 seconds 72 milliseconds | Minimum : 2 minutes 53 seconds 72 milliseconds | Average : 2 minutes 53 seconds 72 milliseconds <br />
 <br />
 Current speed performance of IDE initializing : 23 seconds <br />
 

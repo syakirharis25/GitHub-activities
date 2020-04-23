@@ -61,12 +61,15 @@ Average speed performance needed to be #1 before 1 January 2021 : 80 commits per
 Current speed performance vs GitHub : 30% | at least count once every 2 days, within 48 hours before 00:00:00 UTC the next day<br />
 Coordinated Universal; UTC Time TIME IS ALWAYS DISPLAYED AS 24 HOURS : https://www.time.gov <br />
 <br />
-Current speed performance per execution <br /> 
+Current speed performance per execution; <br /> 
 Continuous counter : 22 seconds 565 milliseconds | 10 seconds 976 milliseconds | 6 seconds 409 milliseconds <br /> 
 Total : 39 seconds 950 milliseconds | Count : 3 | Maximum : 22 seconds 565 milliseconds | Minimum : 6 seconds 409 milliseconds | Average : 13 seconds 317 milliseconds <br />
 <br />
+Current speed performance of machine boot time; <br />
+Continuous counter : 2 minutes 53 seconds 72 milliseconds | draft <br /> 
+Total : 32 minutes 53 seconds 72 milliseconds | Count : 1 | Maximum : 2 minutes 53 seconds 72 milliseconds | Minimum :2 minutes 53 seconds 72 milliseconds | Average : 2 minutes 53 seconds 72 milliseconds <br />
+<br />
 Current speed performance of IDE initializing : 23 seconds <br />
-Current speed performance of machine boot time : 2 minutes 53 seconds 72 milliseconds <br />
 
 ### Total topic : 39
 ### Total sub topic : 169

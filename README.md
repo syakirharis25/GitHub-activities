@@ -75,8 +75,8 @@ Total : 32 minutes 53 seconds 72 milliseconds | Count : 1 | Maximum : 2 minutes 
 <br />
 Current speed performance of IDE initializing : 23 seconds <br />
 
-### Total topic : 39
-### Total sub topic : 169
+#### Total topic : 39
+#### Total sub topic : 169
 ### Total commit in GitHub : 4,750‬ ( last counter : 4,742 | differences : 48 | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 
 ### Total commit year 2020 : 4,124 ( last counter : 4,116 | differences : 48‬ | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 
 ### Total commit year 2019 : 396

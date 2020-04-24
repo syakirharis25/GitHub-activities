@@ -77,38 +77,37 @@ Current speed performance of IDE initializing : 23 seconds <br />
 
 #### Total topic : 39
 #### Total sub topic : 169
-### Total commit in GitHub : 4,750‬ ( last counter : 4,742 | differences : 48 | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 
-### Total commit year 2020 : 4,124 ( last counter : 4,116 | differences : 48‬ | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 
-### Total commit year 2019 : 396
-### Total commit year 2018 : 0
-### Total commit year 2017 : 230
-### Total region : 61 = Africa : 24 | America : 10 | Asia : 19 | Europe : 6
-### Total books : 6
-### Total containerization : 1
-### Total data format : 1
-### Total database : 4
-### Total developers : 117
-### Total environment : 1
-### Total forge : 1
-### Total framework : 12
-### Total integrated development environment : 4
-### Total interface : 2
-### Total language : 24
-### Total library : 5
-### Total operating system : 7
-### Total package manager : 3
-### Total specification : 1
-### Total text editor : 6
-### Total tools : 4
-### Total utility : 1
-### Total version control system : 1
-### Total web browser : 1
-### Total web server : 1
-### Total lines of code : 10,139,504 | FIREFOX ( last counter : 10,004,870| differences : 134,569 | 36 )
+#### Total commit in GitHub : 4,750‬ ( last counter : 4,742 | differences : 48 | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 
+#### Total commit year 2020 : 4,124 ( last counter : 4,116 | differences : 48‬ | 56 | 69 | 29 | 27 | 21 | 24 | 8 ) 
+#### Total commit year 2019 : 396
+#### Total commit year 2018 : 0
+#### Total commit year 2017 : 230
+#### Total region : 61 = Africa : 24 | America : 10 | Asia : 19 | Europe : 6
+#### Total books : 6
+#### Total containerization : 1
+#### Total data format : 1
+#### Total database : 4
+#### Total developers : 117
+#### Total environment : 1
+#### Total forge : 1
+#### Total framework : 12
+#### Total integrated development environment : 4
+#### Total interface : 2
+#### Total language : 24
+#### Total library : 5
+#### Total operating system : 7
+#### Total package manager : 3
+#### Total specification : 1
+#### Total text editor : 6
+#### Total tools : 4
+#### Total utility : 1
+#### Total version control system : 1
+#### Total web browser : 1
+#### Total web server : 1
+#### Total lines of code : 10,139,504 | FIREFOX ( last counter : 10,004,870| differences : 134,569 | 36 )
+#### TOTAL POPULATION : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
 
-### TOTAL POPULATION : 1,247,502,193 (last counter : 970,532,434 | differences : 276,969,759‬ )
-
-### Current active repository : IntelliJ IDEA
+#### Current active repository : IntelliJ IDEA
 
 ---
 

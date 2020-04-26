@@ -48,6 +48,11 @@ Currently, California holds the #1 rank the richest, wealthiest state in the Uni
 
 **Teamwork makes the dream work, but hard work makes the dreams come true, dreams don't work unless you do.**
 
+# Important dates
+Bitcoin : year 2140 <br />
+PHP 8 : 3 December 2020 <br />
+Java 15 : 15 September 2020 <br />
+
 # Current worldwide rank : #15 as of 21 April 2020
 22 April 2020 | Wednesday; <br />
 Continuous counter : 24 | 8 | <br />
